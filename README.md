@@ -134,11 +134,11 @@ The extraction pipeline:
 
 ### All‑Rounder Impact Score
 
-To fairly compare all‑rounders, a balanced score was created:
+To fairly compare all‑rounders, a balanced score was created:  
 
-Batting Impact = (Player Runs / Max Runs) × 50
-Bowling Impact = (Player Wickets / Max Wickets) × 50
-All‑Rounder Score = Batting Impact + Bowling Impact
+Batting Impact = (Player Runs / Max Runs) × 50  
+Bowling Impact = (Player Wickets / Max Wickets) × 50  
+All‑Rounder Score = Batting Impact + Bowling Impact  
 
 
 **Top All‑Rounders**

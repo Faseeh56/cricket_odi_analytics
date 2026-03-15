@@ -19,27 +19,27 @@ It processes **1.6+ million deliveries**, calculates comprehensive batting and b
 
 ## 📂 Repository Structure
 cricket-data-analytics/
-│
-├── data/
-│ ├── raw/ # Original JSON files 
-│ └── processed/ # Cleaned CSV files
-│
-├── notebooks/
-│ ├── 01_data_extraction.ipynb
-│ ├── 02_batting_analytics.ipynb
-│ ├── 03_bowling_analytics.ipynb
-│ └── 04_all_rounder_analytics.ipynb
-| └── 04_wicket_keepers_analytics.ipynb
-│
-├── output/
-│ ├── batting_stats.csv
-│ ├── bowling_stats.csv
-│ ├── allrounder_stats.csv
-│ ├── wicketkeeper_stats.csv
-│ └── Visuals/ 
-│
-├── README.md
-└── .gitignore
+│  
+├── data/  
+│ ├── raw/ # Original JSON files   
+│ └── processed/ # Cleaned CSV files  
+│  
+├── notebooks/  
+│ ├── 01_data_extraction.ipynb  
+│ ├── 02_batting_analytics.ipynb  
+│ ├── 03_bowling_analytics.ipynb  
+│ └── 04_all_rounder_analytics.ipynb  
+| └── 04_wicket_keepers_analytics.ipynb  
+│  
+├── output/  
+│ ├── batting_stats.csv  
+│ ├── bowling_stats.csv  
+│ ├── allrounder_stats.csv  
+│ ├── wicketkeeper_stats.csv  
+│ └── Visuals/   
+│  
+├── README.md  
+└── .gitignore  
 
 ---
 

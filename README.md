@@ -1,365 +1,236 @@
-🏏 Cricket Data Analytics Project
+## 📊 End‑to‑End ODI Cricket Analysis Using Python
 
-📊 End-to-End ODI Cricket Analysis Using Python
+This project transforms **raw ball‑by‑ball JSON data** from **3,099 ODI matches** into meaningful performance insights.  
+It processes **1.6+ million deliveries**, calculates comprehensive batting and bowling statistics, builds advanced player metrics, and selects a **data‑driven All‑Time ODI XI**.
 
-This project presents a comprehensive cricket data analytics system built using Python.
+---
 
-It processes 1.6+ million ball-by-ball deliveries from 3,099 ODI matches and transforms raw JSON match data into meaningful performance insights.
+## 🚀 Project Highlights
 
-The project covers data engineering, statistical analysis, advanced player metrics, and visualization to identify the greatest ODI performers of all time.
+- Processed **1,639,277 ball‑by‑ball deliveries**
+- Analyzed **3,099 ODI matches** (2002 – present)
+- Computed career stats for **2,505 batters** and **1,925 bowlers**
+- Developed an **All‑Rounder Impact Score**
+- Ranked **wicketkeepers** by a combined batting‑keeping score
+- Generated **7+ analytical visualizations**
+- Created a **data‑driven All‑Time ODI XI**
 
-🚀 Project Highlights
+---
 
-✔ Processed 1,639,277 ball-by-ball deliveries
-
-✔ Analyzed 3,099 ODI matches
-
-✔ Computed career batting and bowling statistics
-
-✔ Built All-Rounder Impact Score
-
-✔ Ranked Wicketkeepers based on dismissals
-
-✔ Generated 7+ analytical visualizations
-
-✔ Created a data-driven All-Time ODI XI
-
-📂 Project Structure
-
+## 📂 Repository Structure
 cricket-data-analytics/
-
 │
-
 ├── data/
-
-│ ├── raw_json_matches
-
-│ └── processed_dataset.csv
-
+│ ├── raw/ # Original JSON files 
+│ └── processed/ # Cleaned CSV files
 │
-
 ├── notebooks/
-
-│ ├── batting_analysis.ipynb
-
-│ ├── bowling_analysis.ipynb
-
-│ └── allrounder_analysis.ipynb
-
+│ ├── 01_data_extraction.ipynb
+│ ├── 02_batting_analytics.ipynb
+│ ├── 03_bowling_analytics.ipynb
+│ └── 04_all_rounder_analytics.ipynb
+| └── 04_wicket_keepers_analytics.ipynb
 │
-
-├── visualizations/
-
-│ ├── top_run_scorers.png
-
-│ ├── top_wicket_takers.png
-
-│ ├── batting_quadrant_chart.png
-
-│ └── bowling_quadrant_chart.png
-
+├── output/
+│ ├── batting_stats.csv
+│ ├── bowling_stats.csv
+│ ├── allrounder_stats.csv
+│ ├── wicketkeeper_stats.csv
+│ └── Visuals/ 
 │
-
-├── docs/
-
-│ └── project_documentation.pdf
-
-│
-
-└── README.md
-
-📊 Dataset
-
-Dataset Source: Cricsheet ODI Ball-by-Ball Data
-
-Key dataset statistics:
-
-Metric Value
-
-Total Matches 3,099
-
-Total Deliveries 1,639,277
-
-Total Batters 2,505
-
-Total Bowlers 1,925
-
-Total Wickets 44,877
-
-Each delivery contains detailed information including:
-
-Batter
-
-Bowler
-
-Runs scored
-
-Extras
-
-Wicket type
-
-Fielders involved
-
-Over and ball number
-
-⚙️ Data Engineering Pipeline
-
-Raw JSON match files contain nested structures for innings, overs, and deliveries.
-
-The pipeline performs:
-
-1️⃣ JSON parsing
-
-2️⃣ Ball-by-ball extraction
-
-3️⃣ Feature engineering
-
-4️⃣ Dataset structuring
-
-Workflow
-
-Raw JSON Match Files
-
-↓
-
-Python Data Extraction
-
-↓
-
-Data Cleaning
-
-↓
-
-Feature Engineering
-
-↓
-
-Structured Dataset
-
-↓
-
-Analytics & Visualization
-
-📈 Batting Analytics
-
-Batting metrics computed:
-
-Total Runs
-
-Balls Faced
-
-Batting Average
-
-Strike Rate
-
-Fours
-
-Sixes
-
-Half Centuries
-
-Centuries
-
-🏏 Top Run Scorers
-
-Rank Player Runs
-
-1 Virat Kohli 14,675
-
-2 Kumar Sangakkara 11,640
-
-3 Rohit Sharma 11,357
-
-4 MS Dhoni 10,274
-
-5 AB de Villiers 9,435
-
-Virat Kohli dominates ODI batting with exceptional consistency and strike rate.
-
-📉 Bowling Analytics
-
-Bowling performance metrics:
-
-Wickets Taken
-
-Runs Conceded
-
-Economy Rate
-
-Bowling Average
-
-Bowling Strike Rate
-
-🎯 Top Wicket Takers
-
-Rank Player Wickets
-
-1 Lasith Malinga 343
-
-2 Brett Lee 281
-
-3 Shakib Al Hasan 279
-
-4 James Anderson 268
-
-5 Shahid Afridi 259
-
-Lasith Malinga leads the bowling charts due to his dominance in death overs.
-
-📊 Advanced Analytics
-
-All-Rounder Impact Score
-
-To evaluate all-rounders fairly, a custom Impact Score was developed.
-
-Formula:
+├── README.md
+└── .gitignore
+
+---
+
+## 📊 Dataset
+
+- **Source:** [Cricsheet](https://cricsheet.org/) – ODI Internationals
+- **Matches:** 3,099
+- **Deliveries:** 1,639,277
+- **Batters:** 2,505
+- **Bowlers:** 1,925
+- **Wickets:** 44,877
+- **Teams:** 28
+- **Super Over matches:** 9
+
+Each delivery contains:
+- Batter, bowler, non‑striker
+- Runs scored (batter & total)
+- Extras
+- Wicket information (type, player out, fielder)
+- Over and ball number
+
+---
+
+## ⚙️ Data Engineering Pipeline
+
+Raw JSON match files contain nested structures for innings, overs, and deliveries.  
+The extraction pipeline:
+
+1. Parses all JSON files
+2. Extracts every delivery into a flat row
+3. Adds derived features: `is_four`, `is_six`, `dot_ball`, `phase` (Powerplay, Middle, Death)
+4. Outputs a structured DataFrame with **21 columns**
+
+---
+
+## 📈 Batting Analytics
+
+### Metrics Calculated
+
+| Metric        | Formula                              |
+|---------------|--------------------------------------|
+| Innings       | `COUNT(DISTINCT match_id, inning)`   |
+| Runs          | `SUM(runs_batter)`                   |
+| Balls Faced   | `COUNT(*)`                           |
+| Strike Rate   | `(Runs / Balls) × 100`               |
+| Average       | `Runs / Dismissals`                  |
+| Not Outs      | `Innings - Dismissals`                |
+| Fours         | `COUNT(runs_batter = 4)`              |
+| Sixes         | `COUNT(runs_batter = 6)`              |
+| 50s / 100s    | Innings scores ≥ 50 / ≥ 100           |
+| Highest Score | `MAX(innings score)`                  |
+
+### Top Run‑Scorers
+
+| Rank | Player              | Runs    |
+|------|---------------------|---------|
+| 1    | Virat Kohli         | 14,675  |
+| 2    | Kumar Sangakkara    | 11,640  |
+| 3    | Rohit Sharma        | 11,357  |
+| 4    | MS Dhoni            | 10,274  |
+| 5    | AB de Villiers      |  9,435  |
+
+---
+
+## 📉 Bowling Analytics
+
+### Metrics Calculated
+
+| Metric          | Formula                            |
+|-----------------|------------------------------------|
+| Overs           | `Balls / 6`                        |
+| Economy         | `Runs Conceded / Overs`            |
+| Average         | `Runs Conceded / Wickets`          |
+| Strike Rate     | `Balls / Wickets`                  |
+| Dot Ball %      | `(Dot Balls / Balls) × 100`        |
+| 4‑wicket hauls  | `COUNT(wickets ≥ 4 in match)`      |
+| 5‑wicket hauls  | `COUNT(wickets ≥ 5 in match)`      |
+
+### Top Wicket‑Takers
+
+| Rank | Player            | Wickets |
+|------|-------------------|---------|
+| 1    | Lasith Malinga    | 343     |
+| 2    | Brett Lee         | 281     |
+| 3    | Shakib Al Hasan   | 279     |
+| 4    | James Anderson    | 268     |
+| 5    | Shahid Afridi     | 259     |
+
+---
+
+## 📊 Advanced Analytics
+
+### All‑Rounder Impact Score
+
+To fairly compare all‑rounders, a balanced score was created:
 
 Batting Impact = (Player Runs / Max Runs) × 50
-
 Bowling Impact = (Player Wickets / Max Wickets) × 50
+All‑Rounder Score = Batting Impact + Bowling Impact
 
-All-Rounder Score = Batting Impact + Bowling Impact
 
-Top All-Rounders
+**Top All‑Rounders**
 
-Rank Player Impact Score
+| Rank | Player            | Impact Score |
+|------|-------------------|--------------|
+| 1    | Shakib Al Hasan   | 70.29        |
+| 2    | TM Dilshan        | 58.95        |
+| 3    | Mohammad Hafeez   | 54.60        |
+| 4    | Shahid Afridi     | 53.78        |
+| 5    | Shane Watson      | 53.52        |
 
-1 Shakib Al Hasan 70.29
+### Wicketkeeper Ranking
 
-2 Tillakaratne Dilshan 58.95
+Keepers were evaluated on a 50‑50 split between batting and keeping (catches + stumpings).
 
-3 Mohammad Hafeez 54.60
+| Rank | Player            | Runs   | Dismissals | Keeper Score |
+|------|-------------------|--------|------------|--------------|
+| 1    | KC Sangakkara     | 11,640 | 399        | 96.83        |
+| 2    | MS Dhoni          | 10,274 | 426        | 94.13        |
+| 3    | Mushfiqur Rahim   |  7,096 | 263        | 61.35        |
+| 4    | Q de Kock         |  7,014 | 225        | 56.54        |
+| 5    | AC Gilchrist      |  4,355 | 205        | 42.76        |
 
-4 Shahid Afridi 53.78
+---
 
-5 Shane Watson 53.52
+## 🖼️ Visualizations
 
-🧤 Wicketkeeper Analysis
+The project includes:
+- **Top Run‑Scorers & Wicket‑Takers** – bar charts
+- **Batting Average vs. Strike Rate Quadrant** – identifies elite batters
+- **Bowling Economy vs. Average Quadrant** – identifies elite bowlers
+- **All‑Rounder Impact Comparison**
+- **Phase Analysis** – runs & wickets in Powerplay, Middle, Death overs
 
-Wicketkeepers were evaluated based on:
 
-Batting performance
+---
 
-Catches
+## 🏆 All‑Time ODI XI (Data‑Driven)
 
-Stumpings
+| Pos | Player            | Role                |
+|-----|-------------------|---------------------|
+| 1   | Rohit Sharma      | Opener              |
+| 2   | Quinton de Kock   | Opener              |
+| 3   | Virat Kohli       | Anchor              |
+| 4   | AB de Villiers    | Power Middle        |
+| 5   | Kumar Sangakkara  | Middle Order        |
+| 6   | MS Dhoni (c/wk)   | Finisher            |
+| 7   | Shakib Al Hasan   | All‑Rounder         |
+| 8   | Shane Watson      | All‑Rounder         |
+| 9   | Lasith Malinga    | Fast Bowler         |
+| 10  | Mitchell Starc    | Fast Bowler         |
+| 11  | Brett Lee         | Fast Bowler         |
 
-Total dismissals
+---
 
-Top Wicketkeepers
+## 🔑 Key Insights
 
-Player Total Dismissals
+- **Virat Kohli** is the most consistent batter (14,675 runs @ 58.47, 54 centuries).
+- Only **5% of batters** fall into the elite quadrant (avg > 45, SR > 90).
+- **Lasith Malinga** leads all bowlers with 343 wickets, excelling in death overs.
+- **Shakib Al Hasan** is the most impactful all‑rounder; only 12 players have 5,000+ runs and 200+ wickets.
+- **MS Dhoni** has the most stumpings (118) – nearly double any other keeper.
+- Death overs produce **7.8 RPO** vs. Powerplay **4.8 RPO**, with double the wicket rate.
 
-MS Dhoni 426
+---
 
-Kumar Sangakkara 399
+## 🛠️ Technologies Used
 
-Quinton de Kock 225
+- **Python** 3.9+
+- **Pandas** – data manipulation
+- **NumPy** – numerical operations
+- **Matplotlib & Seaborn** – visualizations
+- **Jupyter Notebook** – interactive development
 
-Adam Gilchrist 205
+---
 
-MS Dhoni leads the charts with the highest number of stumpings.
+## 🔮 Future Work
 
-📊 Visualizations
+- Predictive models for match outcomes
+- Interactive dashboard with Power BI / Tableau
+- Venue‑specific performance analysis
+- Head‑to‑head player comparisons
+- Real‑time cricket analytics
 
-The project includes several analytical charts:
+---
 
-📈 Top Run Scorers
+## 📬 Connect With Me
 
-📉 Top Wicket Takers
+- **LinkedIn:** [Faseeh Qamar](https://linkedin.com/in/m-faseeh-qamar-8b3194358)
+- **GitHub:** [Your GitHub Profile](https://github.com/Faseeh56)
 
-📊 Batting Average vs Strike Rate Quadrant
+---
 
-📊 Bowling Economy vs Average Quadrant
-
-📊 All-Rounder Impact Score Comparison
-
-These visualizations help identify elite performers and performance patterns.
-
-🏆 All-Time ODI XI (Data-Driven)
-
-Based on analytical metrics, the following All-Time ODI XI was selected.
-
-Openers
-
-Rohit Sharma
-
-Quinton de Kock
-
-Top Order
-
-Virat Kohli
-
-AB de Villiers
-
-Kumar Sangakkara
-
-Middle Order
-
-MS Dhoni (Captain & Wicketkeeper)
-
-All-Rounders
-
-Shakib Al Hasan
-
-Shane Watson
-
-Bowlers
-
-Lasith Malinga
-
-Mitchell Starc
-
-Brett Lee
-
-🔑 Key Insights
-
-📌 Virat Kohli is the most consistent ODI batter.
-
-📌 Lasith Malinga leads all bowlers in wickets.
-
-📌 Shakib Al Hasan emerges as the most impactful all-rounder.
-
-📌 Only a small percentage of batters fall into the elite performance quadrant.
-
-📌 Death overs contribute the highest scoring rates in ODI cricket.
-
-🛠 Technologies Used
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
-
-📌 Future Improvements
-
-Machine learning models for match prediction
-
-Interactive dashboards using Power BI or Tableau
-
-Venue-based performance analysis
-
-Player head-to-head comparisons
-
-Real-time cricket analytics
-
-⭐ Conclusion
-
-This project demonstrates how data analytics techniques can be applied to sports performance analysis.
-
-By processing over 1.6 million deliveries, the system extracts meaningful insights about player performance and identifies the greatest ODI players using a data-driven approach.
-
-📬 Connect With Me
-
-If you like this project or want to collaborate:
-
-LinkedIn: Add your profile link
-
-GitHub: Add your GitHub profile
+⭐ **If you like this project, give it a star on GitHub!**  

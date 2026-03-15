@@ -1,0 +1,2506 @@
+batter,team,matches,innings,dismisals,not_out,runs,balls,fours,sixes,50s,100s,highest_score,strike_rate,average
+A Aitken-Drummond,Scotland,8,8,8,0,78,114,13,0,0,0,22,68.42,9.75
+A Ashok,New Zealand,1,1,1,0,10,12,2,0,0,0,10,83.33,10.0
+A Athanaze,West Indies,17,17,17,0,405,537,46,9,2,0,66,75.42,23.82
+A Bagai,Canada,24,24,21,3,614,995,63,1,5,0,87,61.71,29.24
+A Balbirnie,Ireland,83,83,79,4,2628,3557,254,34,13,8,135,73.88,33.27
+A Beggs,Ireland,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+A Bohara,Nepal,2,2,0,0,13,14,0,0,0,0,8,92.86,inf
+A Bosch,South Africa,24,24,21,3,400,551,55,3,2,0,65,72.6,19.05
+A Brindle,England,20,20,15,5,608,893,60,0,3,1,107,68.09,40.53
+A Canning,Ireland,18,18,15,3,108,191,7,2,0,0,20,56.54,7.2
+A Capsey,England,26,26,23,3,469,627,55,1,1,0,50,74.8,20.39
+A Chopra,India,1,1,1,0,0,8,0,0,0,0,0,0.0,0.0
+A Codrington,Canada,6,6,6,0,33,79,3,0,0,0,16,41.77,5.5
+A Dalzell,Ireland,5,5,3,2,35,71,2,0,0,0,19,49.3,11.67
+A Dananjaya,Sri Lanka,29,29,25,4,321,446,29,3,1,0,50,71.97,12.84
+A Das,India,1,1,1,0,1,11,0,0,0,0,1,9.09,1.0
+A Dercksen,South Africa,20,20,19,1,632,690,51,19,4,1,104,91.59,33.26
+A Dutt,Netherlands,36,36,28,8,207,359,9,8,0,0,23,57.66,7.39
+A Flintoff,England,74,74,60,14,2168,2414,213,56,11,2,123,89.81,36.13
+A Flower,Zimbabwe,7,7,7,0,332,472,30,1,3,0,71,70.34,47.43
+A Gardner,Australia,62,62,49,13,1587,1505,165,40,7,3,115,105.45,32.39
+A Hartley,England,5,5,1,4,4,28,0,0,0,0,2,14.29,4.0
+A Hlubi,South Africa,5,5,2,3,14,30,2,0,0,0,6,46.67,7.0
+A Hunter,Ireland,39,39,36,3,1130,1352,125,3,7,1,121,83.58,31.39
+A Johnson,Canada,19,19,19,0,438,460,53,23,3,0,65,95.22,23.05
+A Khaka,South Africa,44,44,25,19,144,310,14,0,0,0,18,46.45,5.76
+A King,Australia,20,20,15,5,268,287,15,16,1,0,51,93.38,17.87
+A Kolan,United States of America,7,7,7,0,155,297,16,0,0,0,43,52.19,22.14
+A Kumble,India,16,16,12,4,108,261,10,0,0,0,24,41.38,9.0
+A Lister,Scotland,9,9,9,0,213,253,27,1,0,0,47,84.19,23.67
+A Maregwede,Zimbabwe,8,8,7,1,108,182,10,1,0,0,37,59.34,15.43
+A Martin,West Indies,5,5,1,4,10,29,0,0,0,0,4,34.48,10.0
+A Mazvishaya,Zimbabwe,10,10,6,4,74,152,7,0,0,0,26,48.68,12.33
+A McGrath,England,11,11,9,2,155,342,10,0,1,0,52,45.32,17.22
+A Minny,South Africa,3,3,2,1,106,130,11,1,1,0,73,81.54,53.0
+A Mishra,India,10,10,8,2,43,87,4,0,0,0,14,49.43,5.38
+A Mithun,India,3,3,3,0,51,57,2,4,0,0,24,89.47,17.0
+A Mohammed,West Indies,36,36,25,11,232,568,23,0,0,0,31,40.85,9.28
+A Munisar,West Indies,2,2,2,0,4,24,1,0,0,0,4,16.67,2.0
+A Nao,Papua New Guinea,15,15,7,8,54,71,4,1,0,0,11,76.06,7.71
+A Ndiraya,Zimbabwe,16,16,14,2,428,624,40,0,1,0,82,68.59,30.57
+A Nehra,India,31,31,20,11,90,174,9,2,0,0,16,51.72,4.5
+A Neill,Scotland,6,6,2,4,29,43,2,0,0,0,14,67.44,14.5
+A Nel,South Africa,19,19,9,10,123,159,14,3,0,0,30,77.36,13.67
+A Nortje,South Africa,7,7,6,1,40,60,3,0,0,0,10,66.67,6.67
+A Patel,Canada,1,1,1,0,25,30,3,0,0,0,25,83.33,25.0
+A Phillip,West Indies,2,2,1,1,22,25,0,1,0,0,21,88.0,22.0
+A Rawat,India,2,2,1,1,153,188,20,2,2,0,97,81.38,153.0
+A Reddy,India,7,7,6,1,58,93,2,0,0,0,14,62.37,9.67
+A Saud,Nepal,11,11,11,0,189,401,17,4,1,0,51,47.13,17.18
+A Shahzad,England,8,8,6,2,40,62,0,3,0,0,9,64.52,6.67
+A Shamshudeen,Canada,1,1,1,0,3,30,0,0,0,0,3,10.0,3.0
+A Sharafu,United Arab Emirates,26,26,26,0,433,616,43,10,1,0,58,70.29,16.65
+A Sharma,United Arab Emirates,29,29,27,2,578,791,68,9,3,0,98,73.07,21.41
+A Shrubsole,England,32,32,22,10,199,258,21,4,0,0,32,77.13,9.05
+A Steyn,South Africa,31,31,29,2,781,1278,82,1,4,1,117,61.11,26.93
+A Sutherland,Australia,36,36,26,10,1062,1156,102,15,4,3,110,91.87,40.85
+A Suwanchonrathi,Thailand,1,1,1,0,3,4,0,0,0,0,3,75.0,3.0
+A Symonds,Australia,105,105,82,23,3589,4047,304,73,24,5,151,88.68,43.77
+A Tector,Ireland,5,5,5,0,39,63,2,0,0,0,21,61.9,7.8
+A Vala,Papua New Guinea,56,56,55,1,1783,2594,147,26,11,1,104,68.74,32.42
+A Valthapa,United Arab Emirates,1,1,1,0,14,22,1,0,0,0,14,63.64,14.0
+A Wellington,Australia,4,4,4,0,6,17,0,0,0,0,3,35.29,1.5
+A Zampa,Australia,57,57,38,19,378,591,32,2,0,0,36,63.96,9.95
+A Zimunu,Zimbabwe,8,8,6,2,68,87,3,0,0,0,21,78.16,11.33
+A le Breton,South Africa,1,1,0,0,3,6,0,0,0,0,3,50.0,inf
+A van der Merwe,Ireland,1,1,0,0,4,4,0,0,0,0,4,100.0,inf
+AA Alleyne,West Indies,43,43,33,10,534,831,60,2,0,0,44,64.26,16.18
+AA Deshpande,India,1,1,1,0,32,69,4,1,0,0,32,46.38,32.0
+AA Jangoo,West Indies,5,5,4,1,153,170,6,5,0,1,104,90.0,38.25
+AA Mulla,Canada,8,8,8,0,150,160,21,4,1,0,58,93.75,18.75
+AA Obanda,Kenya,14,14,13,1,487,704,56,8,3,0,89,69.18,37.46
+AA Paradkar,United States of America,5,5,4,1,51,85,3,1,0,0,24,60.0,12.75
+AA Shafique,Oman,1,1,1,0,13,33,2,0,0,0,13,39.39,13.0
+AAP Atkinson,England,8,8,6,2,104,81,16,2,0,0,38,128.4,17.33
+AB Agarkar,India,37,37,37,0,352,552,26,6,1,0,53,63.77,9.51
+AB Barath,West Indies,14,14,14,0,394,629,43,3,1,1,113,62.64,28.14
+AB Dinda,India,5,5,5,0,21,38,1,0,0,0,16,55.26,4.2
+AB Kaur,India,17,17,12,5,257,340,24,1,1,0,57,75.59,21.42
+AB de Villiers,South Africa,213,213,175,38,9435,9488,825,200,52,25,176,99.44,53.91
+AC Agar,Australia,18,18,13,5,322,400,28,4,0,0,48,80.5,24.77
+AC Botha,Ireland,17,17,13,4,265,419,28,2,1,0,52,63.25,20.38
+AC Cummins,Canada,3,3,1,2,21,23,2,0,0,0,9,91.3,21.0
+AC Dawson,South Africa,1,1,0,0,23,32,4,0,0,0,23,71.88,inf
+AC Evans,Scotland,11,11,7,4,66,92,6,1,0,0,22,71.74,9.43
+AC Gilchrist,Australia,118,118,112,6,4355,4260,556,75,27,7,172,102.23,38.88
+AC Jayangani,Sri Lanka,85,85,80,5,3151,4114,395,58,15,8,195,76.59,39.39
+AC Kerr,New Zealand,71,72,60,12,2131,2856,208,4,10,3,119,74.61,35.52
+AC Voges,Australia,27,27,18,9,798,956,57,7,3,1,112,83.47,44.33
+AD Hales,England,65,65,62,3,2330,2483,270,45,13,6,171,93.84,37.58
+AD Janakanthymala,Sri Lanka,2,2,1,1,1,15,0,0,0,0,1,6.67,1.0
+AD Mascarenhas,England,13,13,11,2,245,262,12,13,1,0,52,93.51,22.27
+AD Mathews,Sri Lanka,184,184,138,46,5646,6934,454,85,39,3,139,81.42,40.91
+AD Poynter,Ireland,6,6,6,0,65,134,3,2,0,0,21,48.51,10.83
+AD Russell,West Indies,47,47,38,9,1034,805,94,57,4,0,92,128.45,27.21
+ADJ Pitcher,Bermuda,1,1,1,0,8,12,0,1,0,0,8,66.67,8.0
+ADR Campbell,Zimbabwe,1,1,1,0,7,25,0,0,0,0,7,28.0,7.0
+ADS Fletcher,West Indies,23,23,23,0,305,503,36,6,2,0,54,60.64,13.26
+AE Jones,England,85,85,73,12,2593,3043,298,20,16,2,129,85.21,35.52
+AE Satterthwaite,New Zealand,66,66,56,10,2895,3618,308,10,18,6,137,80.02,51.7
+AE Smith,South Africa,1,1,1,0,45,30,3,1,0,0,45,150.0,45.0
+AF Buurman,Netherlands,2,2,2,0,26,34,4,0,0,0,26,76.47,13.0
+AF Giles,England,19,19,13,6,288,392,21,4,0,0,41,73.47,22.15
+AF Milne,New Zealand,22,22,14,8,180,211,11,4,0,0,36,85.31,12.86
+AF Sattaur,Canada,3,3,3,0,20,63,0,1,0,0,13,31.75,6.67
+AG Cremer,Zimbabwe,49,49,40,9,507,897,33,1,0,0,37,56.52,12.68
+AG Prince,South Africa,33,33,25,8,761,1126,50,4,2,0,78,67.58,30.44
+AG Puttick,South Africa,1,1,1,0,0,5,0,0,0,0,0,0.0,0.0
+AG Wharf,England,5,5,2,3,19,29,0,1,0,0,9,65.52,9.5
+AGC Vimukthi,Sri Lanka,2,2,1,1,7,28,0,0,0,0,4,25.0,7.0
+AGR Loudon,Unknown,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0
+AGS Gous,United States of America,13,14,12,2,415,484,42,12,4,0,83,85.74,34.58
+AH Maqsood,Scotland,8,8,6,2,20,50,0,0,0,0,6,40.0,3.33
+AH Thomson,Netherlands,2,2,2,0,16,37,1,0,0,0,10,43.24,8.0
+AI Chudasama,United States of America,7,7,6,1,121,173,8,0,0,0,41,69.94,20.17
+AJ Bichel,Australia,14,14,8,6,258,291,17,8,1,0,64,88.66,32.25
+AJ Blackwell,Australia,33,33,25,8,953,1258,96,4,8,0,90,75.76,38.12
+AJ Burger,Namibia,6,6,6,0,199,204,25,3,1,0,85,97.55,33.17
+AJ Finch,Australia,139,139,136,3,5188,6135,513,118,29,16,153,84.56,38.15
+AJ Hall,South Africa,28,28,21,7,387,464,30,6,2,0,56,83.41,18.43
+AJ Healy,Australia,95,95,88,7,3338,3389,473,34,16,7,170,98.5,37.93
+AJ Hosein,West Indies,30,30,21,9,309,409,18,12,1,0,60,75.55,14.71
+AJ Ireland,Zimbabwe,7,7,6,1,12,64,1,0,0,0,6,18.75,2.0
+AJ Kenealy,Ireland,6,6,7,-1,39,95,5,1,0,0,20,41.05,5.57
+AJ McKay,New Zealand,9,9,3,6,12,47,0,0,0,0,4,25.53,4.0
+AJ Redmond,New Zealand,6,6,6,0,152,266,19,0,1,0,52,57.14,25.33
+AJ Stewart,England,12,12,11,1,398,547,32,1,4,0,83,72.76,36.18
+AJ Strauss,England,112,112,107,5,3729,4732,400,25,24,5,158,78.8,34.85
+AJ Turner,Australia,7,7,6,1,192,165,10,10,1,0,84,116.36,32.0
+AJ Tye,Australia,7,7,4,3,57,48,5,2,0,0,19,118.75,14.25
+AK Maguire,Ireland,9,9,5,4,27,41,2,0,0,0,10,65.85,5.4
+AK Markram,South Africa,76,76,70,6,2539,2646,263,57,12,4,175,95.96,36.27
+AK Perera,Sri Lanka,4,4,4,0,52,83,3,0,0,0,31,62.65,13.0
+AK Peters,West Indies,4,4,4,0,6,29,0,0,0,0,4,20.69,1.5
+AK Sah,Nepal,14,14,12,2,322,382,34,12,3,1,112,84.29,26.83
+AL Hodgkinson,South Africa,3,3,3,0,121,169,9,0,1,0,71,71.6,40.33
+AL Kandappah,Canada,2,2,1,1,97,159,4,3,1,0,69,61.01,97.0
+AL Phehlukwayo,South Africa,52,52,37,15,827,996,74,32,2,0,69,83.03,22.35
+AL Watkins,New Zealand,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+AM Bacher,South Africa,5,5,5,0,102,181,12,0,1,0,56,56.35,20.4
+AM Blignaut,Zimbabwe,20,20,19,1,284,264,33,5,3,0,58,107.58,14.95
+AM Ellis,New Zealand,12,12,11,1,154,189,10,2,0,0,33,81.48,14.0
+AM Fernando,Sri Lanka,10,10,4,6,7,32,0,0,0,0,3,21.88,1.75
+AM Guruge,United Arab Emirates,2,2,0,0,14,26,1,0,0,0,10,53.85,inf
+AM Hardie,Australia,12,12,12,0,180,227,16,2,0,0,44,79.3,15.0
+AM McCarthy,West Indies,2,2,2,0,15,41,1,0,0,0,12,36.59,7.5
+AM Nayar,India,1,1,0,0,0,7,0,0,0,0,0,0.0,0.0
+AM Peterson,New Zealand,12,12,9,3,167,211,14,3,0,0,46,79.15,18.56
+AM Phangiso,South Africa,12,12,11,1,81,164,5,0,0,0,20,49.39,7.36
+AM Rahane,India,86,86,83,3,2906,3812,289,33,23,3,111,76.23,35.01
+AM Samad,Canada,10,10,9,1,226,382,23,1,0,0,44,59.16,25.11
+AM Tribe,Jersey,4,4,3,1,233,310,16,6,1,1,115,75.16,77.67
+AN Cook,England,91,91,87,4,3204,4238,363,10,19,5,137,75.6,36.83
+AN Davidson-Richards,England,7,7,4,3,160,193,9,1,2,0,53,82.9,40.0
+AN Kelly,Ireland,33,33,28,5,422,652,35,1,0,0,35,64.72,15.07
+AN Kervezee,Netherlands,9,9,9,0,110,204,13,0,0,0,18,53.92,12.22
+AN Petersen,South Africa,18,18,17,1,498,610,53,3,4,0,80,81.64,29.29
+AO Suji,Kenya,6,6,5,1,42,93,4,0,0,0,15,45.16,8.4
+AP Devcich,New Zealand,11,11,11,0,195,262,25,0,1,0,58,74.43,17.73
+APC Kilowan,South Africa,1,1,1,0,21,17,1,1,0,0,21,123.53,21.0
+APS Lakshika,Sri Lanka,1,1,1,0,0,4,0,0,0,0,0,0.0,0.0
+AR Adams,New Zealand,12,12,11,1,165,154,11,10,0,0,36,107.14,15.0
+AR Berenger,United Arab Emirates,6,6,6,0,53,115,7,0,0,0,22,46.09,8.83
+AR Bisht,Oman,2,2,1,1,15,26,1,0,0,0,11,57.69,15.0
+AR Caddick,England,10,10,3,7,64,118,3,1,0,0,14,54.24,21.33
+AR Cusack,Ireland,23,23,15,8,264,422,23,2,0,0,47,62.56,17.6
+AR McBrine,Ireland,47,47,35,12,812,1110,82,14,2,0,79,73.15,23.2
+AR Nurse,West Indies,35,35,25,10,454,464,40,12,0,0,44,97.84,18.16
+AR Odedara,Oman,5,5,4,1,137,325,12,2,1,0,54,42.15,34.25
+AR Patel,India,49,49,37,12,858,969,53,31,3,0,64,88.54,23.19
+AR Pitcher,Bermuda,1,1,1,0,30,55,2,1,0,0,30,54.55,30.0
+AR White,Ireland,23,23,23,0,301,498,23,0,0,0,40,60.44,13.09
+ARI Umeed,Scotland,4,4,3,1,138,139,18,3,1,0,98,99.28,46.0
+AS Hansra,Canada,14,14,12,2,295,538,20,6,2,0,70,54.83,24.58
+AS Joseph,West Indies,44,44,29,15,461,623,35,21,0,0,49,74.0,15.9
+AS Luseno,Kenya,2,2,1,1,0,3,0,0,0,0,0,0.0,0.0
+AS Tanke,Netherlands,2,2,2,0,41,89,5,0,0,0,41,46.07,20.5
+AS van Beuge,Netherlands,7,7,7,0,68,196,3,0,0,0,30,34.69,9.71
+ASS Fletcher,West Indies,46,46,34,12,358,522,34,1,0,0,36,68.58,10.53
+AT Carey,Australia,77,77,64,13,2245,2533,213,24,13,1,106,88.63,35.08
+AT Nidamanuru,Netherlands,37,37,33,4,893,1003,60,31,4,2,111,89.03,27.06
+AT Rayudu,India,49,49,35,14,1637,2143,141,26,9,3,124,76.39,46.77
+ATS Silva,United Arab Emirates,1,1,0,0,1,1,0,0,0,0,1,100.0,inf
+AU Rashid,England,81,81,55,26,941,1041,92,14,1,0,69,90.39,17.11
+AV Lalcheta,Oman,2,2,2,0,18,49,1,0,0,0,12,36.73,9.0
+AWJ Auguste,West Indies,4,4,4,0,56,83,5,2,0,0,22,67.47,14.0
+AY Karim,Kenya,2,2,0,0,0,2,0,0,0,0,0,0.0,0.0
+Aaditya Varadarajan,Canada,3,3,3,0,36,66,1,0,0,0,25,54.55,12.0
+Aamer Jamal,Pakistan,2,2,0,0,5,9,1,0,0,0,5,55.56,inf
+Aamer Yamin,Pakistan,3,3,1,2,95,101,8,5,1,0,62,94.06,95.0
+Aamir Kaleem,Oman,13,13,13,0,160,271,21,3,0,0,32,59.04,12.31
+Aarif Sheikh,Nepal,52,52,46,6,1319,2040,96,10,9,0,84,64.66,28.67
+Aaron Jones,United States of America,51,51,48,3,1620,2287,114,32,11,1,123,70.84,33.75
+Aasif Sheikh,Nepal,60,60,55,5,1578,2153,185,15,12,1,110,73.29,28.69
+Aayan Afzal Khan,United Arab Emirates,34,34,26,8,595,829,55,13,3,0,94,71.77,22.88
+Abdul Jabbar,Canada,2,2,2,0,59,86,9,1,0,0,44,68.6,29.5
+Abdul Razzaq,Pakistan,100,100,70,30,2327,2689,174,67,9,2,109,86.54,33.24
+Abdul Samad,Pakistan,1,1,1,0,0,6,0,0,0,0,0,0.0,0.0
+Abdul Shakoor,United Arab Emirates,2,2,2,0,34,66,2,1,0,0,24,51.52,17.0
+Abdullah Shafique,Pakistan,26,26,24,2,679,899,62,17,5,1,113,75.53,28.29
+Abdur Razzak,Bangladesh,79,79,52,27,644,880,47,17,1,0,53,73.18,12.38
+Abdur Rehman,Pakistan,22,22,16,6,132,234,10,1,0,0,31,56.41,8.25
+Abid Ali,Pakistan,6,6,6,0,234,257,29,0,1,1,112,91.05,39.0
+Abrar Ahmed,Pakistan,5,5,2,3,28,30,5,0,0,0,23,93.33,14.0
+Abul Hasan,Bangladesh,3,3,3,0,11,16,1,0,0,0,7,68.75,3.67
+Adeel Raja,Netherlands,5,5,4,1,13,76,1,0,0,0,8,17.11,3.25
+Adnan Akmal,Pakistan,4,4,3,1,62,92,3,0,0,0,27,67.39,20.67
+Adnan Mufti,United Arab Emirates,15,15,11,4,328,413,27,1,1,0,57,79.42,29.82
+Afif Hossain,Bangladesh,24,24,21,3,548,631,52,9,2,0,85,86.85,26.1
+Aftab Ahmed,Bangladesh,55,55,51,4,1061,1451,116,22,5,0,81,73.12,20.8
+Afzaal Haider,Hong Kong,1,1,1,0,0,10,0,0,0,0,0,0.0,0.0
+Agha Salman,Pakistan,37,37,30,7,1309,1403,113,22,8,2,134,93.3,43.63
+Ahmed Raza,United Arab Emirates,36,36,30,6,391,645,28,8,1,0,50,60.62,13.03
+Ahmed Shehzad,Pakistan,80,80,79,1,2555,3623,262,18,13,6,124,70.52,32.34
+Ahsan Malik,Netherlands,2,2,0,0,4,12,0,0,0,0,3,33.33,inf
+Aijaz Ali,United States of America,2,2,2,0,5,11,1,0,0,0,4,45.45,2.5
+Aiman Anwer,Pakistan,5,5,4,1,15,20,1,0,0,0,10,75.0,3.75
+Aizaz Cheema,Pakistan,6,6,3,3,26,45,2,0,0,0,9,57.78,8.67
+Aizaz Khan,Hong Kong,10,10,9,1,143,216,12,5,0,0,44,66.2,15.89
+Akeem Jordan,West Indies,1,1,0,0,3,6,0,0,0,0,3,50.0,inf
+Akhil Kumar,Canada,4,4,3,1,26,39,2,1,0,0,15,66.67,8.67
+Akif Javed,Pakistan,3,3,2,1,10,14,2,0,0,0,8,71.43,5.0
+Akif Raja,Unknown,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0
+Akram Khan,Bangladesh,2,2,2,0,57,102,3,0,0,0,44,55.88,28.5
+Akshay Homraj,United States of America,8,8,8,0,159,230,9,4,0,0,44,69.13,19.88
+Al Maseera Jahangir,United Arab Emirates,3,3,3,0,31,72,2,0,0,0,12,43.06,10.33
+Al Sahariar,Bangladesh,6,6,6,0,44,102,5,1,0,0,14,43.14,7.33
+Al-Amin Hossain,Bangladesh,6,6,2,4,4,20,0,0,0,0,2,20.0,2.0
+Alawi Shukri,United Arab Emirates,1,1,1,0,1,3,0,0,0,0,1,33.33,1.0
+Ali Khan,United States of America,9,9,7,2,20,35,1,0,0,0,6,57.14,2.86
+Ali Nadeem,Canada,3,3,3,0,69,114,7,2,0,0,46,60.53,23.0
+Ali Naseer,United Arab Emirates,17,17,15,2,396,399,34,18,3,0,61,99.25,26.4
+Aliya Riaz,Pakistan,67,69,57,12,1535,2363,145,20,10,0,81,64.96,26.93
+Alok Kapali,Bangladesh,37,37,36,1,613,910,51,8,1,1,115,67.36,17.03
+Aman Ali,United Arab Emirates,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+Amir Hayat,United Arab Emirates,5,5,3,2,31,74,1,1,0,0,24,41.89,10.33
+Amjad Ali,United Arab Emirates,10,10,10,0,249,387,33,0,1,0,77,64.34,24.9
+Amjad Javed,United Arab Emirates,12,12,11,1,238,267,27,9,1,0,56,89.14,21.64
+Anam Amin,Pakistan,11,11,6,5,28,105,1,0,0,0,11,26.67,4.67
+Anamul Haque,Bangladesh,44,44,44,0,1322,1785,132,27,5,3,120,74.06,30.05
+Ankur Sharma,Hong Kong,1,1,1,0,16,31,1,0,0,0,16,51.61,16.0
+Anop Santosh,Canada,1,1,1,0,2,9,0,0,0,0,2,22.22,2.0
+Ansh Tandon,United Arab Emirates,1,1,1,0,10,18,1,0,0,0,10,55.56,10.0
+Anshuman Rath,Hong Kong,12,12,11,1,393,539,36,3,3,0,85,72.91,35.73
+Anwar Ali,Pakistan,15,15,10,5,300,339,27,7,0,0,43,88.5,30.0
+Aqib Ilyas,Oman,29,29,27,2,1191,1648,113,12,9,2,109,72.27,44.11
+Arafat Sunny,Bangladesh,10,10,3,7,48,94,5,0,0,0,15,51.06,16.0
+Arshad Ali,United Arab Emirates,2,2,2,0,47,90,5,0,0,0,41,52.22,23.5
+Arshad Khan,Pakistan,2,2,0,0,14,17,1,0,0,0,12,82.35,inf
+Arshdeep Singh,India,9,9,8,1,56,53,4,3,0,0,18,105.66,7.0
+Aryan Lakra,United Arab Emirates,16,16,16,0,387,681,35,4,4,0,84,56.83,24.19
+Asad Ali,Pakistan,2,2,2,0,13,16,0,1,0,0,11,81.25,6.5
+Asad Shafiq,Pakistan,56,56,52,4,1312,1986,102,5,9,0,84,66.06,25.23
+Ashfaq Ahmed,United Arab Emirates,15,15,15,0,343,395,38,9,2,0,92,86.84,22.87
+Asif Ali,Pakistan,15,15,14,1,375,317,22,20,3,0,52,118.3,26.79
+Asif Iqbal (1),United Arab Emirates,1,1,1,0,8,8,2,0,0,0,8,100.0,8.0
+Asif Khan,United Arab Emirates,37,37,33,4,1270,1606,103,42,7,3,151,79.08,38.48
+Asmavia Iqbal,Pakistan,22,22,17,5,225,430,23,0,0,0,38,52.33,13.24
+Avesh Khan,India,4,4,3,1,23,30,2,1,0,0,10,76.67,7.67
+Ayan Khan,Oman,35,35,34,1,948,1294,87,15,4,1,105,73.26,27.88
+Ayasha Rahman,Bangladesh,3,3,3,0,122,209,13,0,1,0,70,58.37,40.67
+Ayesha Naseem,Pakistan,4,4,4,0,33,40,2,2,0,0,16,82.5,8.25
+Ayesha Zafar,Pakistan,30,30,29,1,587,966,72,0,4,0,81,60.77,20.24
+Azhar Ali,Pakistan,52,52,49,3,1806,2478,164,14,12,3,102,72.88,36.86
+Azhar Mahmood,Pakistan,9,9,6,3,126,164,9,4,0,0,30,76.83,21.0
+B Bezuidenhout,New Zealand,13,13,13,0,266,370,26,0,1,0,86,71.89,20.46
+B Bhandari,Nepal,13,13,13,0,265,443,24,3,1,0,59,59.82,20.38
+B Biza,Zimbabwe,12,12,11,1,270,460,23,0,1,0,64,58.7,24.55
+B Cooper,West Indies,18,18,16,2,339,581,35,4,1,0,55,58.35,21.19
+B Evans,Zimbabwe,15,15,12,3,129,160,10,2,0,0,33,80.62,10.75
+B Fernando,Sri Lanka,3,3,3,0,26,37,4,0,0,0,17,70.27,8.67
+B Geeves,Australia,1,1,0,0,10,11,1,0,0,0,10,90.91,inf
+B Kumar,India,53,53,39,14,552,768,46,8,1,0,53,71.88,14.15
+B Laughlin,Australia,1,1,0,0,1,9,0,0,0,0,1,11.11,inf
+B Lee,Australia,76,76,50,26,865,1087,51,24,2,0,59,79.58,17.3
+B Leephatthana,Thailand,3,3,3,0,30,66,4,0,0,0,26,45.45,10.0
+B Mavuta,Zimbabwe,10,10,8,2,92,108,10,1,0,0,28,85.19,11.5
+B Muzarabani,Zimbabwe,32,32,20,12,115,214,9,3,0,0,17,53.74,5.75
+B Regmi,Nepal,2,2,2,0,12,30,2,0,0,0,12,40.0,6.0
+B Sai Sudharsan,India,3,3,2,1,127,144,17,1,2,0,62,88.19,63.5
+B Sharki,Nepal,33,33,30,3,985,1477,95,7,4,1,101,66.69,32.83
+B Shikongo,Namibia,14,14,4,10,22,63,1,0,0,0,4,34.92,5.5
+B Siddharth,Oman,3,3,2,1,7,14,0,0,0,0,4,50.0,3.5
+B Stanlake,Australia,5,5,3,2,4,28,0,0,0,0,2,14.29,1.33
+B Tau,Papua New Guinea,11,11,11,0,159,351,16,0,0,0,38,45.3,14.45
+B Ward,Jersey,4,4,3,1,69,106,7,2,0,0,46,65.09,23.0
+B Zuiderent,Netherlands,16,16,15,1,178,368,15,2,1,0,71,48.37,11.87
+B de Leede,Netherlands,13,13,13,0,289,435,32,1,2,0,76,66.44,22.23
+BA Carse,England,21,21,15,6,264,341,16,9,0,0,36,77.42,17.6
+BA King,West Indies,57,58,55,3,1494,1825,181,30,8,3,112,81.86,27.16
+BA Langston,England,1,1,1,0,21,22,2,0,0,0,21,95.45,21.0
+BA Murphy,Zimbabwe,2,2,2,0,3,11,0,0,0,0,2,27.27,1.5
+BA Parchment,West Indies,6,6,6,0,107,198,13,1,0,0,48,54.04,17.83
+BA Stokes,England,98,99,83,16,3469,3701,283,110,24,5,182,93.73,41.8
+BA Westdijk,Netherlands,2,2,2,0,0,3,0,0,0,0,0,0.0,0.0
+BA Williams,Australia,4,4,2,2,14,25,0,0,0,0,11,56.0,7.0
+BAM Heath,England,4,4,3,1,59,61,3,1,0,0,33,96.72,19.67
+BAW Mendis,Sri Lanka,39,39,23,16,185,267,16,2,0,0,21,69.29,8.04
+BB Chari,Zimbabwe,14,14,14,0,186,412,12,2,0,0,39,45.15,13.29
+BB McCullum,New Zealand,186,186,164,22,5157,5457,490,172,29,4,131,94.5,31.45
+BB Seebaran,Canada,2,2,1,1,4,14,0,0,0,0,4,28.57,4.0
+BC Fortuin,South Africa,9,9,8,1,61,97,3,1,0,0,28,62.89,7.62
+BC Lara,West Indies,67,67,57,10,1878,2455,173,40,10,1,116,76.5,32.95
+BCJ Cutting,Australia,2,2,2,0,53,67,4,1,0,0,27,79.1,26.5
+BD Glover,Netherlands,4,4,2,2,28,45,4,0,0,0,18,62.22,14.0
+BDH Stevens,Jersey,1,1,1,0,1,5,0,0,0,0,1,20.0,1.0
+BE Hendricks,South Africa,4,4,3,1,24,45,2,0,0,0,18,53.33,8.0
+BFW de Leede,Netherlands,44,44,39,5,1155,1621,88,23,6,1,123,71.25,29.62
+BG Illing,New Zealand,2,2,1,1,1,8,0,0,0,0,1,12.5,1.0
+BG Lister,New Zealand,3,3,1,2,10,14,1,0,0,0,5,71.43,10.0
+BG Rogers,Zimbabwe,8,8,8,0,287,410,37,1,3,0,84,70.0,35.88
+BJ Bennett,Zimbabwe,8,8,8,0,339,358,41,5,0,1,169,94.69,42.38
+BJ Curran,Zimbabwe,5,5,4,1,313,407,35,0,2,1,118,76.9,78.25
+BJ Currie,Scotland,4,4,1,3,16,28,0,0,0,0,8,57.14,16.0
+BJ Diamanti,New Zealand,1,1,0,0,26,23,3,0,0,0,26,113.04,inf
+BJ Dwarshuis,Australia,3,3,3,0,61,93,4,2,0,0,33,65.59,20.33
+BJ Haddin,Australia,107,107,93,14,3003,3648,283,70,16,2,110,82.32,32.29
+BJ Hodge,Australia,19,19,17,2,516,583,43,12,2,1,123,88.51,30.35
+BJ McCarthy,Ireland,21,21,17,4,169,269,14,2,0,0,41,62.83,9.94
+BJ McMullen,Scotland,33,33,29,4,1202,1392,117,30,4,4,151,86.35,41.45
+BJ Patel,Kenya,10,10,9,1,118,253,15,0,0,0,40,46.64,13.11
+BJ Watling,New Zealand,24,24,23,1,573,860,58,3,5,0,96,66.63,24.91
+BKG Mendis,Sri Lanka,136,136,127,9,4419,5168,464,67,30,6,143,85.51,34.8
+BL Kotze,Namibia,4,4,3,1,27,52,3,0,0,0,24,51.92,9.0
+BL Mooney,Australia,83,83,62,21,3090,3501,328,14,19,6,138,88.26,49.84
+BM Anusha,India,1,1,1,0,2,6,0,0,0,0,2,33.33,2.0
+BM Duckett,England,33,33,32,1,1307,1339,145,19,9,3,165,97.61,40.84
+BM Halliday,New Zealand,44,44,39,5,1301,1681,132,13,8,1,157,77.39,33.36
+BM Scholtz,Namibia,38,38,24,14,301,470,24,4,0,0,31,64.04,12.54
+BM Tickner,New Zealand,7,7,2,5,34,48,3,0,0,0,18,70.83,17.0
+BM Wheeler,New Zealand,4,4,0,0,58,47,4,3,0,0,39,123.4,inf
+BMAJ Mendis,Sri Lanka,42,42,34,8,593,741,45,12,1,0,72,80.03,17.44
+BMSM Kumari,Sri Lanka,27,27,18,9,192,396,21,0,0,0,27,48.48,10.67
+BN Cooper,Netherlands,9,9,8,1,148,175,15,4,1,0,74,84.57,18.5
+BO van Rooi,Namibia,3,3,1,2,26,39,3,0,0,0,17,66.67,26.0
+BOP Fernando,Sri Lanka,8,8,8,0,148,238,15,3,0,0,49,62.18,18.5
+BP Kruger,Netherlands,1,1,1,0,8,12,1,0,0,0,8,66.67,8.0
+BP Loots,Netherlands,3,3,2,1,15,23,0,2,0,0,9,65.22,7.5
+BP Nash,West Indies,2,2,2,0,21,21,2,0,0,0,12,100.0,10.5
+BR Dorey,Australia,1,1,1,0,2,9,0,0,0,0,2,22.22,2.0
+BR McDermott,Australia,5,5,5,0,223,280,19,5,1,1,104,79.64,44.6
+BRM Taylor,Zimbabwe,162,163,153,10,5150,6970,480,66,27,10,145,73.89,33.66
+BT Foakes,England,1,1,0,0,61,78,3,1,1,0,61,78.21,inf
+BTJ Wheal,Scotland,6,6,6,0,47,65,6,0,0,0,24,72.31,7.83
+BV Sears,New Zealand,2,2,1,1,11,18,0,0,0,0,6,61.11,11.0
+BV Vitori,Zimbabwe,11,11,8,3,63,75,5,4,0,0,20,84.0,7.88
+BW Hilfenhaus,Australia,9,9,3,6,29,71,2,0,0,0,16,40.85,9.67
+BYA Mendis,Sri Lanka,8,8,8,0,147,252,21,0,1,0,55,58.33,18.38
+Babar Azam,Pakistan,131,131,115,16,6203,7243,578,65,33,20,158,85.64,53.94
+Babar Hayat,Hong Kong,15,15,13,2,539,749,47,16,5,0,82,71.96,41.46
+Badal Singh,Oman,1,1,1,0,5,12,0,0,0,0,5,41.67,5.0
+Basil Hameed,United Arab Emirates,45,45,43,2,1051,1458,74,30,5,0,71,72.09,24.44
+Basir Ahamad,Nepal,3,3,3,0,14,38,1,0,0,0,11,36.84,4.67
+Batool Fatima,Pakistan,5,5,5,0,64,105,6,0,0,0,28,60.95,12.8
+Bazid Khan,Pakistan,5,5,5,0,131,237,7,1,2,0,66,55.27,26.2
+Bikram Sob,Nepal,4,4,3,1,4,19,0,0,0,0,2,21.05,1.33
+Bilal Asif,Pakistan,3,3,3,0,40,52,6,1,0,0,38,76.92,13.33
+Bilal Khan,Oman,20,20,10,10,30,75,1,1,0,0,9,40.0,3.0
+Bilawal Bhatti,Pakistan,7,7,6,1,89,77,10,2,0,0,39,115.58,14.83
+Bismah Maroof,Pakistan,64,65,54,11,1938,3063,159,1,14,0,91,63.27,35.89
+C Abel,Scotland,6,6,5,1,18,59,0,0,0,0,9,30.51,3.6
+C Bosch,South Africa,10,10,6,4,270,254,29,5,1,0,67,106.3,45.0
+C Brits,South Africa,7,7,5,2,292,421,19,0,3,1,107,69.36,58.4
+C Campher,Ireland,30,30,28,2,963,1212,97,13,7,1,120,79.46,34.39
+C Carmichael,Ireland,2,2,2,0,64,83,7,1,0,0,48,77.11,32.0
+C Carter,Hong Kong,8,8,8,0,111,176,16,0,0,0,43,63.07,13.88
+C Cassell,Scotland,1,1,1,0,4,5,0,0,0,0,4,80.0,4.0
+C Chatonzwa,Zimbabwe,7,7,7,0,46,153,3,0,0,0,18,30.07,6.57
+C Connolly,Australia,5,5,4,1,94,138,7,1,1,0,61,68.12,23.5
+C Floyd,Netherlands,4,4,3,1,12,19,2,0,0,0,9,63.16,4.0
+C Green,Australia,27,27,19,8,782,890,64,20,2,1,118,87.87,41.16
+C Hemraj,West Indies,6,6,6,0,82,101,13,2,0,0,32,81.19,13.67
+C Jonker,South Africa,2,2,2,0,31,34,5,1,0,0,25,91.18,15.5
+C Karunaratne,Sri Lanka,24,24,18,6,451,589,32,8,1,0,75,76.57,25.06
+C Kieswetter,England,38,38,34,4,985,1130,98,30,4,1,107,87.17,28.97
+C Madande,Zimbabwe,13,13,12,1,287,390,29,0,2,0,74,73.59,23.92
+C McAuslan,Hong Kong,2,2,2,0,35,74,4,0,0,0,27,47.3,17.5
+C Munro,New Zealand,52,52,50,2,1249,1207,134,36,8,0,87,103.48,24.98
+C Murray,Ireland,20,20,12,8,108,205,10,0,0,0,19,52.68,9.0
+C Overton,England,5,5,3,2,68,79,4,1,0,0,32,86.08,22.67
+C Prasad,United States of America,1,1,1,0,6,24,0,0,0,0,6,25.0,6.0
+C Prathyusha,India,1,1,1,0,2,3,0,0,0,0,2,66.67,2.0
+C Raack,Ireland,1,1,0,0,1,1,0,0,0,0,1,100.0,inf
+C Sakariya,India,1,1,0,0,0,1,0,0,0,0,0,0.0,0.0
+C Sutthiruang,Thailand,12,12,12,0,155,250,21,1,0,0,25,62.0,12.92
+C Tear,Scotland,19,19,16,3,489,646,51,7,4,0,80,75.7,30.56
+C Viljoen,Namibia,2,2,1,1,19,23,2,0,0,0,17,82.61,19.0
+C White,England,4,4,3,1,79,84,6,0,0,0,35,94.05,26.33
+C Wickramasinghe,Sri Lanka,3,3,3,0,58,106,4,1,0,0,22,54.72,19.33
+C Zhuwao,Zimbabwe,8,8,8,0,154,137,18,9,0,0,45,112.41,19.25
+C de Grandhomme,New Zealand,35,35,28,7,742,714,59,29,4,0,74,103.92,26.5
+C de Lange,Netherlands,12,12,8,4,103,226,9,0,0,0,33,45.58,12.88
+CA Henry,West Indies,49,49,43,6,795,931,73,17,4,0,61,85.39,18.49
+CA Ingram,South Africa,28,28,25,3,761,935,75,9,2,3,124,81.39,30.44
+CA Lynn,Australia,4,4,4,0,75,92,6,3,0,0,44,81.52,18.75
+CA Pujara,India,5,5,5,0,51,136,4,0,0,0,27,37.5,10.2
+CA Reid,United States of America,2,2,2,0,8,18,1,0,0,0,6,44.44,4.0
+CA Soper,Papua New Guinea,47,47,35,12,653,1179,30,7,0,0,46,55.39,18.66
+CA Young,Ireland,23,23,10,13,149,175,12,5,0,0,40,85.14,14.9
+CAH Stevenson,United States of America,16,16,13,3,141,216,12,1,0,0,34,65.28,10.85
+CAK Rajitha,Sri Lanka,15,15,9,6,104,178,12,1,0,0,33,58.43,11.56
+CAK Walton,West Indies,8,8,8,0,53,88,7,0,0,0,19,60.23,6.62
+CB Lambert,United States of America,1,1,1,0,39,86,4,1,0,0,39,45.35,39.0
+CB Mpofu,Zimbabwe,30,30,15,15,40,170,0,0,0,0,9,23.53,2.67
+CB Sole,Scotland,13,13,10,3,67,84,8,0,0,0,17,79.76,6.7
+CB Wishart,Zimbabwe,15,15,14,1,361,496,40,4,0,1,172,72.78,25.79
+CBRLS Kumara,Sri Lanka,17,17,11,6,58,137,8,1,0,0,10,42.34,5.27
+CC Dalton,Ireland,1,1,1,0,18,27,3,0,0,0,18,66.67,18.0
+CD Collymore,West Indies,14,14,8,6,39,71,1,2,0,0,12,54.93,4.88
+CD Cumming,New Zealand,6,6,6,0,42,101,5,0,0,0,25,41.58,7.0
+CD McMillan,New Zealand,46,46,39,7,1129,1393,93,32,7,1,117,81.05,28.95
+CD Wallace,Scotland,25,25,24,1,515,598,42,9,4,0,58,86.12,21.46
+CD de Lange,Scotland,5,5,2,3,65,94,6,0,0,0,26,69.15,32.5
+CE Coulter Reilly,Ireland,10,10,9,1,207,325,22,0,1,0,80,63.69,23.0
+CE Dean,England,33,33,23,10,509,752,42,0,0,0,47,67.69,22.13
+CE McConchie,New Zealand,5,5,3,2,126,133,11,3,1,0,64,94.74,42.0
+CG Williams,Namibia,16,16,14,2,427,550,38,8,1,1,129,77.64,30.5
+CH Gayle,West Indies,198,198,189,9,6433,7434,670,254,34,13,215,86.53,34.04
+CH Morris,South Africa,27,27,23,4,467,474,36,15,1,0,62,98.52,20.3
+CH van Koolwijk,Netherlands,3,3,3,0,25,66,3,0,0,0,19,37.88,8.33
+CJ Anderson,New Zealand,43,43,40,3,1102,1044,85,55,4,1,131,105.56,27.55
+CJ Bowes,New Zealand,6,6,6,0,99,121,15,0,1,0,51,81.82,16.5
+CJ Chibhabha,Zimbabwe,87,87,85,2,1987,3130,205,12,12,0,99,63.48,23.38
+CJ Dala,South Africa,2,2,1,1,8,6,1,0,0,0,5,133.33,8.0
+CJ Ferguson,Australia,25,25,16,9,663,795,64,0,5,0,71,83.4,41.44
+CJ Jordan,England,23,23,15,8,184,218,12,5,0,0,38,84.4,12.27
+CJ McKay,Australia,29,29,21,8,190,343,15,2,0,0,30,55.39,9.05
+CJ Metcalfe,Ireland,6,6,3,3,21,54,3,0,0,0,10,38.89,7.0
+CJ Nevin,New Zealand,7,7,7,0,83,151,10,0,0,0,29,54.97,11.86
+CJ Smith,Bermuda,5,5,5,0,27,48,2,2,0,0,15,56.25,5.4
+CJA Amini,Papua New Guinea,45,45,45,0,952,1545,78,4,6,0,77,61.62,21.16
+CJO Smith,Scotland,9,9,9,0,157,240,23,0,1,0,51,65.42,17.44
+CK Coventry,Zimbabwe,24,24,23,1,645,737,48,26,3,1,194,87.52,28.04
+CK Holder,West Indies,1,1,0,0,0,3,0,0,0,0,0,0.0,0.0
+CK Hooper,Canada,2,2,2,0,4,3,1,0,0,0,4,133.33,2.0
+CK Kapugedera,Sri Lanka,76,76,69,7,1505,2157,100,28,8,0,95,69.77,21.81
+CK Kruger,Hong Kong,2,2,2,0,3,21,0,0,0,0,3,14.29,1.5
+CK Langeveldt,South Africa,17,17,10,7,70,120,8,0,0,0,12,58.33,7.0
+CK Tshuma,Zimbabwe,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+CKB Kulasekara,Sri Lanka,3,3,3,0,38,73,0,0,0,0,19,52.05,12.67
+CL Cairns,New Zealand,30,30,24,6,790,894,59,28,4,0,84,88.37,32.92
+CL Hooper,West Indies,5,5,4,1,93,118,3,1,0,0,45,78.81,23.25
+CL Tryon,South Africa,77,78,65,13,1910,1805,176,68,11,0,88,105.82,29.38
+CL White,Australia,75,75,59,16,2053,2583,145,44,11,2,105,79.48,34.8
+CM Beggs,Ireland,1,1,1,0,1,16,0,0,0,0,1,6.25,1.0
+CM Edwards,England,26,26,24,2,1054,1464,137,0,7,4,138,71.99,43.92
+CM McBride,Scotland,18,18,17,1,395,567,50,2,1,0,56,69.66,23.24
+CM Wright,Scotland,6,6,5,1,81,145,4,1,0,0,37,55.86,16.2
+CMA Shillington,Ireland,9,9,8,1,179,199,27,2,0,0,39,89.95,22.38
+CMG Atkins,England,2,2,0,0,117,211,13,0,1,0,69,55.45,inf
+CMW Read,England,14,14,11,3,156,221,12,1,0,0,30,70.59,14.18
+CN Ackermann,Netherlands,15,15,14,1,380,517,38,2,3,0,69,73.5,27.14
+CN Greaves,Scotland,22,22,16,6,355,414,31,8,2,0,56,85.75,22.19
+CN Nation,West Indies,45,46,40,6,831,1526,84,3,1,0,51,54.46,20.78
+CNIM Joyce,Ireland,9,9,8,1,228,493,29,0,0,0,49,46.25,28.5
+CO Browne,West Indies,8,8,6,2,144,171,14,2,0,0,46,84.21,24.0
+CO Obuya,Kenya,32,32,29,3,737,1040,58,15,3,0,98,70.87,25.41
+CP Jack,West Indies,1,1,1,0,17,26,3,0,0,0,17,65.38,17.0
+CP Rizwan,United Arab Emirates,38,38,33,5,901,1573,64,2,4,1,109,57.28,27.3
+CP Tremain,Australia,3,3,1,2,23,39,2,1,0,0,23,58.97,23.0
+CR Brathwaite,West Indies,34,34,32,2,527,613,34,22,1,1,101,85.97,16.47
+CR Ervine,Zimbabwe,95,95,84,11,2909,3763,287,37,19,4,130,77.31,34.63
+CR Foggo,Bermuda,1,1,1,0,6,5,0,0,0,0,6,120.0,6.0
+CR Pagydyala,United States of America,3,3,1,2,206,307,20,0,1,1,136,67.1,206.0
+CR Seneviratna,Sri Lanka,9,9,8,1,133,277,11,0,0,0,40,48.01,16.62
+CR Woakes,England,84,84,63,21,1514,1714,118,21,6,0,95,88.33,24.03
+CRD Fernando,Sri Lanka,34,34,17,17,175,266,17,2,0,0,20,65.79,10.29
+CS Baugh,West Indies,27,27,20,7,382,563,30,4,0,0,49,67.85,19.1
+CS Fraser,West Indies,11,11,10,1,89,175,8,1,0,0,24,50.86,8.9
+CS MacLeod,Scotland,61,61,59,2,2015,2570,207,26,9,6,175,78.4,34.15
+CS Martin,New Zealand,1,1,0,0,2,3,0,0,0,0,2,66.67,inf
+CS Mugeri-Tiripano,Zimbabwe,20,20,19,1,554,825,70,0,4,0,61,67.15,29.16
+CS Terblanche,South Africa,2,2,2,0,38,65,1,0,0,0,19,58.46,19.0
+CT Dhururu,Zimbabwe,19,19,16,3,221,540,21,0,0,0,46,40.93,13.81
+CT Mumba,Zimbabwe,6,6,4,2,32,56,1,1,0,0,13,57.14,8.0
+CT Mutombodzi,Zimbabwe,9,9,9,0,122,149,12,2,0,0,34,81.88,13.56
+CT Tremlett,England,11,11,7,4,50,91,2,2,0,0,19,54.95,7.14
+CW Perchard,Jersey,3,3,0,0,31,35,1,2,0,0,16,88.57,inf
+CZ Harris,New Zealand,18,18,14,4,203,402,15,0,0,0,38,50.5,14.5
+Chirag Suri,United Arab Emirates,36,36,36,0,924,1472,95,13,5,2,115,62.77,25.67
+Codi Yusuf,South Africa,1,1,1,0,5,11,1,0,0,0,5,45.45,5.0
+D Bau,Papua New Guinea,8,8,7,1,130,222,10,1,0,0,46,58.56,18.57
+D Birrell,Jersey,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+D Bishoo,West Indies,24,24,15,9,164,265,17,1,0,0,29,61.89,10.93
+D Brevis,South Africa,9,9,8,1,230,168,10,20,1,0,54,136.9,28.75
+D Brown,Australia,3,3,0,0,19,25,2,0,0,0,14,76.0,inf
+D Cleaver,New Zealand,1,1,1,0,32,37,3,0,0,0,32,86.49,32.0
+D Daesrath,Canada,1,1,1,0,31,59,3,1,0,0,31,52.54,31.0
+D Devnarain,South Africa,11,11,11,0,145,302,16,0,0,0,42,48.01,13.18
+D Dhingra,United States of America,9,9,9,0,289,443,36,0,2,0,58,65.24,32.11
+D Elgar,South Africa,7,7,6,1,104,181,6,0,0,0,42,57.46,17.33
+D Ferreira,South Africa,2,2,2,0,10,22,1,0,0,0,7,45.45,5.0
+D Foxcroft,New Zealand,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+D Gamage,Sri Lanka,2,2,1,1,3,11,0,0,0,0,2,27.27,3.0
+D Ganga,West Indies,7,7,7,0,152,302,17,0,1,0,54,50.33,21.71
+D Gough,England,13,13,7,6,137,198,12,1,0,0,46,69.19,19.57
+D Hazell,England,8,8,7,1,109,140,8,2,0,0,45,77.86,15.57
+D Hemalatha,India,8,8,8,0,97,171,7,3,0,0,35,56.73,12.12
+D Heyliger,Canada,17,17,15,2,213,225,18,8,1,0,56,94.67,14.2
+D Joseph,Canada,4,4,1,3,13,32,1,0,0,0,9,40.62,13.0
+D Keulder,Namibia,6,6,6,0,132,221,11,0,1,0,52,59.73,22.0
+D Khanal,Nepal,12,12,12,0,329,482,24,6,3,0,76,68.26,27.42
+D Lakshan,Sri Lanka,1,1,1,0,2,9,0,0,0,0,2,22.22,2.0
+D Langford-Smith,Ireland,9,9,5,4,79,84,6,2,0,0,18,94.05,15.8
+D Lohia,Papua New Guinea,5,5,3,2,13,37,0,0,0,0,8,35.14,4.33
+D Madushanka,Sri Lanka,9,9,3,6,36,76,5,0,0,0,19,47.37,12.0
+D Mohammed,West Indies,1,1,0,0,0,2,0,0,0,0,0,0.0,0.0
+D Mongia,India,18,18,16,2,325,545,24,3,1,0,63,59.63,20.31
+D Murphy,Scotland,2,2,2,0,9,28,0,0,0,0,7,32.14,4.5
+D Myers,Zimbabwe,7,7,7,0,138,194,17,0,0,0,34,71.13,19.71
+D Parashar,United Arab Emirates,12,12,8,4,192,313,13,4,1,0,50,61.34,24.0
+D Pretorius,South Africa,13,13,12,1,192,232,14,5,1,0,50,82.76,16.0
+D Prins,Netherlands,2,2,2,0,7,40,0,0,0,0,5,17.5,3.5
+D Ramdin,West Indies,103,103,84,19,2072,2636,153,31,7,2,169,78.6,24.67
+D Ravu,Papua New Guinea,13,13,9,4,128,193,9,4,0,0,38,66.32,14.22
+D Soraine,Canada,2,2,2,0,3,10,0,0,0,0,3,30.0,1.5
+D Tucker,South Africa,6,6,4,2,64,88,7,0,0,0,25,72.73,16.0
+D Vihanga,Sri Lanka,7,7,7,0,55,75,5,2,0,0,16,73.33,7.86
+D Wiese,Namibia,14,14,12,2,328,375,21,10,1,0,67,87.47,27.33
+D la Cock,Namibia,15,15,14,1,313,475,38,6,1,0,59,65.89,22.36
+D van Niekerk,South Africa,46,47,34,13,1336,1805,143,17,6,1,102,74.02,39.29
+DA Gunawardene,Sri Lanka,16,16,15,1,322,591,30,1,2,0,64,54.48,21.47
+DA Marillier,Zimbabwe,10,10,10,0,249,355,23,2,1,1,100,70.14,24.9
+DA Miller,South Africa,150,150,107,43,4573,4510,341,143,24,7,139,101.4,42.74
+DA Minors,Bermuda,8,8,8,0,104,176,10,4,0,0,37,59.09,13.0
+DA Warner,Australia,154,154,150,4,6623,6974,701,125,32,21,179,94.97,44.15
+DAJ Bracewell,New Zealand,14,14,12,2,221,279,14,7,1,0,57,79.21,18.42
+DAS Gunaratne,Sri Lanka,25,25,21,4,575,743,50,6,1,1,114,77.39,27.38
+DB Kotze,Namibia,6,6,5,1,82,135,3,1,0,0,27,60.74,16.4
+DB Sharma,India,95,95,67,28,2387,3444,214,17,18,0,93,69.31,35.63
+DBL Powell,West Indies,19,19,17,2,105,139,4,5,0,0,48,75.54,6.18
+DC Drakes,West Indies,2,2,2,0,11,18,0,0,0,0,8,61.11,5.5
+DC Thomas,West Indies,19,19,17,2,238,379,19,2,0,0,37,62.8,14.0
+DCC Borden,Bermuda,4,4,4,0,23,84,2,0,0,0,13,27.38,5.75
+DD Ebrahim,Zimbabwe,28,28,25,3,555,1050,36,0,2,0,71,52.86,22.2
+DDP D'Silva,United Arab Emirates,5,5,4,1,53,123,8,0,0,0,31,43.09,13.25
+DE Bernard,West Indies,12,12,10,2,141,225,10,0,0,0,38,62.67,14.1
+DE Bollinger,Australia,7,7,6,1,50,54,5,0,0,0,30,92.59,8.33
+DE Budge,Scotland,14,14,10,4,237,311,17,1,0,0,46,76.21,23.7
+DEM Carter,Scotland,10,10,10,0,225,336,29,0,1,0,86,66.96,22.5
+DES Maxwell,Canada,3,3,1,2,54,45,2,3,0,0,37,120.0,54.0
+DF Watts,Scotland,8,8,8,0,130,240,13,2,1,0,58,54.17,16.25
+DG Blampied,Jersey,2,2,2,0,7,13,1,0,0,0,7,53.85,3.5
+DG Brownlie,New Zealand,15,15,14,1,361,500,46,1,1,0,63,72.2,25.79
+DI Allan,Kenya,2,2,2,0,18,48,2,0,0,0,15,37.5,9.0
+DI Joyce,Ireland,3,3,3,0,29,61,4,0,0,0,18,47.54,9.67
+DJ Bravo,West Indies,127,127,108,19,2760,3506,219,53,10,2,112,78.72,25.56
+DJ Hooda,India,7,7,6,1,153,194,10,1,0,0,33,78.87,25.5
+DJ Hussey,Australia,59,59,53,6,1672,1912,122,24,14,0,79,87.45,31.55
+DJ Malan,England,29,29,25,4,1418,1504,146,32,7,6,140,94.28,56.72
+DJ Mitchell,New Zealand,53,53,45,8,2689,2868,216,71,12,9,137,93.76,59.76
+DJ Reekers,Netherlands,5,5,5,0,38,38,8,0,0,0,25,100.0,7.6
+DJ Willey,England,45,45,26,19,656,702,56,24,2,0,51,93.45,25.23
+DJ Worrall,Australia,1,1,0,0,6,4,1,0,0,0,6,150.0,inf
+DJG Sammy,West Indies,102,102,75,27,1853,1926,144,84,9,0,89,96.21,24.71
+DJM Short,Australia,8,8,7,1,211,274,16,1,1,0,69,77.01,30.14
+DJS Dottin,West Indies,59,61,55,6,1730,2141,203,41,5,3,150,80.8,31.45
+DK Butler,West Indies,2,2,0,0,16,24,3,0,0,0,13,66.67,inf
+DL Blake,United States of America,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+DL Chahar,India,8,8,5,3,191,204,16,8,2,0,69,93.63,38.2
+DL Hemp,Bermuda,11,11,9,2,268,398,32,3,3,0,76,67.34,29.78
+DL Vettori,New Zealand,96,96,71,25,1450,1745,118,8,3,0,79,83.09,20.42
+DLS van Bunge,Netherlands,12,12,11,1,293,519,27,5,2,0,62,56.45,26.64
+DM Braat,Netherlands,2,2,2,0,6,31,1,0,0,0,5,19.35,3.0
+DM Bravo,West Indies,113,113,103,10,3007,4475,246,71,17,4,124,67.2,29.19
+DM Dupavillon,South Africa,1,1,1,0,17,10,2,1,0,0,17,170.0,17.0
+DM Kimmince,Australia,3,3,0,0,37,52,3,0,0,0,18,71.15,inf
+DM Richards,West Indies,7,7,7,0,179,260,21,3,2,0,59,68.85,25.57
+DM de Silva,Sri Lanka,76,76,68,8,1769,2330,177,15,9,0,93,75.92,26.01
+DN Wellalage,Sri Lanka,25,25,21,4,389,487,29,10,1,0,67,79.88,18.52
+DN Wyatt,England,81,81,68,13,1716,1890,176,25,5,2,129,90.79,25.24
+DNT Zoysa,Sri Lanka,9,9,6,3,36,56,3,0,0,0,14,64.29,6.0
+DO Leicher,Namibia,4,4,3,1,111,164,5,3,1,0,58,67.68,37.0
+DO Obuya,Kenya,23,23,22,1,302,583,25,3,2,0,57,51.8,13.73
+DOD Rikhi,United States of America,1,1,1,0,3,6,0,0,0,0,3,50.0,3.0
+DP Conway,New Zealand,41,41,38,3,1672,1962,207,22,6,5,152,85.22,44.0
+DP Hyatt,West Indies,9,9,8,1,112,189,8,6,0,0,39,59.26,14.0
+DP Vaidya,India,7,7,6,1,132,207,15,0,1,0,89,63.77,22.0
+DPMD Jayawardene,Sri Lanka,264,264,241,23,8069,10269,743,52,51,12,144,78.58,33.48
+DR Brown,Scotland,4,4,3,1,72,115,6,0,0,0,45,62.61,24.0
+DR Chumney,Canada,11,11,10,1,219,336,19,6,0,0,44,65.18,21.9
+DR Flynn,New Zealand,10,10,9,1,167,247,19,1,0,0,35,67.61,18.56
+DR Martyn,Australia,73,73,56,17,2239,2970,202,8,19,2,101,75.39,39.98
+DR Mousley,England,3,3,2,1,69,88,5,1,1,0,57,78.41,34.5
+DR Smith,West Indies,74,74,70,4,1261,1430,120,48,8,0,97,88.18,18.01
+DR Tuffey,New Zealand,21,21,17,4,188,200,13,6,0,0,36,94.0,11.06
+DS Airee,Nepal,59,59,53,6,1154,1571,88,15,5,1,105,73.46,21.77
+DS Bajwa,Canada,8,8,8,0,108,184,11,1,0,0,26,58.7,13.5
+DS Kulkarni,India,2,2,0,0,27,31,2,1,0,0,25,87.1,inf
+DS Lehmann,Australia,20,20,17,3,687,870,56,5,6,1,107,78.97,40.41
+DS Smith,West Indies,39,39,38,1,973,1379,99,9,5,1,107,70.56,25.61
+DS Weerakkody,Sri Lanka,3,3,3,0,73,67,9,1,1,0,58,108.96,24.33
+DSK Madushanka,Sri Lanka,1,1,1,0,7,6,1,0,0,0,7,116.67,7.0
+DT Christian,Australia,18,18,13,5,273,313,23,3,0,0,39,87.22,21.0
+DT Hondo,Zimbabwe,14,14,8,6,35,113,4,0,0,0,12,30.97,4.38
+DT Johnston,Ireland,29,29,21,8,361,473,27,8,0,0,34,76.32,17.19
+DT Tiripano,Zimbabwe,26,26,18,8,343,535,27,8,1,0,55,64.11,19.06
+DW Steyn,South Africa,51,51,39,12,365,592,35,9,1,0,60,61.66,9.36
+Danish Aziz,Pakistan,2,2,2,0,12,22,2,0,0,0,9,54.55,6.0
+Danish Kaneria,Pakistan,5,5,2,3,9,15,1,0,0,0,6,60.0,4.5
+Dhiman Ghosh,Bangladesh,11,11,9,2,124,205,9,1,0,0,30,60.49,13.78
+Diana Baig,Pakistan,48,48,36,12,352,472,31,5,0,0,38,74.58,9.78
+Dilara Akter,Bangladesh,2,2,2,0,21,33,4,0,0,0,13,63.64,10.5
+Dolar Mahmud,Bangladesh,4,4,4,0,61,44,5,4,0,0,41,138.64,15.25
+E Bisht,India,17,17,13,4,73,125,6,0,0,0,14,58.4,5.62
+E Bosch,South Africa,1,1,0,0,7,9,0,0,0,0,7,77.78,inf
+E Chigumbura,Zimbabwe,151,151,130,21,3266,4235,264,73,14,2,117,77.12,25.12
+E Claridge,United States of America,5,5,4,1,79,103,10,0,0,0,49,76.7,19.75
+E Lewis,West Indies,59,59,55,4,2051,2398,193,73,10,5,176,85.53,37.29
+E Malinga,Sri Lanka,6,6,3,3,14,56,2,0,0,0,4,25.0,4.67
+E Marx,South Africa,4,4,1,3,53,80,5,0,0,0,35,66.25,53.0
+E Mbofana,Zimbabwe,4,4,2,2,22,56,1,0,0,0,8,39.29,11.0
+E Otieno,Kenya,7,7,5,2,21,57,2,0,0,0,8,36.84,4.2
+E Pokana,Papua New Guinea,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+E Schiferli,Netherlands,8,8,7,1,79,140,12,0,0,0,22,56.43,11.29
+EA Osborne,Australia,16,16,9,7,151,184,13,2,0,0,40,82.07,16.78
+EA Perry,Australia,98,98,66,32,3673,4683,339,47,34,2,107,78.43,55.65
+EAJ Richardson,Ireland,6,6,6,0,106,143,14,0,0,0,29,74.13,17.67
+EC Joyce,Ireland,60,60,56,4,1845,2666,181,16,10,4,116,69.2,32.95
+EC Perry,New Zealand,3,3,1,2,21,28,4,0,0,0,16,75.0,21.0
+EC Rainsford,Zimbabwe,17,17,9,8,31,103,1,0,0,0,9,30.1,3.44
+EH Hutchinson,United States of America,6,6,4,2,123,125,7,7,0,0,49,98.4,30.75
+EHSN Silva,United Arab Emirates,1,1,1,0,7,14,0,0,0,0,7,50.0,7.0
+EJ Carson,New Zealand,10,10,7,3,12,20,1,0,0,0,4,60.0,1.71
+EJ Richardson,Ireland,1,1,1,0,12,18,2,0,0,0,12,66.67,12.0
+EJ Tice,Ireland,2,2,2,0,2,12,0,0,0,0,1,16.67,1.0
+EJ Villani,Australia,25,25,24,1,468,606,60,6,3,0,75,77.23,19.5
+EJB Miles,Jersey,2,2,1,1,1,7,0,0,0,0,1,14.29,1.0
+EJG Morgan,England,215,215,184,31,6953,7767,600,190,43,12,124,89.52,37.79
+EL Arlott,England,2,2,1,1,25,28,3,0,0,0,18,89.29,25.0
+EL Lamb,England,22,22,22,0,596,710,75,0,4,1,102,83.94,27.09
+EL Watson,Scotland,8,8,7,1,50,125,2,0,0,0,16,40.0,7.14
+EM Bermingham,New Zealand,11,11,7,4,94,107,7,3,0,0,35,87.85,13.43
+EMA McLeod,New Zealand,4,4,4,0,61,108,6,0,0,0,35,56.48,15.25
+EMDY Munaweera,Sri Lanka,2,2,2,0,15,29,2,0,0,0,11,51.72,7.5
+EMKNH Senavirathna,Sri Lanka,2,2,2,0,7,22,0,0,0,0,5,31.82,3.5
+EN Lynch,Netherlands,13,13,11,2,115,229,14,0,0,0,26,50.22,10.45
+ER Oza,United Arab Emirates,8,8,8,0,148,219,18,0,1,0,82,67.58,18.5
+ES Szwarczynski,Netherlands,12,12,11,1,281,482,29,1,3,0,75,58.3,25.55
+Ebadat Hossain,Bangladesh,6,6,2,4,3,18,0,0,0,0,1,16.67,1.5
+Ehsan Adil,Pakistan,4,4,3,1,27,43,2,0,0,0,15,62.79,9.0
+Ehsan Khan,Hong Kong,11,11,8,3,100,229,8,0,0,0,27,43.67,12.5
+Ehsan Nawaz,Hong Kong,6,6,5,1,29,83,2,0,0,0,11,34.94,5.8
+Ehsanul Haque,Bangladesh,3,3,3,0,28,76,4,0,0,0,13,36.84,9.33
+Elias Sunny,Bangladesh,4,4,2,2,2,11,0,0,0,0,1,18.18,1.0
+Enamul Haque jnr,Bangladesh,3,3,4,-1,8,16,0,0,0,0,5,50.0,2.0
+Ethan D'Souza,United Arab Emirates,2,2,2,0,9,21,1,0,0,0,6,42.86,4.5
+Eyman Fatima,Pakistan,2,2,1,1,2,6,0,0,0,0,2,33.33,2.0
+F Behardien,South Africa,49,49,35,14,1074,1114,79,25,6,0,70,96.41,30.69
+F Chipare,Zimbabwe,7,7,5,2,31,61,3,0,0,0,13,50.82,6.2
+F Hand,Ireland,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+F Kasteni,Zimbabwe,2,2,2,0,9,24,0,0,0,0,9,37.5,4.5
+F Mutizwa,Zimbabwe,10,10,8,2,183,282,11,3,1,0,69,64.89,22.88
+F Overdijk,Netherlands,13,13,11,2,224,471,15,0,0,0,47,47.56,20.36
+F Tunnicliffe,South Africa,5,5,4,1,84,117,8,1,0,0,47,71.79,21.0
+F Walters,West Indies,2,2,2,0,16,48,1,0,0,0,9,33.33,8.0
+F du Plessis,South Africa,135,135,118,17,5445,6288,493,61,34,12,185,86.59,46.14
+FA Allen,West Indies,14,14,13,1,200,207,18,8,1,0,51,96.62,15.38
+FA Sargent,Ireland,7,7,4,3,36,78,2,0,0,0,16,46.15,9.0
+FC Jonas,New Zealand,10,10,4,6,14,57,0,0,0,0,5,24.56,3.5
+FC Wilson,England,19,19,17,2,412,441,38,5,2,0,85,93.42,24.24
+FDM Karunaratne,Sri Lanka,38,38,35,3,1044,1363,100,1,8,1,103,76.6,29.83
+FDW McCreath,Scotland,8,8,8,0,274,387,21,3,2,0,81,70.8,34.25
+FG Kemp,England,5,5,5,0,111,96,10,3,1,0,65,115.62,22.2
+FH Allen,New Zealand,21,21,21,0,582,637,78,14,5,0,96,91.37,27.71
+FH Edwards,West Indies,18,18,7,11,70,154,5,0,0,0,13,45.45,10.0
+FJ Klaassen,Netherlands,12,12,4,8,48,78,1,2,0,0,11,61.54,12.0
+FL Mackay,New Zealand,12,12,8,4,125,196,13,0,0,0,30,63.78,15.62
+FL Reifer,West Indies,6,6,6,0,86,190,6,1,0,0,40,45.26,14.33
+FR Davies,England,5,5,3,2,13,42,1,0,0,0,10,30.95,4.33
+FRJ Coleman,Scotland,8,8,8,0,160,220,18,1,1,0,70,72.73,20.0
+FY Fazal,India,1,1,0,0,55,65,7,1,1,0,55,84.62,inf
+Fahad Alhashmi,United Arab Emirates,2,2,2,0,0,6,0,0,0,0,0,0.0,0.0
+Fahad Nawaz,United Arab Emirates,2,2,2,0,2,10,0,0,0,0,2,20.0,1.0
+Faheem Ashraf,Pakistan,28,28,25,3,385,455,34,13,1,0,73,84.62,15.4
+Fahima Khatun,Bangladesh,30,30,25,5,350,610,22,0,0,0,46,57.38,14.0
+Faisal Athar,Pakistan,1,1,1,0,9,39,1,0,0,0,9,23.08,9.0
+Faisal Hossain,Bangladesh,3,3,2,1,26,54,2,0,0,0,17,48.15,13.0
+Faisal Iqbal,Pakistan,8,8,8,0,134,260,11,0,0,0,32,51.54,16.75
+Fakhar Zaman,Pakistan,86,87,80,7,3803,4140,424,83,19,11,210,91.86,47.54
+Fargana Hoque,Bangladesh,54,54,51,3,1474,3006,120,0,12,2,107,49.04,28.9
+Farhad Reza,Bangladesh,25,25,21,4,316,522,34,6,0,0,41,60.54,15.05
+Fariha Trisna,Bangladesh,5,5,4,1,1,19,0,0,0,0,1,5.26,0.25
+Fatima Sana,Pakistan,49,50,42,8,751,981,73,9,5,0,90,76.55,17.88
+Fawad Ahmed,Australia,1,1,0,0,4,2,1,0,0,0,4,200.0,inf
+Fawad Alam,Pakistan,35,35,23,12,966,1321,60,6,6,1,114,73.13,42.0
+Fayyaz Ahmed,United Arab Emirates,2,2,0,0,41,98,5,0,0,0,37,41.84,inf
+Fayyaz Butt,Oman,19,19,11,8,201,284,17,3,0,0,44,70.77,18.27
+Fazle Mahmud,Bangladesh,2,2,2,0,0,9,0,0,0,0,0,0.0,0.0
+G Bloemen,Netherlands,4,4,4,0,28,42,4,0,0,0,20,66.67,7.0
+G Chapple,England,1,1,1,0,14,7,1,1,0,0,14,200.0,14.0
+G Coetzee,South Africa,7,7,7,0,57,90,4,1,0,0,22,63.33,8.14
+G Dempsey,Ireland,13,13,6,7,122,190,8,0,0,0,45,64.21,20.33
+G Fontenla,Scotland,1,1,1,0,1,3,0,0,0,0,1,33.33,1.0
+G Gambhir,India,134,134,123,11,4981,5933,527,17,32,11,150,83.95,40.5
+G Hoey,Ireland,2,2,2,0,24,30,2,1,0,0,23,80.0,12.0
+G Kirsten,South Africa,6,6,3,3,186,228,24,2,3,0,69,81.58,62.0
+G Kodali,United States of America,5,5,4,1,66,118,4,0,0,0,20,55.93,16.5
+G Malla,Nepal,33,33,32,1,753,1145,78,15,5,0,75,65.76,23.53
+G Motie,West Indies,22,22,17,5,357,366,37,15,2,0,63,97.54,21.0
+G Onions,England,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+G Singh,United States of America,31,31,25,6,938,1155,86,17,6,1,101,81.21,37.52
+G Snyman,Namibia,4,4,4,0,5,9,1,0,0,0,5,55.56,1.25
+G Sultana,India,5,5,2,3,61,165,4,0,0,0,22,36.97,30.5
+G Toka,Papua New Guinea,21,21,21,0,268,496,21,2,0,0,29,54.03,12.76
+G Voll,Australia,10,10,8,2,461,420,64,3,2,2,101,109.76,57.62
+G Wareham,Australia,19,19,11,8,261,250,18,9,0,0,38,104.4,23.73
+GA Elwiss,England,16,16,11,5,244,331,24,0,1,0,77,73.72,22.18
+GA Guy,New Zealand,1,1,0,0,0,4,0,0,0,0,0,0.0,0.0
+GA Lamb,Zimbabwe,14,14,11,3,197,389,6,1,0,0,37,50.64,17.91
+GA Manou,Australia,1,1,1,0,7,6,0,0,0,0,7,116.67,7.0
+GA Rogers,Scotland,2,2,2,0,32,50,5,0,0,0,26,64.0,16.0
+GB Brent,Zimbabwe,18,18,11,7,192,305,13,3,1,0,59,62.95,17.45
+GB Hogg,Australia,47,47,33,14,647,818,40,5,2,0,71,79.1,19.61
+GB Murgatroyd,Namibia,6,6,6,0,90,148,7,1,1,0,52,60.81,15.0
+GC Bhogle,United States of America,6,6,6,0,82,166,10,0,0,0,36,49.4,13.67
+GC Smith,South Africa,152,152,146,6,5280,6613,588,38,36,8,141,79.84,36.16
+GC Tonge,West Indies,3,3,2,1,10,16,1,0,0,0,5,62.5,5.0
+GC Wilson,Ireland,57,57,49,8,1232,1653,105,14,9,0,80,74.53,25.14
+GD Drummond,Scotland,1,1,0,0,10,9,1,0,0,0,10,111.11,inf
+GD Elliott,New Zealand,66,66,57,9,1913,2394,149,27,11,2,115,79.91,33.56
+GD McGrath,Australia,14,14,6,8,18,44,0,0,0,0,5,40.91,3.0
+GD Phillips,New Zealand,38,38,29,9,1191,1169,88,47,4,2,106,101.88,41.07
+GE Plimmer,New Zealand,23,23,22,1,504,760,54,4,0,1,112,66.32,22.91
+GEF Barnett,Canada,5,5,5,0,95,185,10,0,0,0,40,51.35,19.0
+GF Linde,South Africa,3,3,2,1,29,40,3,0,0,0,18,72.5,14.5
+GH Bodi,South Africa,2,2,2,0,83,136,9,1,1,0,51,61.03,41.5
+GH Dockrell,Ireland,72,72,50,22,1197,1475,97,26,4,0,91,81.15,23.94
+GH Lewis,Ireland,54,54,50,4,1787,2644,235,4,15,0,96,67.59,35.74
+GH O'Brien,Bermuda,1,1,1,0,2,6,0,0,0,0,2,33.33,2.0
+GH Worker,New Zealand,10,10,8,2,272,389,23,3,3,0,58,69.92,34.0
+GI Hume,Ireland,8,8,4,4,65,98,4,2,0,0,21,66.33,16.25
+GI Maiden,Scotland,1,1,0,0,12,14,1,0,0,0,12,85.71,inf
+GJ Bailey,Australia,83,83,74,9,3011,3672,222,55,22,3,156,82.0,40.69
+GJ Batty,England,4,4,3,1,25,58,1,0,0,0,17,43.1,8.33
+GJ Delany,Ireland,16,16,12,4,217,228,20,6,0,0,22,95.18,18.08
+GJ Hopkins,New Zealand,16,16,16,0,236,317,19,2,0,0,45,74.45,14.75
+GJ Maxwell,Australia,132,132,116,16,3695,3054,354,138,22,3,108,120.99,31.85
+GJ McCarter,Ireland,1,1,0,0,1,1,0,0,0,0,1,100.0,inf
+GJ Rennie,Zimbabwe,4,4,4,0,50,128,4,0,0,0,26,39.06,12.5
+GJ Whittall,Zimbabwe,4,4,4,0,59,71,5,1,0,0,30,83.1,14.75
+GJP Kruger,South Africa,2,2,1,1,0,10,0,0,0,0,0,0.0,0.0
+GM Ewing,Zimbabwe,6,6,6,0,77,115,7,0,0,0,46,66.96,12.83
+GM Hamilton,Scotland,10,10,10,0,173,305,13,1,1,0,58,56.72,17.3
+GM Harris,Australia,6,6,5,1,14,24,1,0,0,0,7,58.33,2.8
+GM Strydom,Zimbabwe,5,5,5,0,67,133,6,2,0,0,48,50.38,13.4
+GO Jones,England,34,34,28,6,715,883,63,14,4,0,80,80.97,25.54
+GP Swann,England,47,47,35,12,475,525,46,4,0,0,34,90.48,13.57
+GP Thorpe,England,2,2,2,0,30,46,2,0,0,0,18,65.22,15.0
+GP Tom,Papua New Guinea,8,8,7,1,54,100,4,0,0,0,23,54.0,7.71
+GR Codrington,Canada,6,6,5,1,80,123,8,2,0,0,31,65.04,16.0
+GS Ballance,England,20,20,18,2,454,647,37,1,4,0,79,70.17,25.22
+GSNFG Jayasuriya,Sri Lanka,9,9,8,1,181,246,13,2,1,0,96,73.58,22.62
+GT Main,Scotland,3,3,1,2,82,89,7,1,1,0,64,92.13,82.0
+GW Flower,Zimbabwe,21,21,18,3,627,963,54,2,5,0,96,65.11,34.83
+GWHM Perera,Sri Lanka,52,52,50,2,1076,1745,140,4,2,0,85,61.66,21.52
+Ghulam Fatima,Pakistan,7,7,3,4,11,26,0,0,0,0,5,42.31,3.67
+Ghulam Shabber,United Arab Emirates,20,20,20,0,444,716,43,3,3,0,90,62.01,22.2
+Gull Feroza,Pakistan,4,4,4,0,21,38,2,0,0,0,13,55.26,5.25
+Gulsan Jha,Nepal,32,32,25,7,697,900,48,34,4,0,67,77.44,27.88
+Gurkeerat Singh,India,2,2,2,0,13,13,2,0,0,0,8,100.0,6.5
+H Carlyon,Jersey,4,4,4,0,125,149,13,6,1,0,85,83.89,31.25
+H Davids,South Africa,2,2,2,0,8,25,0,0,0,0,7,32.0,4.0
+H Deol,India,35,35,33,2,1064,1447,112,7,4,1,115,73.53,32.24
+H Doriga,Papua New Guinea,2,2,2,0,53,75,7,1,0,0,48,70.67,26.5
+H Durham,Bermuda,1,1,1,0,4,14,0,0,0,0,4,28.57,4.0
+H Graham,Australia,1,1,0,0,4,5,0,0,0,0,4,80.0,inf
+H Hiri,Papua New Guinea,32,32,28,4,435,794,30,5,1,0,77,54.79,15.54
+H Hotchandani,United Arab Emirates,4,4,4,0,119,250,10,0,0,0,40,47.6,29.75
+H Karunaratne,Sri Lanka,16,16,16,0,194,437,19,1,0,0,33,44.39,12.12
+H Kaur,India,101,101,85,16,3328,4137,321,47,17,6,171,80.44,39.15
+H Kaushik,United Arab Emirates,4,4,4,0,80,93,2,6,1,0,53,86.02,20.0
+H Klaasen,South Africa,55,55,48,7,2131,1839,199,72,11,4,174,115.88,44.4
+H Madavi,Sri Lanka,46,46,41,5,1341,1977,122,3,7,1,105,67.83,32.71
+H Masakadza,Zimbabwe,155,155,155,0,3955,5646,420,57,24,2,111,70.05,25.52
+H Osinde,Canada,8,8,4,4,11,34,0,0,0,0,4,32.35,2.75
+H Patel,Canada,10,10,9,1,176,198,21,6,1,0,54,88.89,19.56
+H Shah,Nepal,2,2,2,0,9,25,1,0,0,0,8,36.0,4.5
+H Thaker,Canada,25,25,22,3,760,1161,46,13,3,2,111,65.46,34.55
+HA Varaiya,Kenya,11,11,6,5,43,119,3,0,0,0,13,36.13,7.17
+HAM Samuddika,Sri Lanka,7,7,3,4,67,128,7,0,0,0,21,52.34,22.33
+HAPW Jayawardene,Sri Lanka,2,2,2,0,4,10,0,0,0,0,4,40.0,2.0
+HASD Siriwardene,Sri Lanka,38,38,37,1,679,1213,77,4,2,0,68,55.98,18.35
+HB Shipley,New Zealand,6,6,5,1,18,41,0,0,0,0,7,43.9,3.6
+HC Brook,England,36,36,32,4,1263,1235,112,55,5,3,136,102.27,39.47
+HC Knight,England,116,116,94,22,3446,4548,345,19,21,3,109,75.77,36.66
+HD Rutherford,New Zealand,4,4,4,0,15,56,2,0,0,0,11,26.79,3.75
+HDJ Siegers,Netherlands,5,5,5,0,105,124,8,2,0,0,35,84.68,21.0
+HDPK Dharmasena,Sri Lanka,8,8,6,2,129,155,8,0,0,0,40,83.23,21.5
+HDRL Thirimanne,Sri Lanka,102,102,89,13,3164,4444,245,25,21,4,139,71.2,35.55
+HDRS Silva,Sri Lanka,2,2,2,0,25,46,4,0,0,0,18,54.35,12.5
+HE Whelan,Ireland,1,1,1,0,2,16,0,0,0,0,2,12.5,2.0
+HE van der Dussen,South Africa,63,63,52,11,2529,2965,197,47,15,6,134,85.3,48.63
+HF Gurney,England,6,6,2,4,15,33,1,0,0,0,6,45.45,7.5
+HG Munsey,Scotland,61,61,54,7,2410,2671,247,79,16,3,191,90.23,44.63
+HGV Vare,Papua New Guinea,5,5,4,1,20,31,2,0,0,0,7,64.52,5.0
+HH Dippenaar,South Africa,36,36,31,5,1283,1903,117,7,9,3,125,67.42,41.39
+HH Gibbs,South Africa,102,102,95,7,3766,4434,414,72,20,10,175,84.93,39.64
+HH Pandya,India,67,67,57,10,1897,1755,141,76,11,0,92,108.09,33.28
+HH Streak,Zimbabwe,27,27,16,11,736,1106,58,9,6,0,72,66.55,46.0
+HHC Gunaratne,Sri Lanka,3,3,1,2,13,20,2,0,0,0,6,65.0,13.0
+HIS Mendis,Sri Lanka,2,2,2,0,13,50,1,0,0,0,12,26.0,6.5
+HJ Armitage,England,3,3,3,0,78,95,10,0,0,0,44,82.11,26.0
+HJ Thomas,Papua New Guinea,11,11,10,1,93,193,13,0,0,0,30,48.19,9.3
+HJC Mol,Netherlands,4,4,4,0,42,125,4,0,0,0,23,33.6,10.5
+HJH Marshall,New Zealand,36,36,32,4,661,980,44,1,6,0,74,67.45,20.66
+HJW Gardiner,Scotland,7,7,7,0,142,220,16,0,1,0,89,64.55,20.29
+HK Badani,India,5,5,3,2,135,175,9,1,1,0,60,77.14,45.0
+HK Bennett,New Zealand,5,5,2,3,10,35,0,0,0,0,4,28.57,5.0
+HK Matthews,West Indies,79,81,75,6,2845,3661,360,15,8,10,141,77.71,37.93
+HK Olonga,Zimbabwe,1,1,1,0,3,12,0,0,0,0,3,25.0,3.0
+HL Baker,England,1,1,0,0,3,3,0,0,0,0,3,100.0,inf
+HL Colvin,England,4,4,2,2,29,29,5,0,0,0,16,100.0,14.5
+HL Ferling,Australia,4,4,2,2,9,23,1,0,0,0,4,39.13,4.5
+HL Tau,Papua New Guinea,1,1,0,0,6,7,1,0,0,0,6,85.71,inf
+HM Amla,South Africa,174,174,161,13,7834,9058,796,49,38,26,159,86.49,48.66
+HM Nicholls,New Zealand,82,82,66,16,2252,2878,207,19,16,1,124,78.25,34.12
+HM Rowe,New Zealand,34,34,27,7,332,501,28,1,1,0,52,66.27,12.3
+HM Tiffen,New Zealand,1,1,1,0,33,41,4,0,0,0,33,80.49,33.0
+HM Watson,New Zealand,1,1,0,0,15,26,1,0,0,0,15,57.69,inf
+HMCM Bandara,Sri Lanka,13,13,9,4,130,185,6,4,0,0,31,70.27,14.44
+HMD Rasangika,Sri Lanka,8,8,8,0,232,400,31,0,2,0,84,58.0,29.0
+HML Madushani,Sri Lanka,2,2,2,0,3,15,0,0,0,0,3,20.0,1.5
+HMRKB Herath,Sri Lanka,29,29,15,14,140,229,10,2,0,0,17,61.14,9.33
+HN Ya France,Namibia,17,17,9,8,237,293,20,8,1,0,52,80.89,26.33
+HNK Jensen,New Zealand,25,25,23,2,284,389,32,1,1,0,53,73.01,12.35
+HP Rinke,Zimbabwe,8,8,8,0,28,64,3,0,0,0,12,43.75,3.5
+HP Tillakaratne,Sri Lanka,13,13,11,2,332,562,28,0,1,0,81,59.07,30.18
+HR Huddleston,New Zealand,13,13,8,5,57,125,6,0,0,0,16,45.6,7.12
+HR Johnson,United States of America,2,2,1,1,9,21,0,0,0,0,9,42.86,9.0
+HR Walsh,West Indies,13,13,10,3,172,264,18,1,0,0,46,65.15,17.2
+HRA Rainey,Scotland,6,6,4,2,22,51,2,0,0,0,8,43.14,5.5
+HS Baidwan,Canada,12,12,9,3,117,182,10,0,0,0,33,64.29,13.0
+HS Modi,Kenya,13,13,10,3,205,457,15,0,0,0,39,44.86,20.5
+HT Tector,Ireland,44,44,38,6,1775,2168,143,42,14,4,140,81.87,46.71
+HW Rambaldo,Netherlands,2,2,2,0,19,97,0,0,0,0,19,19.59,9.5
+HWA Landheer,Netherlands,7,7,6,1,23,72,2,1,0,0,14,31.94,3.83
+HWR Cartwright,Australia,2,2,2,0,2,23,0,0,0,0,1,8.7,1.0
+Habibul Bashar,Bangladesh,49,49,46,3,926,1671,77,3,3,0,70,55.42,20.13
+Haider Ali,United Arab Emirates,4,4,4,0,58,95,5,2,0,0,29,61.05,14.5
+Hammad Azam,Pakistan,6,6,5,1,79,131,5,2,0,0,36,60.31,15.8
+Hammad Mirza,Oman,11,11,10,1,268,400,25,3,2,0,77,67.0,26.8
+Hamza Tahir,Scotland,8,8,6,2,26,81,2,0,0,0,13,32.1,4.33
+Hamza Tariq,Canada,5,5,5,0,99,144,14,2,1,0,71,68.75,19.8
+Hannan Sarkar,Bangladesh,13,13,13,0,280,537,28,2,2,0,59,52.14,21.54
+Harbhajan Singh,India,85,85,62,23,917,1147,63,28,0,0,49,79.95,14.79
+Haris Rauf,Pakistan,18,18,13,5,101,122,6,9,0,0,35,82.79,7.77
+Haris Sohail,Pakistan,42,42,37,5,1709,2010,136,28,14,2,130,85.02,46.19
+Harmeet Singh,United States of America,16,17,12,5,270,254,17,15,1,0,59,106.3,22.5
+Harshit Rana,India,7,7,5,2,124,106,10,6,1,0,52,116.98,24.8
+Hasan Ali,Pakistan,38,38,28,10,377,334,28,23,2,0,59,112.87,13.46
+Hasan Mahmud,Bangladesh,13,13,10,3,37,79,4,0,0,0,15,46.84,3.7
+Haseeb Amjad,Hong Kong,1,1,1,0,21,15,1,2,0,0,21,140.0,21.0
+Haseebullah Khan,Pakistan,2,2,2,0,0,14,0,0,0,0,0,0.0,0.0
+Hashir Dafedar,Oman,3,3,2,1,29,62,3,1,0,0,15,46.77,14.5
+Hasibul Hossain,Bangladesh,3,3,1,2,7,23,0,0,0,0,6,30.43,7.0
+Hassan Nawaz,Pakistan,4,4,2,2,113,132,5,6,1,0,63,85.61,56.5
+Hassnain Shah,Oman,3,4,2,2,70,56,2,6,0,0,42,125.0,35.0
+Hazrat Bilal,United Arab Emirates,4,4,1,3,24,72,0,1,0,0,20,33.33,24.0
+Hussain Talat,Pakistan,9,9,7,2,215,277,18,2,1,0,62,77.62,30.71
+I Dulani,Sri Lanka,3,3,3,0,26,77,1,0,0,0,11,33.77,8.67
+I Kaia,Zimbabwe,16,16,15,1,332,520,29,4,1,1,110,63.85,22.13
+I Maraj,Canada,6,6,5,1,98,273,12,0,1,0,53,35.9,19.6
+I Nandakumar,United Arab Emirates,1,1,0,0,16,29,1,0,0,0,16,55.17,inf
+I Ranaweera,Sri Lanka,39,39,17,22,188,502,17,0,0,0,32,37.45,11.06
+I Sharma,India,26,26,15,11,72,209,6,0,0,0,13,34.45,4.8
+I Toua,Papua New Guinea,11,11,10,1,63,129,6,0,0,0,14,48.84,6.3
+I Udana,Sri Lanka,17,17,13,4,227,236,18,9,1,0,78,96.19,17.46
+I Wardlaw,Scotland,8,8,5,3,18,33,2,0,0,0,7,54.55,3.6
+I van der Woning,Netherlands,4,4,2,2,13,35,0,0,0,0,9,37.14,6.5
+IA Karim,Kenya,3,3,3,0,196,237,23,0,1,1,108,82.7,65.33
+IA Nicolson,Zimbabwe,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+IC Gaze,New Zealand,26,26,20,6,445,544,52,2,2,0,65,81.8,22.25
+ID Blackwell,England,18,18,16,2,146,213,17,1,0,0,22,68.54,9.12
+IDR Bradshaw,West Indies,25,25,14,11,259,423,18,4,0,0,37,61.23,18.5
+IE O'Brien,New Zealand,2,2,0,0,3,11,0,0,0,0,3,27.27,inf
+IECM Wong,England,1,1,1,0,15,9,0,1,0,0,15,166.67,15.0
+IG Butler,New Zealand,8,8,6,2,78,125,6,2,0,0,25,62.4,13.0
+IG Holland,United States of America,14,14,14,0,368,481,27,3,2,0,75,76.51,26.29
+IG Sharp,New Zealand,1,1,1,0,25,27,4,0,0,0,25,92.59,25.0
+IH Romaine,Bermuda,12,12,11,1,175,360,20,1,1,0,61,48.61,15.91
+IJ Harvey,Australia,17,17,14,3,259,287,31,2,0,0,48,90.24,18.5
+IJL Trott,England,65,65,55,10,2819,3732,216,3,22,4,137,75.54,51.25
+IJR Zwilling,Netherlands,13,13,13,0,145,351,11,0,0,0,32,41.31,11.15
+IK Pathan,India,71,71,57,14,1226,1548,117,29,3,0,83,79.2,21.51
+IM Vaghela,United States of America,5,5,5,0,45,91,5,0,0,0,20,49.45,9.0
+IMHC Joyce,Ireland,8,8,7,1,201,312,29,0,1,0,62,64.42,28.71
+IPP Batuwitarachchi,United Arab Emirates,2,2,2,0,14,51,0,0,0,0,14,27.45,7.0
+IR Bell,England,152,152,141,11,5289,6997,509,31,33,4,141,75.59,37.51
+IR James,New Zealand,2,2,2,0,51,64,6,1,0,0,27,79.69,25.5
+IS Billcliff,Canada,10,10,10,0,223,389,22,3,2,0,71,57.33,22.3
+IS Sodhi,New Zealand,24,24,22,2,210,306,8,10,0,0,35,68.63,9.55
+IS Sohi,Canada,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+Iftikhar Ahmed,Pakistan,21,22,14,8,527,497,47,16,1,1,109,106.04,37.64
+Iftikhar Anjum,Pakistan,28,28,14,14,203,335,12,3,0,0,32,60.6,14.5
+Imad Wasim,Pakistan,39,39,23,16,937,860,87,19,5,0,63,108.95,40.74
+Imam-ul-Haq,Pakistan,68,68,63,5,2854,3543,236,29,17,9,151,80.55,45.3
+Imran Farhat,Pakistan,44,44,42,2,1232,1909,140,9,10,0,93,64.54,29.33
+Imran Haider,United Arab Emirates,12,12,6,6,54,127,2,0,0,0,18,42.52,9.0
+Imran Nazir,Pakistan,21,21,21,0,531,604,70,12,1,1,160,87.91,25.29
+Imran Tahir,South Africa,32,32,20,12,157,233,21,1,0,0,29,67.38,7.85
+Imrul Kayes,Bangladesh,72,72,71,1,2242,3268,219,36,14,4,144,68.6,31.58
+Inzamam-ul-Haq,Pakistan,62,62,52,10,1916,2482,167,24,12,1,123,77.2,36.85
+Iram Javed,Pakistan,17,18,18,0,216,380,25,3,0,0,40,56.84,12.0
+Irfan Ahmed,Hong Kong,3,3,3,0,55,81,9,1,0,0,30,67.9,18.33
+Irfan Khan,Pakistan,6,6,6,0,48,75,3,1,0,0,22,64.0,8.0
+Ishan Kishan,India,23,23,21,2,886,890,90,31,7,1,210,99.55,42.19
+Ishma Tanjim,Bangladesh,3,3,3,0,24,65,4,0,0,0,14,36.92,8.0
+J Anderson,Ireland,6,6,6,0,118,205,17,0,0,0,39,57.56,19.67
+J Andrew,West Indies,2,2,2,0,8,13,0,1,0,0,8,61.54,4.0
+J Blackwood,West Indies,3,3,2,1,23,43,2,0,0,0,12,53.49,11.5
+J Blades,West Indies,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+J Botha,South Africa,49,49,32,17,594,718,53,3,0,0,46,82.73,18.56
+J Campbell,Zimbabwe,2,2,1,1,8,15,0,0,0,0,6,53.33,8.0
+J Charles,West Indies,58,59,59,0,1544,1840,173,45,7,2,130,83.91,26.17
+J Da Silva,West Indies,2,2,2,0,14,35,1,0,0,0,9,40.0,7.0
+J Drysdale,United States of America,1,1,0,0,2,6,0,0,0,0,2,33.33,inf
+J Edness,Bermuda,4,4,4,0,119,218,13,0,1,0,72,54.59,29.75
+J Figy John,United Arab Emirates,2,2,1,1,55,75,4,0,0,0,32,73.33,55.0
+J Fraser-McGurk,Australia,7,7,7,0,98,77,13,4,0,0,41,127.27,14.0
+J Glasgow,West Indies,9,9,9,0,215,285,29,2,2,0,50,75.44,23.89
+J Goswami,India,39,39,24,15,419,572,41,7,0,0,43,73.25,17.46
+J Gray,Ireland,4,4,4,0,62,113,7,0,0,0,24,54.87,15.5
+J Gumbie,Zimbabwe,15,15,15,0,379,581,42,1,2,0,78,65.23,25.27
+J Jarvis,Scotland,11,11,8,3,81,112,7,1,0,0,26,72.32,10.12
+J Kariko,Papua New Guinea,2,2,2,0,8,12,2,0,0,0,8,66.67,4.0
+J Kila,Papua New Guinea,12,12,10,2,159,249,14,2,0,0,36,63.86,15.9
+J Lewis,England,7,7,6,1,43,49,4,0,0,0,17,87.76,7.17
+J Little,Ireland,14,14,10,4,81,90,11,2,0,0,29,90.0,8.1
+J Liyanage,Sri Lanka,28,28,22,6,940,1134,71,25,6,1,101,82.89,42.73
+J Logtenberg,South Africa,2,2,2,0,6,15,0,0,0,0,3,40.0,3.0
+J Louw,South Africa,1,1,1,0,23,7,1,3,0,0,23,328.57,23.0
+J Maguire,Ireland,18,18,13,5,86,140,3,0,0,0,28,61.43,6.62
+J Matharu,Canada,2,2,0,0,7,10,1,0,0,0,7,70.0,inf
+J Mubarak,Sri Lanka,27,27,22,5,531,833,43,3,3,0,72,63.75,24.14
+J Nkomo,Zimbabwe,17,17,12,5,482,732,44,0,5,0,76,65.85,40.17
+J Nyumbu,Zimbabwe,13,13,9,4,45,90,1,1,0,0,18,50.0,5.0
+J Overton,England,9,9,9,0,240,222,29,8,1,0,68,108.11,26.67
+J Pashley,Netherlands,1,1,1,0,2,17,0,0,0,0,2,11.76,2.0
+J Patraj,Canada,2,2,2,0,21,48,1,0,0,0,20,43.75,10.5
+J Post,Netherlands,3,3,3,0,15,52,0,0,0,0,15,28.85,5.0
+J Ramanandi,Oman,1,1,1,0,2,15,0,0,0,0,2,13.33,2.0
+J Sharma,India,2,2,2,0,17,33,3,0,0,0,17,51.52,8.5
+J Smits,Netherlands,8,8,5,3,72,195,4,0,0,0,26,36.92,14.4
+J Srinath,India,8,8,6,2,31,82,4,0,0,0,15,37.8,5.17
+J Sumerauer,Jersey,3,3,3,0,84,74,8,2,0,0,35,113.51,28.0
+J Theron,United States of America,12,12,10,2,50,104,5,0,0,0,12,48.08,5.0
+J Yadav,India,2,2,1,1,3,7,0,0,0,0,2,42.86,3.0
+J van Vliet,Netherlands,4,4,4,0,35,84,0,0,0,0,20,41.67,8.75
+JA Burns,Australia,6,6,6,0,146,189,16,1,1,0,69,77.25,24.33
+JA Clarkson,New Zealand,2,2,2,0,17,24,2,0,0,0,16,70.83,8.5
+JA Duffy,New Zealand,5,5,1,4,12,21,2,0,0,0,4,57.14,12.0
+JA McCollum,Ireland,6,6,6,0,178,246,26,1,2,0,73,72.36,29.67
+JA Morkel,South Africa,39,39,31,8,705,727,64,22,2,0,97,96.97,22.74
+JA Richardson,Australia,8,8,5,3,93,109,8,0,0,0,29,85.32,18.6
+JA Rudolph,South Africa,25,25,19,6,820,1228,81,1,6,0,71,66.78,43.16
+JA Simpson,England,2,2,2,0,20,32,2,0,0,0,17,62.5,10.0
+JA Turner,England,1,1,0,0,2,5,0,0,0,0,2,40.0,inf
+JA Whelan,Ireland,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+JAD Lawrenson,Jersey,4,4,4,0,177,215,14,2,0,1,114,82.33,44.25
+JAH Marshall,New Zealand,6,6,6,0,33,84,2,0,0,0,14,39.29,5.5
+JAR Blain,Scotland,6,6,5,1,67,134,2,2,0,0,23,50.0,13.4
+JB Nero,West Indies,3,3,3,0,31,56,5,0,0,0,30,55.36,10.33
+JB Reva,Papua New Guinea,4,4,3,1,15,27,1,0,0,0,11,55.56,5.0
+JC Archer,England,20,20,10,10,193,189,20,7,0,0,38,102.12,19.3
+JC Balt,Namibia,3,3,2,1,35,61,4,0,0,0,35,57.38,17.5
+JC Buttler,England,168,169,138,31,5473,4839,445,182,29,11,162,113.1,39.66
+JC Carroll,Ireland,1,1,1,0,0,7,0,0,0,0,0,0.0,0.0
+JC Hartenhof,Netherlands,1,1,0,0,1,2,0,0,0,0,1,50.0,inf
+JC Tredwell,England,25,25,14,11,163,247,9,4,0,0,30,65.99,11.64
+JD Campbell,West Indies,8,8,8,0,282,270,29,9,0,1,179,104.44,35.25
+JD Nel,Scotland,2,2,0,0,6,12,1,0,0,0,5,50.0,inf
+JD Ryder,New Zealand,36,36,36,0,1242,1294,141,33,6,3,107,95.98,34.5
+JDF Vandersay,Sri Lanka,18,18,12,6,132,272,6,0,0,0,25,48.53,11.0
+JDP Oram,New Zealand,70,70,61,9,1546,1762,115,51,9,1,101,87.74,25.34
+JDS Neesham,New Zealand,65,66,53,13,1508,1538,128,39,7,0,97,98.05,28.45
+JE Cameron,Australia,15,15,14,1,452,601,52,8,3,0,81,75.21,32.29
+JE Dunford,Jersey,3,3,3,0,6,17,0,0,0,0,4,35.29,2.0
+JE Root,England,174,174,149,25,7329,8536,593,51,44,19,166,85.86,49.19
+JE Taylor,West Indies,38,38,31,7,258,300,29,5,0,0,43,86.0,8.32
+JEC Franklin,New Zealand,61,61,39,22,1107,1425,84,17,4,0,98,77.68,28.38
+JF Kloppenburg,Netherlands,4,4,4,0,149,240,9,4,0,1,121,62.08,37.25
+JF Mooney,Ireland,32,32,24,8,610,746,62,7,1,0,96,81.77,25.42
+JF Smith,South Africa,2,2,2,0,132,151,10,6,1,0,91,87.42,66.0
+JG Bethell,England,19,19,18,1,603,665,56,16,5,1,110,90.68,33.5
+JH Davey,Scotland,16,16,13,3,194,315,18,1,0,0,40,61.59,14.92
+JH Desai,United States of America,1,1,1,0,16,38,1,0,0,0,16,42.11,16.0
+JH Kallis,South Africa,132,132,112,20,4929,6548,417,53,38,8,128,75.27,44.01
+JH Stander,Scotland,2,2,1,1,34,42,0,3,0,0,22,80.95,34.0
+JI Rodrigues,India,58,58,52,6,1768,1988,191,5,8,3,127,88.93,34.0
+JI de Villiers,Namibia,7,7,6,1,28,65,1,1,0,0,14,43.08,4.67
+JJ Atkinson,Hong Kong,4,4,4,0,84,152,8,2,0,0,23,55.26,21.0
+JJ Bumrah,India,21,21,12,9,90,163,10,1,0,0,16,55.21,7.5
+JJ Celestine,Bermuda,3,3,3,0,28,64,5,0,0,0,15,43.75,9.33
+JJ Davidson,Scotland,4,4,0,0,38,34,3,0,0,0,24,111.76,inf
+JJ Esmeijer,Netherlands,2,2,1,1,3,15,0,0,0,0,3,20.0,3.0
+JJ Krejza,Australia,2,2,1,1,13,25,0,0,0,0,7,52.0,13.0
+JJ Roy,England,109,109,106,3,4237,4116,509,81,21,12,180,102.94,39.97
+JJ Smit,Namibia,45,46,39,7,945,1305,49,46,2,0,60,72.41,24.23
+JJ Tucker,Bermuda,11,11,10,1,203,321,26,2,0,0,49,63.24,20.3
+JJ van der Wath,South Africa,8,8,6,2,89,72,3,8,0,0,37,123.61,14.83
+JJC Lawson,West Indies,3,3,1,2,11,13,1,0,0,0,8,84.62,11.0
+JK Kamande,Kenya,19,19,18,1,171,363,13,1,0,0,37,47.11,9.5
+JKC Claxton,West Indies,4,4,3,1,89,76,11,3,0,0,43,117.11,29.67
+JL Aras,United States of America,1,1,0,0,5,6,1,0,0,0,5,83.33,inf
+JL Carter,West Indies,26,26,23,3,560,778,48,10,3,0,54,71.98,24.35
+JL Denly,England,13,13,13,0,446,645,44,6,4,0,87,69.15,34.31
+JL Gunn,England,27,27,18,9,322,534,21,4,1,0,52,60.3,17.89
+JL Hunter,Australia,1,1,0,0,16,35,1,0,0,0,16,45.71,inf
+JL Jonassen,Australia,40,40,25,15,533,632,39,5,0,0,39,84.34,21.32
+JL Ontong,South Africa,6,6,5,1,97,136,12,0,0,0,27,71.32,19.4
+JL Pattinson,Australia,7,7,3,4,41,80,2,0,0,0,13,51.25,13.67
+JL Smith,England,17,17,17,0,383,347,50,10,3,0,64,110.37,22.53
+JM Anderson,England,64,64,33,31,254,514,22,0,0,0,28,49.42,7.7
+JM Bairstow,England,95,95,87,8,3671,3682,418,83,16,10,141,99.7,42.2
+JM Cox,England,3,3,3,0,22,57,2,0,0,0,17,38.6,7.33
+JM Davison,Canada,16,16,14,2,443,393,50,15,3,1,111,112.72,31.64
+JM Fields,Australia,8,8,7,1,215,333,20,0,1,0,51,64.56,30.71
+JM How,New Zealand,33,33,32,1,939,1449,105,7,6,1,139,64.8,29.34
+JM Kemp,South Africa,55,55,39,16,1226,1473,77,53,8,1,100,83.23,31.44
+JM Kerr,New Zealand,36,36,28,8,321,313,33,6,0,0,38,102.56,11.46
+JM Mennie,Australia,2,2,2,0,1,5,0,0,0,0,1,20.0,0.5
+JM Vince,England,21,21,21,0,590,682,73,3,3,1,102,86.51,28.1
+JM Watkin,New Zealand,4,4,4,0,24,40,4,0,0,0,23,60.0,6.0
+JM Willathgamuwa,United States of America,3,3,3,0,20,52,1,0,0,0,18,38.46,6.67
+JN Frylinck,Namibia,41,41,35,6,845,1172,64,13,5,1,114,72.1,24.14
+JN Gillespie,Australia,13,13,5,8,115,110,5,4,0,0,44,104.55,23.0
+JN Hamilton,West Indies,1,1,1,0,5,16,0,0,0,0,5,31.25,5.0
+JN Loftie-Eaton,Namibia,44,44,37,7,986,1340,77,20,5,0,73,73.58,26.65
+JN Malan,South Africa,22,22,20,2,958,1177,97,16,4,3,177,81.39,47.9
+JN Mohammed,West Indies,29,29,27,2,621,929,51,10,4,0,91,66.85,23.0
+JN Rhodes,South Africa,1,1,1,0,2,6,0,0,0,0,2,33.33,2.0
+JNK Shannon,Ireland,1,1,1,0,2,8,0,0,0,0,2,25.0,2.0
+JNT Seales,West Indies,11,11,6,5,56,90,3,3,0,0,29,62.22,9.33
+JNT Vare,Papua New Guinea,5,5,5,0,35,71,1,0,0,0,16,49.3,7.0
+JO Holder,West Indies,107,107,85,22,2144,2431,156,64,12,0,99,88.19,25.22
+JO Ngoche,Kenya,3,3,1,2,11,29,0,1,0,0,9,37.93,11.0
+JO Troughton,England,5,5,4,1,36,77,5,0,0,0,20,46.75,9.0
+JOA Gordon,Canada,8,8,4,4,22,48,1,1,0,0,7,45.83,5.5
+JP Behrendorff,Australia,6,6,3,3,21,23,0,0,0,0,11,91.3,7.0
+JP Bray,Ireland,10,10,9,1,234,371,25,2,0,1,115,63.07,26.0
+JP Duminy,South Africa,173,173,136,37,4928,5986,342,67,27,3,129,82.33,36.24
+JP Faulkner,Australia,51,51,29,22,1025,1018,82,29,4,1,116,100.69,35.34
+JP Greaves,West Indies,20,20,15,5,429,478,38,9,1,0,50,89.75,28.6
+JP Inglis,Australia,28,28,25,3,766,736,77,22,4,1,120,104.08,30.64
+JP Kotze,Namibia,25,25,24,1,448,682,43,7,1,0,64,65.69,18.67
+JP Maher,Australia,6,6,5,1,122,187,9,3,0,0,49,65.24,24.4
+JPR Lamsam,Hong Kong,1,1,1,0,16,30,3,0,0,0,16,53.33,16.0
+JR Hazlewood,Australia,33,33,9,24,135,169,14,3,0,0,23,79.88,15.0
+JR Hopes,Australia,61,61,53,8,1326,1436,123,6,3,0,63,92.34,25.02
+JR Philippe,Australia,4,4,4,0,102,121,11,4,0,0,39,84.3,25.5
+JS Ababu,Kenya,2,2,0,0,0,9,0,0,0,0,0,0.0,0.0
+JS Malhotra,United States of America,15,15,12,3,358,382,23,20,1,1,173,93.72,29.83
+JS Patel,New Zealand,12,12,7,5,91,152,5,2,0,0,34,59.87,13.0
+JT Ball,England,6,6,4,2,38,50,6,0,0,0,28,76.0,9.5
+JT Brassell,Namibia,6,6,5,1,4,20,0,0,0,0,2,20.0,0.8
+JT Smuts,South Africa,5,5,4,1,180,233,20,1,1,0,84,77.25,45.0
+JV Harris,Canada,6,6,6,0,91,207,9,1,0,0,31,43.96,15.17
+JW Dernbach,England,8,8,7,1,19,40,1,0,0,0,5,47.5,2.71
+JW Hastings,Australia,18,18,10,8,271,281,29,8,1,0,51,96.44,27.1
+JW Jenner,Jersey,4,4,4,0,119,176,6,3,1,0,76,67.61,29.75
+JW Ogle-Thomas,West Indies,2,2,2,0,10,17,1,0,0,0,9,58.82,5.0
+JW Wilson,New Zealand,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+JWA Taylor,England,25,25,21,4,879,1105,69,12,7,1,101,79.55,41.86
+JWM Dalrymple,England,26,26,25,1,487,677,32,3,2,0,67,71.94,19.48
+Jahanara Alam,Bangladesh,19,19,15,4,80,227,8,0,0,0,18,35.24,5.33
+Jahurul Islam,Bangladesh,11,11,10,1,226,325,22,2,1,0,53,69.54,22.6
+Jai Prakash Yadav,India,4,4,2,2,12,26,0,0,0,0,9,46.15,6.0
+Jaker Ali,Bangladesh,8,8,7,1,328,421,23,11,3,0,68,77.91,46.86
+Jamaluddin Ahmed,Bangladesh,1,1,0,0,18,31,2,0,0,0,18,58.06,inf
+Jannatul Ferdus,Bangladesh,5,5,5,0,30,77,3,0,0,0,19,38.96,6.0
+Jasdeep Singh,United States of America,26,26,23,3,293,427,19,9,0,0,38,68.62,12.74
+Jaskaran Singh,Canada,3,3,3,0,38,64,3,1,0,0,32,59.38,12.67
+Jatinder Singh,Oman,58,59,56,3,1670,2299,174,26,9,4,118,72.64,29.82
+Javed Omar,Bangladesh,20,20,20,0,468,967,54,2,3,0,81,48.4,23.4
+Javeria Khan,Pakistan,55,55,51,4,1408,2289,153,0,7,1,133,61.51,27.61
+Javeria Rauf,Pakistan,2,2,1,1,11,16,1,0,0,0,11,68.75,11.0
+Jay Odedra,Oman,8,8,6,2,31,60,0,3,0,0,20,51.67,5.17
+Joginder Sharma,India,1,1,0,0,5,2,1,0,0,0,5,250.0,inf
+Joseph Angara,Kenya,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+Jubair Hossain,Bangladesh,1,1,1,0,5,10,1,0,0,0,5,50.0,5.0
+Junaid Khan,Pakistan,23,23,14,9,68,134,4,1,0,0,25,50.75,4.86
+Junaid Siddique,Bangladesh,88,88,72,16,1038,1558,95,17,5,0,97,66.62,14.42
+Junaid Siddiqui,Canada,6,6,6,0,59,147,1,1,0,0,25,40.14,9.83
+K Bhurtel,Nepal,61,61,60,1,1351,1722,148,28,8,1,115,78.46,22.52
+K Birkenstock,Namibia,15,15,15,0,233,438,25,0,1,0,61,53.2,15.53
+K Chigora,Zimbabwe,3,3,2,1,12,26,0,0,0,0,6,46.15,6.0
+K Christie,Hong Kong,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+K Doriga,Papua New Guinea,33,33,32,1,520,927,46,11,3,0,73,56.09,16.25
+K Frank,Papua New Guinea,7,7,6,1,70,130,6,0,0,0,31,53.85,11.67
+K Fraser,Scotland,11,11,8,3,229,303,20,3,1,0,74,75.58,28.62
+K Gore,United States of America,12,12,10,2,171,256,13,2,0,0,44,66.8,17.1
+K Goud,India,9,9,5,4,44,64,5,0,0,0,19,68.75,8.8
+K Gowtham,India,1,1,1,0,2,3,0,0,0,0,2,66.67,2.0
+K Kamyuka,Canada,1,1,1,0,2,2,0,0,0,0,2,100.0,2.0
+K Kavindi,Sri Lanka,2,2,2,0,17,37,1,0,0,0,15,45.95,8.5
+K Klein,Netherlands,11,11,8,3,136,202,9,2,0,0,25,67.33,17.0
+K Mahato,Nepal,2,2,0,0,1,10,0,0,0,0,1,10.0,inf
+K Meso,South Africa,6,6,5,1,46,102,3,0,0,0,17,45.1,9.2
+K Mishara,Sri Lanka,6,6,6,0,148,177,20,2,0,0,38,83.62,24.67
+K Ndlovu,Zimbabwe,18,18,18,0,362,651,38,1,3,0,61,55.61,20.11
+K Oala,Papua New Guinea,3,3,3,0,29,41,3,2,0,0,22,70.73,9.67
+K Phillip,United States of America,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+K Pierre,West Indies,6,6,2,4,70,99,5,3,0,0,22,70.71,35.0
+K Rabada,South Africa,44,44,27,17,401,514,30,12,0,0,31,78.02,14.85
+K Ramharack,West Indies,30,30,17,13,138,315,12,0,0,0,15,43.81,8.12
+K Schultz,West Indies,1,1,1,0,0,19,0,0,0,0,0,0.0,0.0
+K Sinclair,West Indies,3,3,2,1,38,65,2,0,0,0,25,58.46,19.0
+K Sonavale,Oman,3,3,3,0,5,29,0,0,0,0,3,17.24,1.67
+K Thomson,South Africa,2,2,2,0,52,69,3,0,0,0,27,75.36,26.0
+K Verreynne,South Africa,14,14,12,2,521,582,39,11,5,0,95,89.52,43.42
+K Weeraratne,Sri Lanka,5,5,5,0,120,139,6,2,0,0,41,86.33,24.0
+K Whatham,Canada,1,1,1,0,18,43,2,0,0,0,18,41.86,18.0
+K Zondo,South Africa,6,6,5,1,146,235,8,3,1,0,54,62.13,29.2
+KA Blackwell,Australia,1,1,1,0,3,11,0,0,0,0,3,27.27,3.0
+KA Edwards,West Indies,16,16,14,2,331,510,23,7,0,1,123,64.9,23.64
+KA Hope,West Indies,6,6,6,0,138,201,20,0,0,0,46,68.66,23.0
+KA Jamieson,New Zealand,9,9,4,5,101,116,7,3,0,0,25,87.07,25.25
+KA Maharaj,South Africa,31,31,23,8,324,418,37,4,0,0,40,77.51,14.09
+KA Pollard,West Indies,107,107,100,7,2608,2877,165,129,13,3,119,90.65,26.08
+KAD Hurdle,Bermuda,8,8,5,3,25,47,2,1,0,0,12,53.19,5.0
+KADA Kanchana,Sri Lanka,22,22,17,5,230,417,18,1,0,0,47,55.16,13.53
+KAJ Roach,West Indies,52,52,23,29,308,610,24,6,0,0,34,50.49,13.39
+KAR Hodge,West Indies,3,3,3,0,37,48,5,0,0,0,26,77.08,12.33
+KC Brathwaite,West Indies,10,10,10,0,278,494,15,0,1,0,78,56.28,27.8
+KC Hodsoll,Bermuda,1,1,0,0,2,6,0,0,0,0,2,33.33,inf
+KC Sangakkara,Sri Lanka,284,284,252,32,11640,14663,1122,77,76,24,169,79.38,46.19
+KC Thompson,United Arab Emirates,2,2,1,1,13,32,1,0,0,0,12,40.62,13.0
+KD Karthik,India,76,76,56,20,1624,2275,162,15,8,0,79,71.38,29.0
+KD Mills,New Zealand,72,72,52,20,871,988,65,35,2,0,54,88.16,16.75
+KD Shah,Hong Kong,7,7,7,0,112,192,9,2,0,0,34,58.33,16.0
+KDC Clarke,New Zealand,2,2,1,1,35,22,4,1,0,0,24,159.09,35.0
+KDK Vithanage,Sri Lanka,6,6,5,1,75,92,11,0,0,0,27,81.52,15.0
+KDU Prabodhani,Sri Lanka,29,29,20,9,148,437,17,0,0,0,21,33.87,7.4
+KE Broadmore,New Zealand,2,2,2,0,9,34,1,0,0,0,8,26.47,4.5
+KE Bryce,Scotland,10,10,9,1,594,679,60,4,6,1,131,87.48,66.0
+KE Ebrahim,New Zealand,4,4,2,2,52,95,3,0,0,0,19,54.74,26.0
+KED Carroll,Ireland,3,3,3,0,28,42,1,0,0,0,21,66.67,9.33
+KH Brunt,England,45,45,34,11,813,1087,62,6,2,0,72,74.79,23.91
+KH Butt,Hong Kong,2,2,2,0,8,29,0,0,0,0,4,27.59,4.0
+KH Pandya,India,4,4,2,2,130,131,11,2,1,0,58,99.24,65.0
+KH Prajapati,Oman,35,35,35,0,996,1351,100,13,5,2,103,73.72,28.46
+KHRK Fernando,Sri Lanka,2,2,1,1,3,15,0,0,0,0,3,20.0,3.0
+KIC Asalanka,Sri Lanka,66,66,60,6,2375,2720,196,56,14,5,127,87.32,39.58
+KJ Abbott,South Africa,13,13,9,4,76,129,6,0,0,0,23,58.91,8.44
+KJ Coetzer,Scotland,63,63,58,5,2280,2826,290,30,14,4,156,80.68,39.31
+KJ Garth,Australia,21,21,14,7,254,468,19,1,0,0,42,54.27,18.14
+KJ Harding,West Indies,1,1,0,0,1,1,0,0,0,0,1,100.0,inf
+KJ Martin,New Zealand,53,53,46,7,1161,1536,111,1,6,0,81,75.59,25.24
+KJ O'Brien,Ireland,84,84,74,10,1990,2151,198,48,8,1,113,92.52,26.89
+KJJ van Noortwijk,Netherlands,3,3,2,1,141,143,12,3,0,1,134,98.6,70.5
+KK Ahmed,India,2,2,2,0,8,17,1,0,0,0,5,47.06,4.0
+KK Nair,India,2,2,2,0,46,89,6,0,0,0,39,51.69,23.0
+KL Cross,England,31,31,21,10,270,391,29,1,0,0,38,69.05,12.86
+KL George,England,1,1,1,0,9,19,1,0,0,0,9,47.37,9.0
+KL Rahul,India,84,84,64,20,3270,3659,252,75,19,8,112,89.37,51.09
+KL Rolton,Australia,2,2,2,0,2,12,0,0,0,0,1,16.67,1.0
+KL Tucker,Bermuda,1,1,1,0,0,4,0,0,0,0,0,0.0,0.0
+KM Beams,Australia,6,6,4,2,27,44,0,0,0,0,11,61.36,6.75
+KM Dabengwa,Zimbabwe,23,23,18,5,364,631,20,6,0,0,45,57.69,20.22
+KM Jadhav,India,49,49,31,18,1318,1307,136,23,5,2,120,100.84,42.52
+KM Jarvis,Zimbabwe,28,28,20,8,195,320,18,3,0,0,37,60.94,9.75
+KMA Paul,West Indies,19,19,14,5,304,316,26,11,0,0,46,96.2,21.71
+KMC Bandara,Sri Lanka,1,1,0,0,1,3,0,0,0,0,1,33.33,inf
+KMDN Kulasekara,Sri Lanka,117,117,85,32,1323,1660,95,39,4,0,73,79.7,15.56
+KNA Bandara,Sri Lanka,5,5,4,1,141,217,9,1,2,0,55,64.98,35.25
+KNM Fernando,Sri Lanka,7,7,7,0,182,226,21,2,2,0,69,80.53,26.0
+KO Meth,Zimbabwe,6,6,6,0,49,93,5,0,0,0,20,52.69,8.17
+KO Otieno,Kenya,18,18,18,0,250,595,29,4,2,0,79,42.02,13.89
+KOA Powell,West Indies,41,41,41,0,934,1191,110,13,8,0,83,78.42,22.78
+KOK Williams,West Indies,4,4,1,3,19,27,1,0,0,0,16,70.37,19.0
+KP Meiyappan,United Arab Emirates,21,21,18,3,163,342,11,0,0,0,24,47.66,9.06
+KP Pietersen,England,118,118,103,15,4202,4990,402,71,23,9,130,84.21,40.8
+KR Mayers,West Indies,26,26,26,0,660,802,75,21,2,2,120,82.29,25.38
+KR Sen,India,1,1,0,0,2,4,0,0,0,0,2,50.0,inf
+KS Airee,Nepal,3,3,1,2,27,24,2,0,0,0,18,112.5,27.0
+KS Gautam,India,5,5,4,1,90,98,8,3,0,0,43,91.84,22.5
+KS Lokuarachchi,Sri Lanka,12,12,11,1,164,217,7,3,1,0,69,75.58,14.91
+KS Williamson,New Zealand,165,165,149,16,7145,8864,657,60,46,15,148,80.61,47.95
+KT Maphaka,South Africa,3,3,3,0,1,8,0,0,0,0,1,12.5,0.33
+KT Perkins,New Zealand,28,28,26,2,618,838,46,7,2,0,78,73.75,23.77
+KT Sandher,Canada,1,1,1,0,2,6,0,0,0,0,2,33.33,2.0
+KTGD Prasad,Sri Lanka,10,10,5,5,120,117,9,3,0,0,31,102.56,24.0
+KU Carty,West Indies,43,43,38,5,1593,2111,138,26,5,4,170,75.46,41.92
+KV Jain,India,6,6,6,0,104,219,11,0,1,0,56,47.49,17.33
+KV Morea,Papua New Guinea,12,12,6,6,72,119,5,1,0,0,17,60.5,12.0
+KW Richardson,Australia,12,12,5,7,75,70,7,4,0,0,24,107.14,15.0
+KY Ottley,West Indies,4,4,4,0,41,76,5,1,0,0,24,53.95,10.25
+Kabir Ali,England,8,8,6,2,54,58,3,1,0,0,25,93.1,9.0
+Kainat Imtiaz,Pakistan,11,11,11,0,115,264,9,0,0,0,24,43.56,10.45
+Kaleem Sana,Canada,17,17,11,6,108,131,6,7,0,0,16,82.44,9.82
+Kaleemullah,Oman,27,27,17,10,125,139,8,7,0,0,20,89.93,7.35
+Kamran Akmal,Pakistan,118,118,109,9,2746,3374,316,32,9,4,124,81.39,25.19
+Kamran Ghulam,Pakistan,7,7,7,0,210,213,19,9,1,1,103,98.59,30.0
+Kamran Hussain,Pakistan,1,1,0,0,28,21,2,0,0,0,28,133.33,inf
+Kamran Shazad,United Arab Emirates,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+Karan KC,Nepal,45,45,35,10,614,672,44,32,1,0,65,91.37,17.54
+Kashif Daud,United Arab Emirates,16,16,10,6,282,318,19,13,2,0,76,88.68,28.2
+Kaynat Hafeez,Pakistan,1,1,1,0,4,6,1,0,0,0,4,66.67,4.0
+Khadija Tul Kubra,Bangladesh,8,8,5,3,24,69,2,0,0,0,7,34.78,4.8
+Khaled Ahmed,Bangladesh,2,2,1,1,1,4,0,0,0,0,1,25.0,1.0
+Khaled Mahmud,Bangladesh,26,26,23,3,283,483,21,2,0,0,36,58.59,12.3
+Khaled Mashud,Bangladesh,36,36,25,11,605,1139,40,1,2,0,71,53.12,24.2
+Khalid Kail,Oman,5,5,5,0,117,158,14,1,1,0,51,74.05,23.4
+Khalid Latif,Pakistan,5,5,5,0,147,233,13,0,1,0,64,63.09,29.4
+Khawar Ali,Oman,28,28,23,5,620,1080,55,6,4,0,79,57.41,26.96
+Khurram Chohan,Canada,9,9,6,3,77,144,5,2,0,0,22,53.47,12.83
+Khurram Khan,United Arab Emirates,9,9,9,0,237,318,24,1,1,0,78,74.53,26.33
+Khurram Manzoor,Pakistan,6,6,6,0,206,323,20,0,3,0,83,63.78,34.33
+Khurram Nawaz,Oman,2,2,1,1,26,49,1,0,0,0,17,53.06,26.0
+Khushdil Shah,Pakistan,12,13,11,2,329,340,25,10,1,0,69,96.76,29.91
+Krishna Chandran,United Arab Emirates,7,7,7,0,59,163,5,0,0,0,34,36.2,8.43
+Kuldeep Yadav,India,38,38,21,17,202,417,15,0,0,0,19,48.44,9.62
+Kushal Malla,Nepal,34,34,32,2,801,925,65,46,4,1,108,86.59,25.03
+Kycia A Knight,West Indies,44,44,43,1,699,1350,78,2,1,0,69,51.78,16.26
+Kyshona A Knight,West Indies,35,35,30,5,597,1244,62,3,1,0,88,47.99,19.9
+L Balaji,India,11,11,8,3,104,132,8,3,0,0,21,78.79,13.0
+L Cheatle,Australia,2,2,1,1,13,13,2,0,0,0,7,100.0,13.0
+L Delany,Ireland,43,43,39,4,1110,1583,97,1,5,1,109,70.12,28.46
+L Egging,Netherlands,1,1,1,0,1,15,0,0,0,0,1,6.67,1.0
+L Filer,England,7,7,5,2,24,44,4,0,0,0,8,54.55,4.8
+L Goodall,South Africa,46,46,42,4,923,1520,91,0,3,0,93,60.72,21.98
+L Gregory,England,2,2,2,0,117,116,10,3,1,0,77,100.86,58.5
+L Jack,Scotland,8,8,7,1,113,109,12,0,0,0,35,103.67,16.14
+L Keny,United Arab Emirates,8,8,8,0,112,266,8,0,0,0,47,42.11,14.0
+L Klusener,South Africa,8,8,3,5,163,156,9,8,1,0,57,104.49,54.33
+L Lee,South Africa,76,77,68,9,2516,3044,320,48,17,2,132,82.65,37.0
+L Little,Ireland,6,6,5,1,25,39,3,0,0,0,10,64.1,5.0
+L Louwrens,Namibia,24,24,24,0,535,918,62,1,3,0,57,58.28,22.29
+L Mabhero,Zimbabwe,6,6,3,3,6,27,1,0,0,0,5,22.22,2.0
+L Maritz,Ireland,3,3,3,0,31,62,3,0,0,0,25,50.0,10.33
+L McCarthy,Ireland,1,1,0,0,0,5,0,0,0,0,0,0.0,0.0
+L Ngidi,South Africa,28,28,12,16,123,253,8,6,0,0,20,48.62,10.25
+L Paul,Ireland,48,48,46,2,1191,1866,112,1,8,1,137,63.83,25.89
+L Phiri,Zimbabwe,12,12,8,4,188,328,12,0,1,0,69,57.32,23.5
+L Rajadurai,Papua New Guinea,7,7,7,0,117,317,12,0,0,0,45,36.91,16.71
+L Ronchi,New Zealand,67,67,59,8,1397,1241,149,43,4,1,170,112.57,23.68
+L Shetty,United States of America,1,1,1,0,8,28,1,0,0,0,8,28.57,8.0
+L Siaka,Papua New Guinea,40,40,40,0,749,1013,72,10,2,0,90,73.94,18.73
+L Sipamla,South Africa,2,2,0,0,14,20,0,0,0,0,10,70.0,inf
+L Sreekumar,United Arab Emirates,3,3,3,0,57,69,10,1,0,0,28,82.61,19.0
+L Tshuma,Zimbabwe,22,22,20,2,286,470,37,1,0,1,137,60.85,14.3
+L Tucker,Ireland,43,43,37,6,844,1045,79,9,3,0,61,80.77,22.81
+L Vincent,New Zealand,45,45,41,4,1089,1593,113,17,6,2,102,68.36,26.56
+L Winfield,England,27,27,24,3,564,797,70,5,0,1,123,70.77,23.5
+L Winfield-Hill,England,13,13,13,0,294,474,35,2,0,0,43,62.03,22.62
+L Wolvaardt,South Africa,116,116,100,16,5230,6994,596,17,36,12,184,74.78,52.3
+L Wood,England,2,2,1,1,15,14,2,0,0,0,10,107.14,15.0
+LA Dawson,England,6,6,6,0,65,78,4,1,0,0,20,83.33,10.83
+LA Marsh,England,24,24,17,7,264,465,25,0,0,0,36,56.77,15.53
+LA McBride,Ireland,1,1,0,0,2,2,0,0,0,0,2,100.0,inf
+LB Williams,South Africa,4,4,4,0,18,26,2,0,0,0,13,69.23,4.5
+LC Boylan,Ireland,2,2,1,1,31,47,5,0,0,0,25,65.96,31.0
+LC Romero,United States of America,2,2,2,0,1,7,0,0,0,0,1,14.29,0.5
+LC Sthalekar,Australia,7,7,6,1,119,191,14,0,0,0,41,62.3,19.83
+LCN Smith,England,6,6,2,4,53,57,5,0,0,0,27,92.98,26.5
+LD Chandimal,Sri Lanka,137,137,118,19,3657,5072,249,42,24,3,111,72.1,30.99
+LD Madushanka,Sri Lanka,4,4,3,1,14,26,2,0,0,0,7,53.85,4.67
+LDVV Silva,Sri Lanka,2,2,2,0,34,76,6,0,0,0,28,44.74,17.0
+LE Bosman,South Africa,12,12,12,0,301,318,37,9,2,0,88,94.65,25.08
+LE Kaushalya,Sri Lanka,25,25,23,2,407,589,41,9,3,0,65,69.1,17.7
+LE Milliken,New Zealand,1,1,1,0,1,3,0,0,0,0,1,33.33,1.0
+LE Plunkett,England,47,47,29,18,536,503,46,15,0,0,44,106.56,18.48
+LG Pretorius,South Africa,3,3,3,0,142,147,18,3,1,0,57,96.6,47.33
+LH Ferguson,New Zealand,30,30,17,13,122,246,6,3,0,0,19,49.59,7.18
+LHD Dilhara,Sri Lanka,4,4,4,0,49,60,3,3,0,0,29,81.67,12.25
+LJ Burger,Namibia,6,6,5,1,11,65,1,0,0,0,5,16.92,2.2
+LJ Hamilton,New Zealand,1,1,0,0,2,4,0,0,0,0,2,50.0,inf
+LJ Poulton,Australia,3,3,3,0,25,69,4,0,0,0,11,36.23,8.33
+LJ Woodcock,New Zealand,2,2,1,1,14,22,1,0,0,0,11,63.64,14.0
+LJ Wright,England,39,39,35,4,707,838,63,18,2,0,52,84.37,20.2
+LK Bell,England,12,12,6,6,46,76,5,1,0,0,11,60.53,7.67
+LK Ebsary,Australia,1,1,1,0,23,24,4,0,0,0,23,95.83,23.0
+LK O'Reilly,Ireland,4,4,4,0,12,21,2,0,0,0,4,57.14,3.0
+LL Tsotsobe,South Africa,19,19,8,11,58,113,7,1,0,0,16,51.33,7.25
+LM Hoitink,Netherlands,2,2,2,0,0,17,0,0,0,0,0,0.0,0.0
+LM Jongwe,Zimbabwe,28,28,24,4,315,398,31,5,0,0,43,79.15,13.12
+LM Kasperek,New Zealand,21,21,16,5,148,276,11,0,0,0,21,53.62,9.25
+LMM Tahuhu,New Zealand,55,55,36,19,360,418,35,7,0,0,25,86.12,10.0
+LMP Simmons,West Indies,64,64,61,3,1958,2741,162,50,16,2,122,71.43,32.1
+LN McCarthy,Ireland,4,4,3,1,12,46,1,0,0,0,5,26.09,4.0
+LN Onyango,Kenya,4,4,2,2,61,82,6,0,0,0,34,74.39,30.5
+LN Rajbanshi,Nepal,23,23,9,14,42,166,3,0,0,0,11,25.3,4.67
+LN Roche,Zimbabwe,2,2,2,0,4,10,0,0,0,0,4,40.0,2.0
+LOB Cann,Bermuda,10,10,10,0,214,174,23,10,1,0,52,122.99,21.4
+LP van Troost,Netherlands,9,9,8,1,112,164,9,3,0,0,34,68.29,14.0
+LPC Silva,Sri Lanka,49,49,42,7,1279,1805,115,10,11,1,107,70.86,30.45
+LR Doolan,New Zealand,4,4,4,0,49,59,7,0,0,0,30,83.05,12.25
+LR Down,New Zealand,31,31,29,2,486,799,43,6,3,0,90,60.83,16.76
+LR Johnson,West Indies,3,3,3,0,19,65,2,1,0,0,18,29.23,6.33
+LR Morris,Australia,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+LR Naylor,Scotland,2,2,2,0,34,43,5,0,0,0,20,79.07,17.0
+LRPL Taylor,New Zealand,209,209,174,35,8126,10040,674,133,48,20,181,80.94,46.7
+LS Baker,West Indies,3,3,1,2,11,17,2,0,0,0,11,64.71,11.0
+LS Greenway,England,23,23,18,5,732,1112,71,1,3,1,125,65.83,40.67
+LS Livingstone,England,34,34,28,6,912,867,55,50,4,1,124,105.19,32.57
+LV van Beek,Netherlands,31,32,21,11,505,610,34,15,1,0,59,82.79,24.05
+Lata Mondal,Bangladesh,12,12,11,1,170,349,15,0,0,0,33,48.71,15.45
+Liton Das,Bangladesh,85,85,79,6,2181,2594,237,40,10,4,176,84.08,27.61
+Lovepreet Singh,United Arab Emirates,2,2,2,0,9,26,1,0,0,0,6,34.62,4.5
+M Bhanuka,Sri Lanka,6,6,6,0,140,199,13,2,0,0,36,70.35,23.33
+M Commins,Ireland,1,1,1,0,6,13,0,0,0,0,6,46.15,6.0
+M Daniels,South Africa,7,7,1,6,34,70,4,0,0,0,11,48.57,34.0
+M De Ridder,South Africa,3,3,0,0,45,74,3,0,0,0,26,60.81,inf
+M Dillon,West Indies,10,10,8,2,44,52,3,1,0,0,10,84.62,5.5
+M Faisal,Scotland,2,2,2,0,30,73,3,0,0,0,26,41.1,15.0
+M Faraz Akram,Zimbabwe,2,2,2,0,6,12,1,0,0,0,5,50.0,3.0
+M Gill,Canada,5,5,4,1,124,172,13,1,2,0,59,72.09,31.0
+M Jansen,South Africa,26,26,21,5,553,508,44,25,2,0,75,108.86,26.33
+M Joshi,India,4,4,3,1,20,32,2,0,0,0,12,62.5,6.67
+M Kaif,India,64,64,53,11,1314,2062,120,1,11,0,93,63.72,24.79
+M Kapp,South Africa,96,96,69,27,2590,2984,256,28,14,3,121,86.8,37.54
+M Karg,Namibia,2,2,2,0,45,66,4,1,0,0,41,68.18,22.5
+M Kartik,India,8,8,5,3,102,137,9,1,0,0,32,74.45,20.4
+M Klaas,South Africa,36,36,24,12,139,329,13,0,0,0,15,42.25,5.79
+M Kornet,Netherlands,2,2,2,0,0,9,0,0,0,0,0,0.0,0.0
+M Labuschagne,Australia,57,57,53,4,1857,2249,152,10,12,2,124,82.57,35.04
+M Levitt,Netherlands,17,17,17,0,443,533,53,14,1,0,57,83.11,26.06
+M Madara,Sri Lanka,5,5,5,0,13,54,1,0,0,0,9,24.07,2.6
+M Mangru,West Indies,4,4,4,0,31,76,3,0,0,0,15,40.79,7.75
+M Mani,India,2,2,1,1,54,60,5,0,0,0,46,90.0,54.0
+M Mavunga,Zimbabwe,3,3,2,1,4,19,0,0,0,0,2,21.05,2.0
+M McColl,Scotland,11,11,11,0,209,258,21,1,1,0,57,81.01,19.0
+M Morkel,South Africa,42,42,29,13,268,364,24,7,0,0,32,73.63,9.24
+M Mpongwana,South Africa,1,1,0,0,1,2,0,0,0,0,1,50.0,inf
+M Mupachikwa,Zimbabwe,27,27,26,1,621,1126,62,0,4,0,77,55.15,23.88
+M Muralitharan,Sri Lanka,64,64,43,21,317,386,30,7,0,0,32,82.12,7.37
+M Musonda,Zimbabwe,13,13,12,1,262,405,28,0,0,1,103,64.69,21.83
+M Nanayakkara,Sri Lanka,3,3,3,0,14,34,1,0,0,0,13,41.18,4.67
+M Ntini,South Africa,26,26,14,12,101,153,7,4,0,0,16,66.01,7.21
+M Pathirana,Sri Lanka,5,5,4,1,10,33,2,0,0,0,5,30.3,2.5
+M Patwardhan,United States of America,2,2,2,0,1,13,0,0,0,0,1,7.69,0.5
+M Prasidh Krishna,India,6,6,2,4,2,18,0,0,0,0,2,11.11,1.0
+M Pushpakumara,Sri Lanka,1,1,0,0,7,21,0,0,0,0,7,33.33,inf
+M Raj,India,70,70,51,19,2949,4320,298,13,30,2,125,68.26,57.82
+M Shehani,Sri Lanka,1,1,1,0,11,19,1,0,0,0,11,57.89,11.0
+M Shiraz,Sri Lanka,1,1,0,0,1,1,0,0,0,0,1,100.0,inf
+M Shumba,Zimbabwe,6,6,4,2,40,83,3,0,0,0,26,48.19,10.0
+M Smit,South Africa,5,5,4,1,116,152,15,0,1,0,56,76.32,29.0
+M Spoors,Canada,4,4,4,0,80,146,9,2,0,0,33,54.79,20.0
+M Terblanche,South Africa,4,4,4,0,80,137,10,0,0,0,49,58.39,20.0
+M Theekshana,Sri Lanka,30,30,18,12,284,580,19,1,0,0,38,48.97,15.78
+M Tom,Papua New Guinea,3,3,1,2,3,7,0,0,0,0,3,42.86,3.0
+M Vijay,India,16,16,16,0,339,516,33,3,1,0,72,65.7,21.19
+M Zondeki,Africa XI,2,2,1,1,1,3,0,0,0,0,1,33.33,1.0
+M du Preez,South Africa,81,81,65,16,2223,3194,215,5,11,0,90,69.6,34.2
+M van Jaarsveld,South Africa,4,4,4,0,29,57,2,0,0,0,13,50.88,7.25
+M van Lingen,Namibia,37,37,32,5,1300,1442,150,29,5,5,133,90.15,40.62
+M van Schoor,Namibia,5,5,4,1,58,111,3,1,0,0,24,52.25,14.5
+MA Abbas,New Zealand,3,3,3,0,104,107,6,4,1,0,52,97.2,34.67
+MA Agarwal,India,5,5,5,0,86,91,12,1,0,0,32,94.51,17.2
+MA Aponso,Sri Lanka,7,7,3,4,10,45,0,0,0,0,4,22.22,3.33
+MA Carberry,England,6,6,6,0,114,181,14,0,1,0,63,62.98,19.0
+MA Jones,Scotland,14,14,14,0,385,582,36,3,3,0,87,66.15,27.5
+MA Leask,Scotland,66,66,53,13,1481,1328,115,64,8,1,107,111.52,27.94
+MA Ouma,Kenya,26,26,24,2,468,855,49,2,1,0,54,54.74,19.5
+MA Starc,Australia,68,68,49,19,579,770,43,14,1,0,52,75.19,11.82
+MA Suji,Kenya,7,7,3,4,36,51,1,1,0,0,15,70.59,12.0
+MA Vermeulen,Zimbabwe,29,29,28,1,517,796,63,1,3,0,92,64.95,18.46
+MA Wood,England,22,22,11,11,147,143,13,5,0,0,43,102.8,13.36
+MAA Sanjeewani,Sri Lanka,41,41,35,6,575,949,42,2,1,0,55,60.59,16.43
+MADD Surangika,Sri Lanka,34,34,28,6,642,1210,59,1,3,0,84,53.06,22.93
+MADI Hemantha,Sri Lanka,3,3,1,2,17,21,2,1,0,0,13,80.95,17.0
+MB Kruger,Namibia,17,17,17,0,393,582,31,5,2,0,80,67.53,23.12
+MB Loye,England,7,7,7,0,142,190,19,5,0,0,45,74.74,20.29
+MBS Jonkman,Netherlands,3,3,2,1,20,33,2,0,0,0,15,60.61,10.0
+MC Henriques,Australia,15,15,13,2,117,192,10,0,0,0,22,60.94,9.0
+MC Patel,India,2,2,2,0,13,35,1,0,0,0,9,37.14,6.5
+MC Sorensen,Ireland,7,7,5,2,119,153,11,3,0,0,31,77.78,23.8
+MD Bates,New Zealand,1,1,1,0,13,10,1,1,0,0,13,130.0,13.0
+MD Botha,United Arab Emirates,7,7,5,2,103,154,8,0,0,0,42,66.88,20.6
+MD Dai,Papua New Guinea,10,10,9,1,277,367,26,5,2,0,76,75.48,30.78
+MD Gunathilaka,Sri Lanka,45,45,44,1,1592,1899,171,20,11,2,133,83.83,36.18
+MD Patel,United States of America,66,66,63,3,2132,2682,173,30,16,3,130,79.49,33.84
+MD Shanaka,Sri Lanka,56,56,51,5,1153,1317,87,38,4,2,108,87.55,22.61
+MD du Preez,Namibia,3,3,3,0,14,45,0,0,0,0,5,31.11,4.67
+MDK Perera,Sri Lanka,12,12,12,0,152,207,13,3,0,0,30,73.43,12.67
+MDKJ Perera,Sri Lanka,107,107,103,4,3077,3375,344,51,16,6,135,91.17,29.87
+MDN Hansika,Sri Lanka,24,24,24,0,357,748,43,0,0,0,48,47.73,14.88
+MDT Kamini,India,9,9,7,2,353,556,46,5,1,2,113,63.49,50.43
+ME Bouchier,England,15,15,13,2,482,466,74,5,2,1,100,103.43,37.08
+ME Sanuth,Oman,2,2,2,0,46,41,5,1,0,0,40,112.2,23.0
+ME Trescothick,England,63,63,59,4,2109,2584,280,13,11,6,121,81.62,35.75
+MEC de Fouw,Netherlands,2,2,1,1,11,85,1,0,0,0,11,12.94,11.0
+MEK Hussey,Australia,148,148,110,38,5076,6012,354,70,37,3,109,84.43,46.15
+MEMO Scott-Hayward,Ireland,2,2,2,0,11,23,1,0,0,0,11,47.83,5.5
+MF Fahey,New Zealand,1,1,1,0,0,7,0,0,0,0,0,0.0,0.0
+MF Kendal,Ireland,3,3,3,0,30,87,3,0,0,0,16,34.48,10.0
+MF Maharoof,Sri Lanka,60,60,50,10,799,991,60,17,1,0,58,80.63,15.98
+MG Bevan,Australia,25,25,18,7,755,1177,49,6,6,0,74,64.15,41.94
+MG Bracewell,New Zealand,37,37,26,11,956,905,77,43,3,2,140,105.64,36.77
+MG Erasmus,Namibia,59,60,55,5,2031,2701,165,46,17,1,121,75.19,36.93
+MG Johnson,Australia,87,87,57,30,934,1002,80,22,2,0,73,93.21,16.39
+MG Neser,Australia,4,4,4,0,11,29,0,0,0,0,6,37.93,2.75
+MH Cross,Scotland,82,82,80,2,1877,2690,161,18,10,2,114,69.78,23.46
+MH Yardy,England,24,24,16,8,326,490,20,1,2,0,60,66.53,20.38
+MHW Papps,New Zealand,2,2,2,0,32,63,4,0,0,0,29,50.79,16.0
+MJ Bulow,Australia,1,1,1,0,50,74,9,0,1,0,50,67.57,50.0
+MJ Clarke,Australia,198,198,161,37,6988,9095,578,45,50,8,130,76.83,43.4
+MJ Cosgrove,Australia,2,2,2,0,78,81,7,2,1,0,74,96.3,39.0
+MJ Fourie,Ireland,2,2,1,1,5,13,0,0,0,0,4,38.46,5.0
+MJ Guptill,New Zealand,190,191,175,16,7125,8358,734,184,38,17,237,85.25,40.71
+MJ Hay,New Zealand,7,7,6,1,186,187,13,8,1,0,99,99.47,31.0
+MJ Henry,New Zealand,37,37,26,11,270,298,22,11,0,0,48,90.6,10.38
+MJ Hoggard,England,2,2,2,0,5,11,0,0,0,0,5,45.45,2.5
+MJ Humphreys,Ireland,3,3,1,2,6,10,1,0,0,0,4,60.0,6.0
+MJ Lumb,England,3,3,3,0,165,206,12,3,0,1,106,80.1,55.0
+MJ Mason,New Zealand,5,5,3,2,20,41,2,0,0,0,13,48.78,6.67
+MJ McClenaghan,New Zealand,14,14,5,9,108,143,10,3,0,0,34,75.52,21.6
+MJ North,Australia,2,2,2,0,6,19,0,0,0,0,5,31.58,3.0
+MJ Owen,Australia,2,2,2,0,37,28,2,3,0,0,36,132.14,18.5
+MJ Potts,England,6,6,1,5,45,62,1,1,0,0,15,72.58,45.0
+MJ Prior,England,57,57,50,7,1229,1652,132,6,3,0,87,74.39,24.58
+MJ Santner,New Zealand,91,91,59,32,1573,1730,114,50,3,0,67,90.92,26.66
+MJ Swepson,Australia,1,1,1,0,2,2,0,0,0,0,2,100.0,2.0
+MJG Nielsen,New Zealand,6,6,4,2,25,47,2,0,0,0,16,53.19,6.25
+MJG Rippon,Netherlands,4,4,4,0,112,160,9,3,1,0,67,70.0,28.0
+MK Pandey,India,23,23,16,7,558,624,45,5,2,1,104,89.42,34.88
+MK Tiwary,India,12,12,12,0,287,412,24,3,1,1,104,69.66,23.92
+MK Villiers,England,3,3,3,0,32,32,3,0,0,0,14,100.0,10.67
+MKDI Amerasinghe,Sri Lanka,3,3,0,0,5,7,1,0,0,0,5,71.43,inf
+MKGCP Lakshitha,Sri Lanka,1,1,1,0,4,6,0,0,0,0,4,66.67,4.0
+ML Cummins,West Indies,2,2,1,1,5,9,1,0,0,0,4,55.56,5.0
+ML Green,New Zealand,73,74,62,12,1812,2489,155,11,9,1,100,72.8,29.23
+ML Hayden,Australia,96,96,87,9,3939,4956,411,58,20,7,181,79.48,45.28
+ML Lewis,Australia,1,1,0,0,4,4,0,0,0,0,4,100.0,inf
+ML Nkala,Zimbabwe,10,10,9,1,125,178,12,2,0,0,47,70.22,13.89
+ML Patel,Kenya,2,2,2,0,15,61,0,0,0,0,15,24.59,7.5
+ML Schutt,Australia,21,21,15,6,84,166,6,0,0,0,14,50.6,5.6
+ML Udawatte,Sri Lanka,8,8,8,0,243,367,24,2,2,0,73,66.21,30.38
+MM Ali,England,110,110,96,14,2278,2418,199,71,6,3,128,94.21,23.73
+MM English,Scotland,1,1,1,0,107,124,9,2,0,1,107,86.29,107.0
+MM Iqbal,Scotland,2,2,2,0,16,58,0,0,0,0,10,27.59,8.0
+MM Lanning,Australia,76,76,63,13,3555,3985,437,29,19,10,152,89.21,56.43
+MM Letsoalo,South Africa,6,6,3,3,17,55,1,0,0,0,5,30.91,5.67
+MM Patel,India,24,24,11,13,74,114,7,1,0,0,15,64.91,6.73
+MM Penfold,New Zealand,7,7,6,1,12,52,0,0,0,0,5,23.08,2.0
+MM Sharma,India,9,9,4,5,31,66,5,0,0,0,11,46.97,7.75
+MMA Jonkman,Netherlands,1,1,1,0,13,38,2,0,0,0,13,34.21,13.0
+MN Nawaz,Sri Lanka,1,1,0,0,15,22,0,0,0,0,15,68.18,inf
+MN Samuels,West Indies,142,142,123,19,4205,5654,384,102,20,9,133,74.37,34.19
+MN Waller,Zimbabwe,51,51,48,3,1039,1383,106,10,4,0,99,75.13,21.65
+MN van Wyk,South Africa,16,16,16,0,425,631,48,4,4,0,82,67.35,26.56
+MNK Fernando,Sri Lanka,5,5,5,0,89,135,12,0,1,0,50,65.93,17.8
+MO Jones,Bermuda,6,6,6,0,58,72,4,4,0,0,27,80.56,9.67
+MO Odumbe,Kenya,10,10,7,3,324,363,31,2,2,0,54,89.26,46.29
+MP Breetzke,South Africa,12,12,11,1,706,743,60,17,6,1,150,95.02,64.18
+MP Kuhnemann,Australia,2,2,2,0,16,15,3,0,0,0,15,106.67,8.0
+MP O'Dowd,Netherlands,63,63,59,4,2111,2904,208,36,15,1,158,72.69,35.78
+MP Stoinis,Australia,63,63,55,8,1489,1622,133,49,6,1,146,91.8,27.07
+MP Vaughan,England,56,56,50,6,1382,2118,143,10,10,0,90,65.25,27.64
+MQ Sheikh,Scotland,2,2,2,0,6,21,0,0,0,0,4,28.57,3.0
+MR Adair,Ireland,34,34,21,13,448,421,34,21,0,0,32,106.41,21.33
+MR Aguilleira,West Indies,25,25,22,3,323,598,26,3,0,0,46,54.01,14.68
+MR Gillespie,New Zealand,10,10,5,5,80,95,8,1,0,0,28,84.21,16.0
+MR Johnson,United States of America,2,2,2,0,20,23,3,0,0,0,20,86.96,10.0
+MR Marsh,Australia,93,93,81,12,3066,3314,283,101,20,4,177,92.52,37.85
+MR Meshram,India,16,16,14,2,322,571,36,4,3,0,78,56.39,23.0
+MR Swart,Netherlands,5,5,5,0,59,78,6,1,0,0,29,75.64,11.8
+MRJ Watt,Scotland,52,52,35,17,717,900,56,16,1,0,60,79.67,20.49
+MS Atapattu,Sri Lanka,65,65,58,7,2025,3019,201,0,10,3,124,67.08,34.91
+MS Chapman,New Zealand,26,26,23,3,880,848,84,30,4,3,132,103.77,38.26
+MS Dhoni,India,279,279,200,79,10274,12090,787,210,72,9,148,84.98,51.37
+MS Kashyap,India,1,1,1,0,8,15,1,0,0,0,8,53.33,8.0
+MS Kasprowicz,Australia,4,4,1,3,11,21,1,0,0,0,9,52.38,11.0
+MS Panesar,England,7,7,5,2,26,92,2,0,0,0,13,28.26,5.2
+MS Sinclair,New Zealand,15,15,12,3,367,566,32,2,3,0,78,64.84,30.58
+MS Tshabalala,South Africa,1,1,0,0,2,3,0,0,0,0,2,66.67,inf
+MS Wade,Australia,82,82,70,12,1792,2226,127,33,10,1,100,80.5,25.6
+MT Chinouya,Zimbabwe,2,2,1,1,6,9,1,0,0,0,6,66.67,6.0
+MT Herbert,Ireland,1,1,1,0,1,22,0,0,0,0,1,4.55,1.0
+MT Renshaw,Australia,3,3,2,1,107,113,4,2,1,0,56,94.69,53.5
+MV Boucher,South Africa,106,106,78,28,2617,2961,199,55,12,1,147,88.38,33.55
+MV Waldron,Ireland,21,21,18,3,290,639,26,0,0,0,41,45.38,16.11
+MVT Fernando,Sri Lanka,8,8,2,6,30,62,3,0,0,0,7,48.39,15.0
+MW Forde,West Indies,12,12,10,2,193,159,13,15,1,0,58,121.38,19.3
+MW Machan,Scotland,11,11,11,0,393,497,36,4,3,0,86,79.07,35.73
+MW Parkinson,England,1,1,0,0,7,8,1,0,0,0,7,87.5,inf
+MW Short,Australia,15,15,15,0,372,411,37,10,3,0,74,90.51,24.8
+MWA van Nierop,Netherlands,1,1,1,0,4,16,1,0,0,0,4,25.0,4.0
+Maahi Madhavan,United States of America,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+Maaz Sadaqat,Pakistan,1,1,1,0,18,29,3,0,0,0,18,62.07,18.0
+Maham Tariq,Pakistan,3,3,3,0,3,38,0,0,0,0,2,7.89,1.0
+Mahbubul Alam,Bangladesh,2,2,2,0,81,72,3,4,1,0,59,112.5,40.5
+Mahedi Hasan,Bangladesh,10,10,8,2,122,195,10,2,0,0,29,62.56,15.25
+Mahidul Islam Ankon,Bangladesh,3,3,3,0,69,122,5,0,0,0,46,56.56,23.0
+Mahmudullah,Bangladesh,189,189,142,47,5131,6811,392,99,29,4,128,75.33,36.13
+Manjural Islam,Bangladesh,3,3,2,1,2,11,0,0,0,0,2,18.18,1.0
+Manjural Islam Rana,Bangladesh,13,13,10,3,251,468,17,0,1,0,63,53.63,25.1
+Mansoor Amjad,Pakistan,1,1,1,0,5,10,0,0,0,0,5,50.0,5.0
+Marina Iqbal,Pakistan,8,8,8,0,137,312,12,0,0,0,38,43.91,17.12
+Marufa Akter,Bangladesh,19,19,7,12,63,106,6,0,0,0,15,59.43,9.0
+Mashrafe Mortaza,Bangladesh,121,121,98,23,1304,1609,108,42,0,0,44,81.04,13.31
+Meghna Singh,India,7,7,3,4,33,51,4,0,0,0,12,64.71,11.0
+Mehedi Hasan Miraz,Bangladesh,71,71,62,9,1309,1683,119,24,3,1,100,77.78,21.11
+Mehrab Hossain jnr,Bangladesh,10,10,10,0,183,431,17,0,1,0,54,42.46,18.3
+Mehran Khan,Oman,4,4,4,0,66,70,3,6,0,0,37,94.29,16.5
+Melanie Ani,Papua New Guinea,2,2,2,0,0,2,0,0,0,0,0,0.0,0.0
+Milind Kumar,United States of America,20,20,14,6,1011,1010,89,27,7,3,155,100.1,72.21
+Miria Raio,Papua New Guinea,2,2,1,1,6,21,0,0,0,0,4,28.57,6.0
+Misbah-ul-Haq,Pakistan,135,135,111,24,4752,6549,319,76,39,0,96,72.56,42.81
+Mohammad Aadil Alam,Nepal,4,4,4,0,70,82,6,3,0,0,36,85.37,17.5
+Mohammad Ali,Pakistan,1,1,0,0,0,2,0,0,0,0,0,0.0,0.0
+Mohammad Amir,Pakistan,30,30,20,10,363,457,32,8,2,0,73,79.43,18.15
+Mohammad Ashraful,Bangladesh,113,113,105,8,2301,3465,241,15,14,3,109,66.41,21.91
+Mohammad Asif,Pakistan,12,12,8,4,26,94,1,0,0,0,6,27.66,3.25
+Mohammad Boota,United Arab Emirates,7,7,6,1,173,240,12,6,1,0,59,72.08,28.83
+Mohammad Hafeez,Pakistan,202,202,187,15,6351,8347,635,106,37,11,140,76.09,33.96
+Mohammad Haris,Pakistan,5,5,4,1,30,36,2,1,0,0,17,83.33,7.5
+Mohammad Hasnain,Pakistan,7,7,3,4,53,34,9,1,0,0,28,155.88,17.67
+Mohammad Iqbal,Canada,2,2,2,0,33,56,6,0,0,0,30,58.93,16.5
+Mohammad Irfan,Pakistan,30,30,12,18,48,152,5,2,0,0,12,31.58,4.0
+Mohammad Kashif,Netherlands,1,1,1,0,1,11,0,0,0,0,1,9.09,1.0
+Mohammad Mithun,Bangladesh,28,28,24,4,711,948,61,16,6,0,73,75.0,29.62
+Mohammad Nadeem,Oman,34,34,19,15,827,1319,61,9,6,0,76,62.7,43.53
+Mohammad Naim,Bangladesh,4,4,4,0,58,99,8,0,0,0,21,58.59,14.5
+Mohammad Naveed,United Arab Emirates,27,27,20,7,275,267,23,16,0,0,30,103.0,13.75
+Mohammad Nawaz,Pakistan,19,19,14,5,305,366,20,14,1,0,59,83.33,21.79
+Mohammad Nawaz (3),Pakistan,12,12,9,3,193,221,15,2,1,0,53,87.33,21.44
+Mohammad Rafique,Bangladesh,46,46,34,12,492,745,39,14,1,0,72,66.04,14.47
+Mohammad Rizwan,Pakistan,88,88,67,21,2833,3401,238,35,18,4,131,83.3,42.28
+Mohammad Saifuddin,Bangladesh,18,18,10,8,360,439,29,6,2,0,51,82.0,36.0
+Mohammad Salman,Pakistan,3,3,2,1,22,40,2,0,0,0,19,55.0,11.0
+Mohammad Sami,Pakistan,24,24,16,8,246,362,12,8,0,0,46,67.96,15.38
+Mohammad Shahzad,United Arab Emirates,3,3,3,0,49,68,5,2,0,0,28,72.06,16.33
+Mohammad Talha,Pakistan,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+Mohammad Tauqir,United Arab Emirates,7,7,5,2,34,83,4,0,0,0,17,40.96,6.8
+Mohammad Wasim,Pakistan,13,13,10,3,93,102,7,5,0,0,17,91.18,9.3
+Mohammad Yousuf,Pakistan,76,76,65,11,2783,3741,236,13,20,4,117,74.39,42.82
+Mohammed Qasim,United Arab Emirates,4,4,4,0,91,179,10,0,0,0,41,50.84,22.75
+Mohammed Shami,India,48,48,28,20,224,282,17,9,0,0,25,79.43,8.0
+Mohammed Siraj,India,19,19,8,11,57,139,3,0,0,0,9,41.01,7.12
+Moin Khan,Pakistan,15,15,10,5,274,318,21,3,2,0,72,86.16,27.4
+Mominul Haque,Bangladesh,22,22,22,0,495,671,54,1,2,0,60,73.77,22.5
+Moniruzzaman,Bangladesh,2,2,2,0,1,20,0,0,0,0,1,5.0,0.5
+Mosaddek Hossain,Bangladesh,31,31,23,8,524,655,46,11,3,0,52,80.0,22.78
+Mosharraf Hossain,Bangladesh,4,4,3,1,22,64,0,0,0,0,8,34.38,7.33
+Mrittunjoy Chowdhury,Bangladesh,1,1,1,0,8,11,0,0,0,0,8,72.73,8.0
+Mudassar Bukhari,Netherlands,12,12,11,1,126,182,5,4,0,0,28,69.23,11.45
+Muhammad Farooq,United Arab Emirates,2,2,2,0,4,16,1,0,0,0,4,25.0,2.0
+Muhammad Jawadullah,United Arab Emirates,9,9,4,5,15,22,1,1,0,0,13,68.18,3.75
+Muhammad Musa,Pakistan,1,1,0,0,9,3,2,0,0,0,9,300.0,inf
+Muhammad Rohid,United Arab Emirates,2,2,0,0,14,19,2,0,0,0,8,73.68,inf
+Muhammad Shahdad,United Arab Emirates,3,3,3,0,131,221,9,3,1,0,96,59.28,43.67
+Muhammad Usman,United Arab Emirates,34,34,30,4,888,1212,80,20,3,1,102,73.27,29.6
+Mujibur Ali,Oman,4,4,3,1,50,132,2,0,0,0,23,37.88,16.67
+Mukesh Kumar,India,2,2,1,1,10,17,2,0,0,0,6,58.82,10.0
+Muneeba Ali,Pakistan,57,57,54,3,1364,2272,165,4,5,1,107,60.04,25.26
+Munir Dar,Hong Kong,2,2,2,0,18,17,4,0,0,0,14,105.88,9.0
+Murshida Khatun,Bangladesh,26,26,24,2,429,780,56,1,2,0,91,55.0,17.88
+Musa Ahmed,Netherlands,13,13,13,0,238,379,20,3,1,0,61,62.8,18.31
+Mushfiqur Rahim,Bangladesh,227,227,188,39,7096,8993,568,94,44,9,144,78.91,37.74
+Mushfiqur Rahman,Bangladesh,14,14,12,2,208,416,19,0,0,0,36,50.0,17.33
+Mustafizur Rahman,Bangladesh,48,48,23,25,153,323,17,1,0,0,20,47.37,6.65
+Muzahir Raza,Oman,1,1,1,0,10,7,2,0,0,0,10,142.86,10.0
+N Boje,South Africa,11,11,5,6,215,211,23,2,1,0,50,101.9,43.0
+N Boochatham,Thailand,12,12,12,0,165,332,19,0,0,0,29,49.7,13.75
+N Burger,South Africa,7,7,3,4,39,95,2,0,0,0,17,41.05,13.0
+N Chaiwai,Thailand,14,14,11,3,316,515,32,0,3,0,65,61.36,28.73
+N Chantam,Thailand,14,14,14,0,630,918,74,6,7,1,102,68.63,45.0
+N Davin,Namibia,12,12,12,0,165,211,18,4,0,0,40,78.2,13.75
+N Deonarine,West Indies,25,25,22,3,546,873,48,6,3,0,65,62.54,24.82
+N Dickwella,Sri Lanka,52,52,51,1,1604,1758,187,12,9,2,116,91.24,31.45
+N Dutta,Canada,5,5,3,2,70,122,2,2,0,0,45,57.38,23.33
+N Fernandes,United Arab Emirates,1,1,1,0,5,13,0,0,0,0,5,38.46,5.0
+N Gwanzura,Zimbabwe,10,10,10,0,125,207,9,0,0,0,34,60.39,12.5
+N Hussain,England,11,11,11,0,213,324,15,0,1,0,54,65.74,19.36
+N Ifill,Canada,2,2,2,0,16,44,2,0,0,0,9,36.36,8.0
+N Koncharoenkai,Thailand,11,11,10,1,182,260,22,0,0,0,30,70.0,18.2
+N Kruger,Netherlands,1,1,1,0,5,20,0,0,0,0,5,25.0,5.0
+N M'shangwe,Zimbabwe,4,4,4,0,38,44,0,5,0,0,16,86.36,9.5
+N Madziva,Zimbabwe,8,8,7,1,59,123,5,0,0,0,25,47.97,8.43
+N Mlaba,South Africa,21,21,14,7,59,103,5,1,0,0,16,57.28,4.21
+N Niranjana,India,6,6,5,1,24,60,3,0,0,0,12,40.0,4.8
+N Peter,South Africa,1,1,1,0,16,31,2,0,0,0,16,51.61,16.0
+N Pokana,Papua New Guinea,11,11,5,6,54,124,3,1,0,0,11,43.55,10.8
+N Pooran,West Indies,54,54,47,7,1829,1913,142,75,9,3,118,95.61,38.91
+N Pradeep,Sri Lanka,19,19,7,12,35,80,3,1,0,0,7,43.75,5.0
+N Rana,India,1,1,1,0,7,14,0,0,0,0,7,50.0,7.0
+N Shangase,South Africa,13,13,12,1,163,247,16,3,1,0,55,65.99,13.58
+N Shree Charani,India,7,7,6,1,22,34,0,2,0,0,11,64.71,3.67
+N Sibanda,Zimbabwe,16,16,11,5,113,261,6,0,0,0,33,43.3,10.27
+N Vanua,Papua New Guinea,49,49,45,4,769,974,39,45,2,0,60,78.95,17.09
+N Vare,Papua New Guinea,12,12,12,0,170,412,14,0,0,0,44,41.26,14.17
+N de Klerk,South Africa,52,52,40,12,992,1156,100,19,3,0,84,85.81,24.8
+NA Greenwood,Jersey,4,4,4,0,35,69,3,0,0,0,14,50.72,8.75
+NA Moodley,South Africa,1,1,1,0,5,10,1,0,0,0,5,50.0,5.0
+NA Rock,Ireland,2,2,2,0,7,25,0,0,0,0,5,28.0,3.5
+NA Statham,Netherlands,2,2,2,0,7,45,0,0,0,0,7,15.56,3.5
+NA de Groot,Canada,6,6,6,0,44,130,6,0,0,0,17,33.85,7.33
+NAM McLean,West Indies,1,1,1,0,5,7,0,0,0,0,5,71.43,5.0
+NB Mahwire,Zimbabwe,8,8,7,1,40,108,2,0,0,0,10,37.04,5.71
+NC Dodd,New Zealand,9,9,9,0,145,299,15,1,1,0,52,48.49,16.11
+ND McKenzie,South Africa,7,7,6,1,182,260,16,0,2,0,63,70.0,30.33
+NE Bolton,Australia,39,39,36,3,1443,2069,151,1,7,4,124,69.74,40.08
+NE Bonner,West Indies,6,6,5,1,85,140,6,0,0,0,31,60.71,17.0
+NE Farrant,England,3,3,3,0,41,64,5,0,0,0,22,64.06,13.67
+NF Kelly,New Zealand,3,3,3,0,49,67,7,2,0,0,31,73.13,16.33
+NFI McCallum,Scotland,10,10,8,2,233,366,22,5,0,1,121,63.66,29.12
+NG Jones,Ireland,2,2,2,0,7,10,0,0,0,0,5,70.0,3.5
+NG Smith,New Zealand,9,9,7,2,43,70,3,0,0,0,17,61.43,6.14
+NGRP Jayasuriya,Sri Lanka,2,2,1,1,11,14,1,0,0,0,11,78.57,11.0
+NJ Astle,New Zealand,43,43,37,6,1571,2078,163,19,9,4,145,75.6,42.46
+NJ Browne,New Zealand,6,6,5,1,143,194,16,1,1,0,63,73.71,28.6
+NJ Carey,Australia,11,11,5,6,170,160,13,1,0,0,39,106.25,34.0
+NJ Coffey,Ireland,1,1,1,0,8,20,1,0,0,0,8,40.0,8.0
+NJ O'Brien,Ireland,63,63,57,6,1692,2394,140,25,12,1,109,70.68,29.68
+NK Crafton,West Indies,1,1,1,0,13,17,3,0,0,0,13,76.47,13.0
+NK Patel,United States of America,32,32,26,6,477,701,34,8,1,0,52,68.05,18.35
+NK Yadav,Nepal,3,3,2,1,12,29,0,0,0,0,10,41.38,6.0
+NL McCullum,New Zealand,62,62,51,11,1070,1247,69,33,4,0,65,85.81,20.98
+NLTC Perera,Sri Lanka,128,128,114,14,2233,2045,168,83,10,1,140,109.19,19.59
+NM Carter,Scotland,1,1,1,0,0,6,0,0,0,0,0,0.0,0.0
+NM Coulter-Nile,Australia,20,20,15,5,252,275,20,6,1,0,92,91.64,16.8
+NM Hauritz,Australia,27,27,14,13,295,317,20,6,1,0,53,93.06,21.07
+NM Lyon,Australia,13,13,4,9,77,83,7,2,0,0,30,92.77,19.25
+NM Sheikh,Scotland,1,1,1,0,10,34,0,0,0,0,10,29.41,10.0
+NN Odhiambo,Kenya,18,18,16,2,189,291,19,1,0,0,44,64.95,11.81
+NND de Silva,Sri Lanka,49,49,39,10,1157,1575,97,16,4,0,63,73.46,29.67
+NO Miller,West Indies,26,26,14,12,279,362,23,4,1,0,51,77.07,19.93
+NP Kenjige,United States of America,40,40,24,16,410,590,26,5,0,0,43,69.49,17.08
+NR Kirton,Canada,23,24,20,4,613,829,42,15,5,0,73,73.94,30.65
+NR Kumar,Canada,11,11,10,1,177,306,15,0,0,0,38,57.84,17.7
+NR Sciver,England,70,70,59,11,2668,2842,281,19,16,5,148,93.88,45.22
+NR Sciver-Brunt,England,30,30,24,6,1345,1445,153,9,6,5,129,93.08,56.04
+NRJ Croes,Netherlands,19,19,17,2,390,500,38,2,1,0,50,78.0,22.94
+NS Dhaliwal,Canada,17,17,17,0,456,811,41,9,4,0,87,56.23,26.82
+NS Poonia,Scotland,6,6,6,0,12,42,0,0,0,0,8,28.57,2.0
+NT Broom,New Zealand,37,37,34,3,919,1168,78,10,5,1,109,78.68,27.03
+NT Ellis,Australia,12,12,8,4,106,116,7,6,0,0,18,91.38,13.25
+NT Pascal,West Indies,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+NV Knight,England,13,13,13,0,390,544,31,2,3,0,88,71.69,30.0
+NV Ojha,India,1,1,1,0,1,9,0,0,0,0,1,11.11,1.0
+NW Bracken,Australia,31,31,16,15,174,265,11,3,0,0,21,65.66,10.88
+NY McLean,West Indies,14,14,14,0,231,362,27,4,2,0,82,63.81,16.5
+Nadeem Ahmed,Hong Kong,11,11,9,2,55,132,5,0,0,0,14,41.67,6.11
+Naeem Islam,Bangladesh,45,45,31,14,842,1246,73,12,5,0,84,67.58,27.16
+Nafees Iqbal,Bangladesh,9,9,9,0,128,270,12,0,1,0,58,47.41,14.22
+Nahid Rana,Bangladesh,2,2,0,0,4,9,1,0,0,0,4,44.44,inf
+Nahida Akter,Bangladesh,34,34,28,6,206,491,22,0,0,0,25,41.96,7.36
+Nahida Khan,Pakistan,42,42,42,0,1121,1760,133,2,6,0,79,63.69,26.69
+Nain Abidi,Pakistan,27,27,26,1,521,955,54,1,3,0,62,54.55,20.04
+Najeeb Amar,Hong Kong,2,2,1,1,34,42,5,0,0,0,21,80.95,34.0
+Najiha Alvi,Pakistan,12,12,9,3,206,318,10,0,0,0,36,64.78,22.89
+Nanthita Boonsukham,Thailand,1,1,1,0,0,4,0,0,0,0,0,0.0,0.0
+Naseem Khushi,Oman,24,24,23,1,360,335,24,19,1,0,69,107.46,15.65
+Naseem Shah,Pakistan,16,16,10,6,196,231,9,12,1,0,51,84.85,19.6
+Nashra Sandhu,Pakistan,48,48,24,24,118,408,7,1,0,0,11,28.92,4.92
+Nasir Aziz,United Arab Emirates,2,2,2,0,81,125,11,0,1,0,60,64.8,40.5
+Nasir Hossain,Bangladesh,51,51,43,8,1240,1579,111,14,6,1,100,78.53,28.84
+Nasir Jamshed,Pakistan,48,48,46,2,1418,1931,150,19,8,3,112,73.43,30.83
+Nasir Javed,United States of America,1,1,0,0,2,20,0,0,0,0,2,10.0,inf
+Nasum Ahmed,Bangladesh,11,11,9,2,171,206,17,6,0,0,44,83.01,19.0
+Natalia Pervaiz,Pakistan,16,16,13,3,294,397,28,2,1,0,73,74.06,22.62
+Naumanullah,Pakistan,1,1,1,0,5,4,1,0,0,0,5,125.0,5.0
+Navdeep Saini,India,5,5,2,3,107,141,9,3,0,0,45,75.89,53.5
+Naved Latif,Pakistan,2,2,2,0,7,17,0,0,0,0,4,41.18,3.5
+Naved-ul-Hasan,Pakistan,42,42,27,15,449,519,31,14,0,0,33,86.51,16.63
+Nazimuddin,Bangladesh,11,11,11,0,147,246,18,2,0,0,47,59.76,13.36
+Nazmul Hossain,Bangladesh,9,9,4,5,15,77,0,0,0,0,6,19.48,3.75
+Nazmul Hossain Shanto,Bangladesh,46,47,44,3,1397,1795,155,12,8,2,122,77.83,31.75
+Nazmul Islam,Bangladesh,1,1,1,0,7,14,0,0,0,0,7,50.0,7.0
+Nestor Dhamba,Oman,5,5,3,2,23,52,1,0,0,0,10,44.23,7.67
+Nida Dar,Pakistan,55,55,51,4,1171,1784,102,10,9,0,87,65.64,22.96
+Nigar Sultana,Bangladesh,54,55,49,6,1325,2409,115,5,6,1,101,55.0,27.04
+Nishita Akter Nishi,Bangladesh,5,5,2,3,13,21,1,0,0,0,5,61.9,6.5
+Nithish Kumar Reddy,India,4,4,3,1,100,101,3,5,1,0,53,99.01,33.33
+Nizakat Khan,Hong Kong,15,15,15,0,508,628,56,12,2,0,93,80.89,33.87
+Nurul Hasan,Bangladesh,8,8,4,4,213,223,18,5,0,0,45,95.52,53.25
+Nuzhat Tasnia,Bangladesh,2,2,2,0,16,43,0,0,0,0,10,37.21,8.0
+O Bell,Scotland,5,5,3,2,32,77,3,0,0,0,15,41.56,10.67
+O Chare,Zimbabwe,1,1,1,0,3,18,0,0,0,0,3,16.67,3.0
+O Davidson,Scotland,1,1,1,0,14,33,0,0,0,0,14,42.42,14.0
+O Kamchomphu,Thailand,12,12,8,4,48,93,2,0,0,0,14,51.61,6.0
+O Kirsten,South Africa,1,1,1,0,22,54,2,0,0,0,22,40.74,22.0
+O Prendergast,Ireland,41,41,35,6,1217,1594,111,10,6,1,122,76.35,34.77
+O Thomas,West Indies,14,14,5,9,22,78,2,0,0,0,7,28.21,4.4
+OA Shah,England,52,52,48,4,1579,1963,124,26,10,1,107,80.44,32.9
+OAC Banks,West Indies,2,2,2,0,45,60,0,2,0,0,33,75.0,22.5
+OC McCoy,West Indies,1,1,0,0,0,1,0,0,0,0,0,0.0,0.0
+OEG Baartman,South Africa,5,5,1,4,16,38,0,0,0,0,10,42.11,16.0
+OF Smith,West Indies,8,8,7,1,199,128,14,15,0,0,46,155.47,28.43
+OL Pitcher,Bermuda,3,3,3,0,28,83,2,0,0,0,22,33.73,9.33
+OO Bascome,Bermuda,1,1,1,0,17,47,2,0,0,0,17,36.17,17.0
+OP Stone,England,6,6,3,3,24,35,2,0,0,0,9,68.57,8.0
+OU Ranasinghe,Sri Lanka,24,24,21,3,279,489,28,0,1,0,51,57.06,13.29
+OV Anderson,South Africa,1,1,0,0,46,97,4,0,0,0,46,47.42,inf
+Omid Shafi Rahman,United Arab Emirates,2,2,1,1,1,7,0,0,0,0,1,14.29,1.0
+P Jayawickrama,Sri Lanka,3,3,1,2,7,12,1,0,0,0,4,58.33,7.0
+P Khadka,Nepal,8,8,7,1,252,317,33,3,0,1,115,79.5,36.0
+P Kumar,India,33,33,21,12,292,338,25,7,1,0,54,86.39,13.9
+P Litchfield,Australia,38,38,34,4,1413,1613,193,13,9,3,119,87.6,41.56
+P Marange,Zimbabwe,10,10,10,0,125,154,13,1,0,0,29,81.17,12.5
+P Maya,Thailand,13,13,11,2,114,214,10,1,0,0,43,53.27,10.36
+P Molkenboer,Netherlands,6,6,6,0,135,279,7,0,1,0,75,48.39,22.5
+P Mujaji,Zimbabwe,7,7,7,0,86,166,8,0,0,0,26,51.81,12.29
+P Mustard,England,9,9,9,0,219,244,25,5,1,0,83,89.75,24.33
+P Nissanka,Sri Lanka,66,66,63,3,2232,2674,286,24,16,5,137,83.47,35.43
+P Rathnayake,Sri Lanka,4,4,4,0,194,200,17,2,0,1,121,97.0,48.5
+P Roy,India,2,2,2,0,5,34,0,0,0,0,4,14.71,2.5
+P Sarraf,Nepal,10,10,9,1,72,118,6,2,0,0,15,61.02,8.0
+P Siaka,Papua New Guinea,11,11,11,0,230,327,21,0,1,0,60,70.34,20.91
+P Subrayen,South Africa,2,2,2,0,18,18,1,1,0,0,17,100.0,9.0
+P Utseya,Zimbabwe,97,97,59,38,1114,1935,76,11,3,0,68,57.57,18.88
+P Vastrakar,India,27,27,22,5,579,671,50,11,4,0,67,86.29,26.32
+PA Browne,West Indies,5,5,4,1,134,183,7,6,0,0,49,73.22,33.5
+PA Chatterji,Scotland,14,14,14,0,236,374,19,1,1,0,61,63.1,16.86
+PA Desai,Canada,1,1,0,0,2,12,0,0,0,0,2,16.67,inf
+PA Hitchcock,New Zealand,5,5,3,2,32,50,3,1,0,0,11,64.0,10.67
+PA Jaques,Australia,5,5,5,0,123,170,16,1,1,0,94,72.35,24.6
+PA Nixon,England,18,18,14,4,297,351,21,7,0,0,49,84.62,21.21
+PA Patel,India,29,29,26,3,693,884,75,7,4,0,95,78.39,26.65
+PA de Silva,Sri Lanka,13,13,13,0,390,487,34,7,3,0,92,80.08,30.0
+PA van Meekeren,Netherlands,23,23,16,7,111,162,8,3,0,0,21,68.52,6.94
+PADLR Sandakan,Sri Lanka,19,19,12,7,64,147,4,0,0,0,16,43.54,5.33
+PARP Perera,Sri Lanka,2,2,2,0,33,61,2,0,0,0,33,54.1,16.5
+PBB Rajapaksa,Sri Lanka,5,5,5,0,89,87,14,2,1,0,65,102.3,17.8
+PC Connell,Ireland,2,2,2,0,6,24,1,0,0,0,6,25.0,3.0
+PC de Silva,Sri Lanka,6,6,5,1,77,98,9,0,0,0,44,78.57,15.4
+PD Blignaut,Unknown,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0
+PD Collingwood,England,145,145,116,29,4148,5507,300,60,23,3,120,75.32,35.76
+PD Macchi,Oman,2,2,2,0,12,31,1,0,0,0,12,38.71,6.0
+PD McGlashan,New Zealand,2,2,1,1,63,53,6,1,1,0,56,118.87,63.0
+PD Salt,England,30,30,30,0,976,861,133,20,5,1,122,113.36,32.53
+PDRL Perera,Sri Lanka,4,4,2,2,5,9,0,0,0,0,4,55.56,2.5
+PG Fulton,New Zealand,43,43,38,5,1216,1726,104,18,8,0,83,70.45,32.0
+PG Gillespie,Ireland,2,2,2,0,2,11,0,0,0,0,2,18.18,1.0
+PG Raut,India,41,41,36,5,1436,2350,155,6,10,2,106,61.11,39.89
+PHKD Mendis,Sri Lanka,26,26,20,6,527,663,40,13,3,0,64,79.49,26.35
+PHT Kaushal,Sri Lanka,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+PJ Cummins,Australia,57,57,37,20,525,652,42,12,0,0,37,80.52,14.19
+PJ Forrest,Australia,14,14,14,0,368,577,34,4,3,1,104,63.78,26.29
+PJ Hughes,Australia,24,24,23,1,826,1118,91,5,4,2,138,73.88,35.91
+PJ Ingram,New Zealand,7,7,7,0,193,239,30,0,1,0,69,80.75,27.57
+PJ Moor,Zimbabwe,32,32,31,1,520,781,29,20,1,0,50,66.58,16.77
+PJ Ongondo,Kenya,26,26,19,7,150,250,9,4,0,0,20,60.0,7.89
+PJ Scholfield,England,3,3,3,0,59,61,7,1,0,0,31,96.72,19.67
+PJ te Beest,Netherlands,2,2,2,0,3,53,0,0,0,0,2,5.66,1.5
+PJC Hoffmann,Scotland,3,3,2,1,30,23,4,1,0,0,18,130.43,15.0
+PJK Mooney,Ireland,2,2,1,1,11,8,1,0,0,0,11,137.5,11.0
+PKD Chase,Ireland,8,8,6,2,22,33,1,1,0,0,14,66.67,3.67
+PL Mommsen,Scotland,19,19,15,4,601,786,49,3,4,1,111,76.46,40.07
+PLS Gamage,Sri Lanka,5,5,2,3,4,27,0,0,0,0,3,14.81,2.0
+PM Inglis,New Zealand,3,3,1,2,48,31,6,0,0,0,34,154.84,48.0
+PM Liyanagamage,Sri Lanka,9,9,7,2,53,122,6,0,0,0,15,43.44,7.57
+PM Pushpakumara,Sri Lanka,2,2,2,0,11,26,0,1,0,0,8,42.31,5.5
+PM Seelaar,Netherlands,20,20,19,1,218,366,20,3,0,0,43,59.56,11.47
+PM Siddle,Australia,6,6,3,3,31,30,2,0,0,0,10,103.33,10.33
+PM Weerakkody,Sri Lanka,37,37,36,1,638,1172,64,0,1,0,61,54.44,17.72
+PN Sproul,Scotland,4,4,4,0,28,66,3,0,0,0,17,42.42,7.0
+PP Chawla,India,12,12,7,5,38,60,3,0,0,0,13,63.33,5.43
+PP Ojha,India,9,9,2,7,46,114,3,0,0,0,16,40.35,23.0
+PP Shaw,India,6,6,6,0,189,174,32,2,0,0,49,108.62,31.5
+PR Stirling,Ireland,110,110,108,2,3548,4148,404,86,16,8,162,85.54,32.85
+PRCS Kumarihami,Sri Lanka,20,20,18,2,283,764,25,0,0,0,49,37.04,15.72
+PRP Boissevain,Netherlands,3,3,3,0,33,57,2,0,0,0,15,57.89,11.0
+PS Athavale,Oman,7,7,7,0,103,176,14,0,0,0,34,58.52,14.71
+PS Masvaure,Zimbabwe,2,2,2,0,40,63,2,0,0,0,39,63.49,20.0
+PS Punia,India,11,11,10,1,273,503,31,1,2,0,75,54.27,27.3
+PSP Handscomb,Australia,20,20,19,1,632,656,47,6,4,1,117,96.34,33.26
+PT Collins,West Indies,5,5,2,3,3,10,0,0,0,0,1,30.0,1.5
+PVD Chameera,Sri Lanka,36,36,25,11,292,502,22,3,0,0,29,58.17,11.68
+PW Borren,Netherlands,17,17,14,3,413,463,42,8,3,0,84,89.2,29.5
+PW Gunaratne,Sri Lanka,1,1,0,0,15,15,3,0,0,0,15,100.0,inf
+PWA Mulder,South Africa,21,21,16,5,272,308,27,3,1,0,64,88.31,17.0
+PWDM Badalge,Sri Lanka,3,3,3,0,18,35,2,0,0,0,9,51.43,6.0
+PWH de Silva,Sri Lanka,53,53,45,8,1024,991,86,33,4,0,80,103.33,22.76
+PY Lavine,West Indies,1,1,1,0,8,26,0,0,0,0,8,30.77,8.0
+Pankaj Singh,India,1,1,0,0,3,3,0,0,0,0,3,100.0,inf
+Panna Ghosh,Bangladesh,8,8,5,3,85,207,9,0,0,0,23,41.06,17.0
+Pargat Singh,Canada,26,27,25,2,956,1271,107,16,7,1,102,75.22,38.24
+Parveen Kumar,Canada,4,4,3,1,41,48,5,0,0,0,23,85.42,13.67
+Parvez Hossain Emon,Bangladesh,3,3,3,0,108,133,13,3,1,0,67,81.2,36.0
+Pooja Ganesh,United States of America,3,3,2,1,49,93,2,0,0,0,45,52.69,24.5
+Poonam Yadav,India,16,16,11,5,53,140,2,0,0,0,10,37.86,4.82
+Pratika Rawal,India,26,26,25,1,1189,1511,141,10,8,2,154,78.69,47.56
+Pratis GC,Nepal,1,1,0,0,11,6,1,0,0,0,11,183.33,inf
+Priya Mishra,India,4,4,2,2,6,31,0,0,0,0,5,19.35,3.0
+Q Joseph,West Indies,23,23,23,0,445,578,59,10,3,0,70,76.99,19.35
+Q de Kock,South Africa,159,159,151,8,7014,7390,791,131,31,23,178,94.91,46.45
+Qadeer Ahmed,United Arab Emirates,3,3,0,0,2,12,0,0,0,0,2,16.67,inf
+Qaiser Ali,Canada,5,5,5,0,38,98,4,0,0,0,15,38.78,7.6
+Qanita Jalil,Pakistan,9,9,8,1,32,64,2,0,0,0,14,50.0,4.0
+R Ashwin,India,61,61,43,18,707,831,60,7,1,0,65,85.08,16.44
+R Boyce,West Indies,5,5,5,0,30,100,3,0,0,0,14,30.0,6.0
+R Chopra,United Arab Emirates,18,18,18,0,454,622,40,10,2,1,101,72.99,25.22
+R Clarke,England,9,9,9,0,91,172,6,0,0,0,39,52.91,10.11
+R Dhakal,Nepal,2,2,1,1,5,7,0,0,0,0,4,71.43,5.0
+R Dhar,India,2,2,2,0,53,53,6,0,1,0,50,100.0,26.5
+R Dhawan,India,2,2,1,1,12,13,1,0,0,0,9,92.31,12.0
+R Dravid,India,118,118,98,20,3723,5220,348,17,34,1,103,71.32,37.99
+R Gunasekera,Canada,13,13,13,0,255,463,19,4,3,0,72,55.08,19.62
+R Hekure,Papua New Guinea,22,22,20,2,328,436,26,6,1,0,58,75.23,16.4
+R Kanoh,Thailand,8,8,7,1,100,149,14,0,0,0,38,67.11,14.29
+R Klein,Netherlands,9,9,8,1,38,81,1,0,0,0,8,46.91,4.75
+R MacDonald-Gay,England,1,1,1,0,17,14,2,0,0,0,17,121.43,17.0
+R Malhotra,India,5,5,4,1,118,185,7,0,0,0,38,63.78,29.5
+R McLaren,South Africa,41,41,26,15,485,696,42,6,1,0,71,69.68,18.65
+R Murray,Zimbabwe,5,5,4,1,108,180,6,2,0,0,47,60.0,27.0
+R Mutumbami,Zimbabwe,23,23,21,2,319,447,36,5,1,0,67,71.36,15.19
+R Ngarava,Zimbabwe,29,29,16,13,244,291,25,8,0,0,48,83.85,15.25
+R Ntozakhe,South Africa,7,7,4,3,8,30,0,0,0,0,3,26.67,2.0
+R Parag,India,1,1,1,0,15,13,2,0,0,0,15,115.38,15.0
+R Pasipanodya,Zimbabwe,6,6,4,2,67,162,6,0,0,0,32,41.36,16.75
+R Powell,West Indies,45,45,42,3,915,1054,60,40,2,1,101,86.81,21.79
+R Rampaul,West Indies,35,35,28,7,338,450,31,13,1,0,86,75.11,12.07
+R Ravindra,New Zealand,34,34,33,1,1392,1320,154,33,6,5,123,105.45,42.18
+R Rijke,Netherlands,13,13,13,0,238,339,23,2,2,0,83,70.21,18.31
+R Sharma,India,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+R Shepherd,West Indies,29,30,26,4,449,445,40,17,1,0,50,100.9,17.27
+R Slater,Scotland,4,4,1,3,90,103,7,0,1,0,61,87.38,90.0
+R Stokell,Ireland,21,21,17,4,305,499,20,4,1,0,53,61.12,17.94
+R Telemachus,South Africa,3,3,3,0,41,20,2,3,0,0,29,205.0,13.67
+R Trumpelmann,Namibia,37,38,30,8,488,619,34,20,2,0,55,78.84,16.27
+R Vinay Kumar,India,12,12,9,3,86,150,5,2,0,0,27,57.33,9.56
+R Walters,Namibia,2,2,2,0,0,6,0,0,0,0,0,0.0,0.0
+RA Herman,South Africa,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+RA Jadeja,India,137,137,89,48,2880,3466,209,55,13,0,87,83.09,32.36
+RA Jones,New Zealand,3,3,3,0,96,187,7,1,1,0,63,51.34,32.0
+RA Lewis,Ireland,2,2,2,0,2,13,0,0,0,0,2,15.38,1.0
+RA Mair,New Zealand,13,13,9,4,36,60,1,0,0,0,7,60.0,4.0
+RA Mariu,New Zealand,2,2,2,0,76,93,9,2,1,0,58,81.72,38.0
+RA Reifer,West Indies,5,5,5,0,51,103,1,0,0,0,27,49.51,10.2
+RA Rolfe,Ireland,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+RAP Nissanka,Sri Lanka,6,6,3,3,31,86,2,0,0,0,11,36.05,10.33
+RAS Lakmal,Sri Lanka,45,45,26,19,229,408,16,3,0,0,26,56.13,8.81
+RC Irani,England,10,10,8,2,118,202,7,0,0,0,39,58.42,14.75
+RD Berrington,Scotland,88,88,74,14,2691,3571,187,69,13,6,127,75.36,36.36
+RD Chahar,India,1,1,1,0,13,26,0,0,0,0,13,50.0,13.0
+RD Gaikwad,India,8,8,8,0,228,259,28,2,1,1,105,88.03,28.5
+RD Jacobs,West Indies,13,13,8,5,142,225,7,1,1,0,50,63.11,17.75
+RD McCann,Ireland,2,2,2,0,23,57,1,0,0,0,17,40.35,11.5
+RD Rickelton,South Africa,16,16,15,1,351,431,40,5,1,0,91,81.44,23.4
+RD Shah,Kenya,14,14,14,0,407,647,49,2,3,0,71,62.91,29.07
+RD Steede,Bermuda,2,2,2,0,15,22,2,0,0,0,9,68.18,7.5
+RDM Leverock,Bermuda,9,9,6,3,45,121,2,0,0,0,9,37.19,7.5
+RE van der Merwe,Netherlands,26,26,19,7,267,302,17,7,1,0,57,88.41,14.05
+RG Aga,Kenya,5,5,5,0,114,122,15,0,1,0,86,93.44,22.8
+RG Sharma,India,270,270,236,34,11357,12532,1069,351,60,32,264,90.62,48.12
+RH Candy,New Zealand,2,2,0,0,10,13,0,0,0,0,6,76.92,inf
+RH Priest,New Zealand,28,28,28,0,661,816,97,4,4,1,108,81.0,23.61
+RH Scholte,Netherlands,2,2,2,0,8,31,0,0,0,0,7,25.81,4.0
+RJ Harris,Australia,9,9,6,3,48,48,3,1,0,0,21,100.0,8.0
+RJ Nicol,New Zealand,21,21,19,2,586,805,53,13,2,2,146,72.8,30.84
+RJ Peterson,South Africa,34,34,23,11,523,636,49,5,1,0,68,82.23,22.74
+RJ Rolls,New Zealand,1,1,1,0,2,4,0,0,0,0,2,50.0,2.0
+RJ Sidebottom,England,16,16,10,6,124,187,11,0,0,0,24,66.31,12.4
+RJ Trott,Bermuda,4,4,2,2,95,194,7,0,0,0,48,48.97,47.5
+RJ van Vuuren,Namibia,5,5,3,2,26,38,2,1,0,0,14,68.42,8.67
+RJW Topley,England,11,11,3,8,20,66,0,1,0,0,6,30.3,6.67
+RK Kleinveldt,South Africa,7,7,7,0,105,129,9,5,0,0,43,81.4,15.0
+RK Paudel,Nepal,68,68,63,5,1876,2593,140,36,10,2,126,72.35,29.78
+RK Singh,India,2,2,2,0,55,43,5,3,0,0,38,127.91,27.5
+RK Whelan,Ireland,2,2,2,0,5,12,1,0,0,0,5,41.67,2.5
+RL Bhudia,Kenya,1,1,1,0,22,15,1,1,0,0,22,146.67,22.0
+RL Chase,West Indies,48,48,41,7,1004,1303,73,14,5,0,59,77.05,24.49
+RL Grundy,England,1,1,1,0,1,6,0,0,0,0,1,16.67,1.0
+RL Haynes,Australia,48,48,44,4,1966,2485,217,16,16,2,130,79.11,44.68
+RL Johnson,England,3,3,3,0,16,21,1,1,0,0,10,76.19,5.33
+RL Powell,West Indies,30,30,24,6,570,626,60,14,3,0,52,91.05,23.75
+RM Farrell,Australia,6,6,2,4,92,156,9,0,0,0,39,58.97,46.0
+RM Ghosh,India,52,52,42,10,1208,1210,126,38,7,0,96,99.83,28.76
+RM Haq,Scotland,17,17,13,4,181,354,18,1,1,0,71,51.13,13.92
+RM Jariwala,United States of America,4,4,4,0,30,53,1,1,0,0,14,56.6,7.5
+RM Patidar,India,1,1,1,0,22,18,3,1,0,0,22,122.22,22.0
+RM West,Ireland,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+RM van Oosterom,Netherlands,4,4,4,0,15,38,1,0,0,0,14,39.47,3.75
+RMAU Grimmond,West Indies,4,4,4,0,73,113,7,2,1,0,53,64.6,18.25
+RML Taylor,Scotland,9,9,8,1,105,128,9,1,0,0,46,82.03,13.12
+RMMP Rathnayake,Sri Lanka,1,1,1,0,22,31,3,0,0,0,22,70.97,22.0
+RMS Eranga,Sri Lanka,11,11,3,8,34,68,4,0,0,0,12,50.0,11.33
+RMVD Gunaratne,Sri Lanka,33,33,31,2,764,1132,87,4,3,1,101,67.49,24.65
+RN Bhatia,United Arab Emirates,9,9,7,2,51,114,4,0,0,0,24,44.74,7.29
+RN Lewis,West Indies,8,8,7,1,134,128,2,8,0,0,28,104.69,19.14
+RN ten Doeschate,Netherlands,13,13,10,3,594,682,65,7,3,3,119,87.1,59.4
+RO Hinds,West Indies,1,1,1,0,8,19,1,0,0,0,8,42.11,8.0
+RO Hurley,West Indies,2,2,2,0,8,17,0,0,0,0,6,47.06,4.0
+RO Hussain,Scotland,1,1,0,0,10,20,1,0,0,0,10,50.0,inf
+RP Alexander,United States of America,2,2,2,0,34,81,3,0,0,0,26,41.98,17.0
+RP Arnold,Sri Lanka,55,55,41,14,1068,1537,71,5,7,0,76,69.49,26.05
+RP Burl,Zimbabwe,33,33,29,4,761,929,60,22,5,0,83,81.92,26.24
+RP Lefebvre,Netherlands,4,4,3,1,43,68,4,1,0,0,30,63.24,14.33
+RP Singh,India,23,23,14,9,141,320,8,1,0,0,23,44.06,10.07
+RP Yadav,India,8,8,6,2,105,122,10,0,0,0,48,86.07,17.5
+RR Beaton,West Indies,2,2,1,1,15,54,2,0,0,0,12,27.78,15.0
+RR Emrit,West Indies,2,2,1,1,13,35,1,0,0,0,13,37.14,13.0
+RR Hendricks,South Africa,35,35,33,2,930,1211,98,9,7,1,102,76.8,28.18
+RR Joshi,Canada,1,1,1,0,3,4,0,0,0,0,3,75.0,3.0
+RR Pant,India,27,27,26,1,871,846,91,26,5,1,125,102.96,33.5
+RR Patel,Kenya,10,10,7,3,168,237,13,2,0,0,42,70.89,24.0
+RR Powar,India,15,15,13,2,156,246,12,2,1,0,54,63.41,12.0
+RR Ramdass,West Indies,1,1,1,0,1,9,0,0,0,0,1,11.11,1.0
+RR Rossouw,South Africa,35,35,32,3,1239,1341,131,22,7,3,132,92.39,38.72
+RR Sarwan,West Indies,113,113,97,16,3717,5143,316,38,28,1,115,72.27,38.32
+RR Watson,Scotland,11,11,9,2,239,344,32,2,2,0,54,69.48,26.56
+RS Bopara,England,108,108,87,21,2689,3520,204,34,14,1,101,76.39,30.91
+RS Gavaskar,India,8,8,6,2,93,164,5,1,0,0,22,56.71,15.5
+RS Gayakwad,India,11,11,7,4,15,48,1,0,0,0,5,31.25,2.14
+RS Higgins,Zimbabwe,2,2,2,0,2,21,0,0,0,0,2,9.52,1.0
+RS Kaluwitharana,Sri Lanka,8,8,7,1,176,246,22,1,2,0,54,71.54,25.14
+RS Morton,West Indies,41,41,35,6,1205,1872,91,13,7,2,110,64.37,34.43
+RS Vandort,Sri Lanka,3,3,3,0,10,17,2,0,0,0,10,58.82,3.33
+RS Williams,West Indies,33,33,31,2,477,1032,44,2,2,0,78,46.22,15.39
+RT Crandon,West Indies,1,1,1,0,5,9,1,0,0,0,5,55.56,5.0
+RT Lyons,Scotland,1,1,0,0,5,3,1,0,0,0,5,166.67,inf
+RT Ponting,Australia,189,189,173,16,6979,8658,665,93,43,16,164,80.61,40.34
+RTM Mendis,Sri Lanka,4,4,2,2,50,50,3,1,0,0,26,100.0,25.0
+RV Uthappa,India,41,41,36,5,934,1070,108,19,6,0,86,87.29,25.94
+RW Chakabva,Zimbabwe,50,50,47,3,1106,1650,88,8,4,1,102,67.03,23.53
+RW Price,Zimbabwe,44,44,34,10,315,541,26,4,0,0,46,58.23,9.26
+RW Sims,Zimbabwe,1,1,1,0,24,64,2,0,0,0,24,37.5,24.0
+RW Staple,United States of America,2,2,2,0,4,13,1,0,0,0,4,30.77,2.0
+RWT Key,England,4,4,4,0,36,105,3,0,0,0,19,34.29,9.0
+Rabeya Khan,Bangladesh,21,21,17,4,149,241,17,1,0,0,43,61.83,8.76
+Rabiya Shah,Pakistan,6,6,5,1,80,127,10,0,0,0,34,62.99,16.0
+Rachel Delaney,Ireland,11,11,8,3,78,187,5,0,0,0,22,41.71,9.75
+Rahat Ali,Pakistan,5,5,3,2,8,37,0,0,0,0,6,21.62,2.67
+Rajin Saleh,Bangladesh,26,26,26,0,515,1059,41,1,2,0,82,48.63,19.81
+Rameen Shamim,Pakistan,10,10,8,2,87,180,5,0,0,0,23,48.33,10.88
+Rameez Shahzad,United Arab Emirates,25,25,22,3,848,1118,75,17,4,2,121,75.85,38.55
+Raqibul Hasan,Bangladesh,48,48,43,5,1177,1910,89,8,7,0,89,61.62,27.37
+Rashid Latif,Pakistan,17,17,15,2,335,408,22,6,0,0,38,82.11,22.33
+Rashid Zia,United States of America,2,2,2,0,9,58,2,0,0,0,8,15.52,4.5
+Ravi Bishnoi,India,1,1,0,0,4,2,1,0,0,0,4,200.0,inf
+Ravinderpal Singh,Canada,5,5,5,0,77,107,5,3,0,0,34,71.96,15.4
+Raza Hasan,Pakistan,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+Raza-ur-Rehman,Canada,4,4,4,0,174,215,24,0,2,0,88,80.93,43.5
+Rehan Ahmed,England,7,7,7,0,99,124,11,1,0,0,27,79.84,14.14
+Renuka Singh,India,16,16,9,7,21,57,2,0,0,0,8,36.84,2.33
+Reon King,West Indies,1,1,0,0,3,10,0,0,0,0,3,30.0,inf
+Rinitha Rajith,United Arab Emirates,8,8,7,1,147,231,16,0,1,0,59,63.64,21.0
+Rishad Hossain,Bangladesh,9,9,6,3,166,103,12,13,0,0,48,161.17,27.67
+Ritu Moni,Bangladesh,30,30,27,3,487,791,44,4,1,0,67,61.57,18.04
+Rizwan Cheema,Canada,13,13,12,1,196,167,23,9,1,0,76,117.37,16.33
+Robiul Islam,Bangladesh,1,1,0,0,0,1,0,0,0,0,0,0.0,0.0
+Rohan Mustafa,United Arab Emirates,69,69,64,5,1401,2261,112,26,7,1,109,61.96,21.89
+Rony Talukdar,Bangladesh,1,1,1,0,4,15,1,0,0,0,4,26.67,4.0
+Rubel Hossain,Bangladesh,39,39,24,15,112,226,11,2,0,0,15,49.56,4.67
+Rubya Haider,Bangladesh,7,7,6,1,144,265,19,0,1,0,54,54.34,24.0
+Rumana Ahmed,Bangladesh,24,24,22,2,346,683,35,0,2,0,74,50.66,15.73
+Rumman Raees,Pakistan,4,4,3,1,27,25,5,0,0,0,16,108.0,9.0
+S Asha,India,1,1,0,0,8,5,1,0,0,0,8,160.0,inf
+S Badrinath,India,6,6,5,1,79,173,4,0,0,0,27,45.66,15.8
+S Baker,England,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+S Bau,Papua New Guinea,49,49,46,3,874,1483,71,8,4,0,81,58.93,19.0
+S Bhari,Nepal,6,6,2,4,22,52,2,0,0,0,11,42.31,11.0
+S Chanderpaul,West Indies,108,108,88,20,3804,5605,292,40,27,6,127,67.87,43.23
+S Chattergoon,West Indies,9,9,8,1,281,441,42,3,2,0,54,63.72,35.12
+S Chaturongrattana,Thailand,5,5,3,2,13,36,1,0,0,0,6,36.11,4.33
+S Daniel,Sri Lanka,1,1,1,0,12,29,1,0,0,0,12,41.38,12.0
+S Dhakal,Nepal,6,6,1,5,7,44,0,0,0,0,4,15.91,7.0
+S Dhamala,Nepal,1,1,1,0,12,40,0,0,0,0,12,30.0,12.0
+S Dhaniram,Canada,11,11,11,0,281,316,23,4,2,0,79,88.92,25.55
+S Dharnidharka,United Arab Emirates,8,8,6,2,122,251,13,0,0,0,45,48.61,20.33
+S Dhawan,India,163,163,153,10,6733,7524,838,78,38,17,143,89.49,44.01
+S Dube,India,4,4,4,0,43,49,3,2,0,0,25,87.76,10.75
+S Ecclestone,England,51,51,37,14,414,589,35,6,0,0,33,70.29,11.19
+S Forbes,Ireland,21,21,21,0,378,676,40,0,2,0,55,55.92,18.0
+S Fouché,Namibia,10,10,10,0,261,403,22,2,2,0,83,64.76,26.1
+S Gajnabi,West Indies,23,23,21,2,147,319,10,1,0,0,21,46.08,7.0
+S Glenn,England,7,7,4,3,68,84,4,0,0,0,22,80.95,17.0
+S Gokhale,United Arab Emirates,3,3,2,1,27,52,3,0,0,0,9,51.92,13.5
+S Hector,West Indies,2,2,2,0,24,33,2,0,0,0,13,72.73,12.0
+S Horley,Scotland,5,5,4,1,276,356,33,0,2,1,100,77.53,69.0
+S Immadi,United States of America,3,3,1,2,4,13,0,0,0,0,4,30.77,4.0
+S Ismail,South Africa,41,41,32,9,273,551,23,1,0,0,34,49.55,8.53
+S Jafta,South Africa,33,33,25,8,390,581,43,2,1,0,57,67.13,15.6
+S Jimmy,Papua New Guinea,8,8,8,0,118,198,12,0,1,0,57,59.6,14.75
+S Jora,Nepal,5,5,5,0,56,68,5,2,0,0,28,82.35,11.2
+S Joseph,West Indies,3,3,1,2,11,16,0,1,0,0,8,68.75,11.0
+S Jyoti,Canada,2,2,2,0,19,43,0,1,0,0,16,44.19,9.5
+S Kalyan,United Arab Emirates,4,4,4,0,55,128,1,1,0,0,21,42.97,13.75
+S Kaul,India,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+S Khiaoto,Thailand,5,5,5,0,106,147,10,0,1,0,59,72.11,21.2
+S Kotte,United Arab Emirates,2,2,2,0,1,9,0,0,0,0,1,11.11,0.5
+S Lackay,South Africa,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+S Lamichhane,Nepal,41,41,30,11,472,532,40,9,0,0,49,88.72,15.73
+S Laomi,Thailand,10,10,9,1,74,147,5,0,0,0,22,50.34,8.22
+S Loubser,South Africa,4,4,3,1,43,75,2,0,0,0,24,57.33,14.33
+S Luus,South Africa,111,111,94,17,2831,4062,278,17,19,2,114,69.69,30.12
+S MacMahon,Ireland,8,8,8,0,108,125,11,0,0,0,42,86.4,13.5
+S Mahmood,England,7,7,3,4,31,54,2,0,0,0,12,57.41,10.33
+S Mandhana,India,99,99,93,6,4728,5231,570,67,30,13,136,90.38,50.84
+S Matsikenyeri,Zimbabwe,78,78,72,6,1309,1968,131,10,5,0,86,66.51,18.18
+S Meghana,India,3,3,3,0,114,111,17,2,1,0,61,102.7,38.0
+S Molineux,Australia,11,11,9,2,96,118,9,2,0,0,26,81.36,10.67
+S Mostary,Bangladesh,26,27,20,7,441,698,50,3,2,0,66,63.18,22.05
+S Movva,Canada,22,22,16,6,468,743,30,4,3,0,68,62.99,29.25
+S Mukuddem,Bermuda,4,4,3,1,90,150,6,0,1,0,57,60.0,30.0
+S Muthusamy,South Africa,4,4,3,1,22,25,2,0,0,0,9,88.0,7.33
+S Naidu,South Africa,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+S Naik,India,4,4,3,1,25,39,1,0,0,0,24,64.1,8.33
+S Nisansala,Sri Lanka,5,5,3,2,20,30,1,0,0,0,17,66.67,6.67
+S Nitschke,Australia,2,2,2,0,81,84,12,1,1,0,81,96.43,40.5
+S Pandey,India,21,21,16,5,271,313,36,1,0,0,36,86.58,16.94
+S Prasanna,Sri Lanka,35,35,33,2,421,460,29,26,2,0,95,91.52,12.76
+S Qeshile,South Africa,1,1,1,0,22,24,3,0,0,0,22,91.67,22.0
+S Rana,India,28,28,21,7,403,470,45,2,1,0,53,85.74,19.19
+S Randiv,Sri Lanka,17,17,16,1,280,390,28,1,1,0,56,71.79,17.5
+S Samarawickrama,Sri Lanka,44,44,40,4,1268,1439,132,7,7,1,108,88.12,31.7
+S Sharma,India,1,1,1,0,4,10,0,0,0,0,4,40.0,4.0
+S Shrivastava,Oman,5,5,2,3,21,49,2,0,0,0,7,42.86,10.5
+S Siegers,Netherlands,5,5,3,2,11,19,0,0,0,0,5,57.89,3.67
+S Snater,Netherlands,2,2,1,1,21,13,1,1,0,0,17,161.54,21.0
+S Sreesanth,India,19,19,11,8,44,125,2,0,0,0,10,35.2,4.0
+S Sriharsha,United States of America,7,7,4,3,200,295,12,0,1,0,69,67.8,50.0
+S Sriram,India,1,1,1,0,3,5,0,0,0,0,3,60.0,3.0
+S Thuraisingam,Canada,4,4,3,1,26,47,3,1,0,0,13,55.32,8.67
+S Tippoch,Thailand,9,9,9,0,89,226,7,0,0,0,41,39.38,9.89
+S Tyagi,India,1,1,0,0,1,2,0,0,0,0,1,50.0,inf
+S Verma,India,15,15,13,2,135,217,11,1,0,0,41,62.21,10.38
+S Vesawkar,Nepal,3,3,2,1,62,140,5,0,1,0,55,44.29,31.0
+SA Abbott,Australia,21,21,19,2,374,397,32,13,2,0,69,94.21,19.68
+SA Campbelle,West Indies,71,71,64,7,1379,2287,126,6,4,1,105,60.3,21.55
+SA Edwards,Netherlands,58,58,49,9,1873,2120,136,17,17,0,83,88.35,38.22
+SA Engelbrecht,Netherlands,11,11,10,1,327,519,28,3,1,0,70,63.01,32.7
+SA Fritz,South Africa,5,5,3,2,28,52,4,0,0,0,16,53.85,9.33
+SA Millanta,Australia,2,2,0,0,15,19,3,0,0,0,15,78.95,inf
+SA Wijeratne,Canada,9,9,9,0,191,275,16,1,2,0,59,69.45,21.22
+SA Yadav,India,35,35,30,5,773,751,80,19,4,0,72,102.93,25.77
+SACA King,West Indies,9,9,8,1,126,233,8,1,0,0,38,54.08,15.75
+SB Bangar,India,3,3,3,0,8,19,1,0,0,0,4,42.11,2.67
+SB Styris,New Zealand,97,97,82,15,3184,3970,260,41,22,3,141,80.2,38.83
+SC Ganguly,India,74,74,67,7,2452,3498,231,44,16,3,112,70.1,36.6
+SC Getkate,Ireland,2,2,1,1,23,23,2,1,0,0,16,100.0,23.0
+SC Joseph,West Indies,5,5,5,0,77,153,6,1,1,0,58,50.33,15.4
+SC Kuggeleijn,New Zealand,1,1,0,0,11,6,1,0,0,0,11,183.33,inf
+SC Meaker,England,2,2,2,0,2,18,0,0,0,0,1,11.11,1.0
+SC Selman,West Indies,24,24,16,8,136,317,5,0,0,0,18,42.9,8.5
+SC Taylor,England,2,2,0,0,77,73,10,1,1,0,69,105.48,inf
+SC Williams,Zimbabwe,130,130,116,14,4351,4990,401,52,31,6,174,87.19,37.51
+SC van Schalkwyk,United States of America,9,9,8,1,138,236,12,3,1,0,58,58.47,17.25
+SCJ Broad,England,65,65,43,22,509,692,35,10,0,0,45,73.55,11.84
+SD Heazlett,Australia,1,1,1,0,4,11,0,0,0,0,4,36.36,4.0
+SD Hope,West Indies,135,137,117,20,5666,7078,460,113,28,18,170,80.05,48.43
+SD Outerbridge,Bermuda,9,9,9,0,72,147,7,0,0,0,42,48.98,8.0
+SD Udal,England,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+SDNS Karunaratne,Sri Lanka,2,2,2,0,17,14,3,0,0,0,13,121.43,8.5
+SE Aley,Australia,1,1,0,0,15,8,2,0,0,0,15,187.5,inf
+SE Bond,New Zealand,29,29,13,16,173,271,10,3,0,0,22,63.84,13.31
+SE Findlay,West Indies,4,4,3,1,88,140,9,2,1,0,59,62.86,29.33
+SE Marsh,Australia,71,71,67,4,2622,3318,231,31,15,6,131,79.02,39.13
+SE Rutherford,West Indies,20,21,18,3,743,745,62,36,7,1,113,99.73,41.28
+SEA Ruck,New Zealand,3,3,0,0,7,13,0,0,0,0,6,53.85,inf
+SF Burger,Namibia,2,2,2,0,11,20,1,0,0,0,6,55.0,5.5
+SF Daley,West Indies,12,12,11,1,141,240,14,2,0,0,37,58.75,12.82
+SF Mire,Zimbabwe,35,35,35,0,729,944,68,16,2,1,112,77.22,20.83
+SFM Devine,New Zealand,86,87,82,5,3085,3541,311,53,14,8,137,87.12,37.62
+SG Borthwick,England,2,2,2,0,18,16,1,1,0,0,15,112.5,9.0
+SG Satghare,India,1,1,0,0,2,3,0,0,0,0,2,66.67,inf
+SG Whittingham,Scotland,3,3,2,1,5,15,0,0,0,0,3,33.33,2.5
+SH Johnson,Australia,2,2,1,1,12,14,2,0,0,0,12,85.71,12.0
+SHT Kandamby,Sri Lanka,32,32,26,6,827,1198,68,0,5,0,93,69.03,31.81
+SI Galagedara,Sri Lanka,2,2,2,0,0,11,0,0,0,0,0,0.0,0.0
+SI Kamea,Papua New Guinea,14,14,7,7,18,55,2,0,0,0,5,32.73,2.57
+SI Mahmood,England,12,12,10,2,84,99,8,1,0,0,22,84.85,8.4
+SIP Fernando,Sri Lanka,9,9,6,3,15,60,1,0,0,0,11,25.0,2.5
+SIR Dunkley,England,44,44,41,3,1049,1327,102,4,6,1,107,79.05,25.59
+SJ Andrews,Australia,1,1,1,0,16,36,1,0,0,0,16,44.44,16.0
+SJ Baard,Namibia,17,17,17,0,326,567,31,3,2,0,73,57.5,19.18
+SJ Benn,West Indies,29,29,23,6,182,242,19,3,0,0,31,75.21,7.91
+SJ Bryce,Scotland,10,10,10,0,298,417,35,0,2,0,84,71.46,29.8
+SJ Cameron,Scotland,2,2,1,1,9,13,0,0,0,0,8,69.23,9.0
+SJ Coyte,Australia,8,8,7,1,154,233,18,1,1,0,51,66.09,22.0
+SJ Elliott,Australia,1,1,0,0,8,16,1,0,0,0,8,50.0,inf
+SJ Harmison,England,17,17,10,7,80,138,2,0,0,0,18,57.97,8.0
+SJ Massiah,United States of America,2,2,2,0,23,47,3,0,0,0,23,48.94,11.5
+SJ McGlashan,New Zealand,10,10,9,1,160,234,19,3,1,0,51,68.38,17.78
+SJ Modani,United States of America,33,33,33,0,898,1460,78,5,6,1,111,61.51,27.21
+SJ Myburgh,Netherlands,14,14,12,2,347,466,40,7,3,0,74,74.46,28.92
+SJ Swanepoel,Namibia,5,5,5,0,43,99,4,0,0,0,23,43.43,8.6
+SJ Taylor,England,51,51,48,3,1651,1932,193,1,9,2,147,85.46,34.4
+SJ Tsukigawa,New Zealand,1,1,1,0,39,70,4,1,0,0,39,55.71,39.0
+SK Atai,Papua New Guinea,12,12,9,3,90,184,6,0,0,0,25,48.91,10.0
+SK Dolawatte,Sri Lanka,3,3,3,0,16,56,1,0,0,0,8,28.57,5.33
+SK Naidu,India,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+SK Patel,United States of America,20,20,18,2,655,869,68,6,3,1,152,75.37,36.39
+SK Raina,India,190,190,156,34,5585,6147,475,120,36,5,116,90.86,35.8
+SK Springer,West Indies,2,2,2,0,18,27,1,1,0,0,12,66.67,9.0
+SK Warne,Australia,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+SKW Kelly,Bermuda,1,1,0,0,7,5,1,0,0,0,7,140.0,inf
+SL Kalis,Netherlands,5,5,5,0,106,240,10,0,1,0,54,44.17,21.2
+SL Malinga,Sri Lanka,106,106,78,28,508,701,41,19,1,0,56,72.47,6.51
+SL Quintyne,West Indies,7,7,6,1,117,204,13,1,0,0,40,57.35,19.5
+SL Stewart,New Zealand,4,4,4,0,26,59,2,0,0,0,14,44.07,6.5
+SM Benade,South Africa,4,4,3,1,100,128,12,0,0,0,41,78.12,33.33
+SM Boland,Australia,4,4,3,1,9,22,0,0,0,0,4,40.91,3.0
+SM Curran,England,30,30,27,3,632,713,42,22,2,0,95,88.64,23.41
+SM Davies,England,8,8,8,0,244,239,36,0,1,0,87,102.09,30.5
+SM Ervine,Zimbabwe,17,17,12,5,321,350,28,8,0,0,48,91.71,26.75
+SM Harwood,Australia,1,1,1,0,0,4,0,0,0,0,0,0.0,0.0
+SM Katich,Australia,31,31,26,5,1041,1517,112,4,7,1,107,68.62,40.04
+SM Kavanagh,Ireland,11,11,11,0,126,239,13,0,0,0,34,52.72,11.45
+SM Mayers,Zimbabwe,10,10,10,0,162,241,23,1,0,0,39,67.22,16.2
+SM Pollock,South Africa,67,67,45,22,1358,1469,113,24,6,1,130,92.44,30.18
+SM Sharif,Scotland,47,47,27,20,538,740,38,7,0,0,40,72.7,19.93
+SM Sharma,United Arab Emirates,9,9,5,4,130,138,7,5,0,0,44,94.2,26.0
+SM Warnapura,Sri Lanka,2,2,2,0,30,64,4,0,0,0,30,46.88,15.0
+SMA Priyanjan,Sri Lanka,20,20,18,2,420,533,47,3,2,0,74,78.8,23.33
+SMSM Senanayake,Sri Lanka,33,33,22,11,290,321,31,6,0,0,42,90.34,13.18
+SN Netravalkar,United States of America,31,31,14,17,145,241,12,2,0,0,19,60.17,10.36
+SN Thakur,India,24,24,19,5,329,321,31,9,1,0,50,102.49,17.32
+SO Dowrich,West Indies,1,1,1,0,6,8,1,0,0,0,6,75.0,6.0
+SO Hetmyer,West Indies,46,46,43,3,1414,1339,108,53,4,5,139,105.6,32.88
+SO Ngoche,Kenya,5,5,4,1,37,45,1,2,0,0,28,82.22,9.25
+SO Tikolo,Kenya,38,38,35,3,705,1097,75,6,4,0,89,64.27,20.14
+SP Fleming,New Zealand,66,66,62,4,2133,3036,259,30,14,3,134,70.26,34.4
+SP Jones,England,1,1,1,0,1,2,0,0,0,0,1,50.0,1.0
+SP Khakurel,Nepal,5,5,5,0,78,166,3,1,1,0,50,46.99,15.6
+SP Krishnamurthi,United States of America,12,12,10,2,270,279,16,12,1,0,61,96.77,27.0
+SP Narine,West Indies,42,42,33,9,363,455,36,12,0,0,36,79.78,11.0
+SP Patil,United Arab Emirates,8,8,7,1,153,295,13,0,1,0,57,51.86,21.86
+SP Terry,Ireland,2,2,2,0,16,18,3,0,0,0,16,88.89,8.0
+SP de Alwis,Sri Lanka,2,2,2,0,28,53,6,0,0,0,22,52.83,14.0
+SPD Smith,Australia,151,151,132,19,5668,6653,511,57,34,12,164,85.19,42.94
+SR Clark,Australia,11,11,5,6,69,90,6,1,0,0,16,76.67,13.8
+SR Hain,England,2,2,2,0,106,100,8,0,1,0,89,106.0,53.0
+SR Mukkamalla,United States of America,35,35,31,4,1244,1553,103,15,7,3,137,80.1,40.13
+SR Patel,England,22,22,15,7,482,532,37,12,1,0,70,90.6,32.13
+SR Patil,India,2,2,1,1,7,12,1,0,0,0,5,58.33,7.0
+SR Taylor,West Indies,120,120,114,6,3486,4994,343,42,22,3,114,69.8,30.58
+SR Tendulkar,India,144,144,135,9,6433,7616,774,60,37,16,200,84.47,47.65
+SR Thadani,United States of America,1,1,1,0,6,13,1,0,0,0,6,46.15,6.0
+SR Thompson,Ireland,11,11,10,1,178,198,17,3,0,0,39,89.9,17.8
+SR Waters,Kenya,7,7,7,0,67,147,7,0,0,0,17,45.58,9.57
+SR Watson,Australia,150,150,128,22,5357,5949,542,123,31,9,185,90.05,41.85
+SRH Curtis,New Zealand,8,8,6,2,156,234,11,0,1,0,50,66.67,26.0
+SS Connell,West Indies,33,33,15,18,114,229,12,0,0,0,15,49.78,7.6
+SS Cottrell,West Indies,17,17,8,9,88,135,6,4,0,0,17,65.19,11.0
+SS Grimmond,West Indies,6,6,5,1,48,60,3,2,0,0,34,80.0,9.6
+SS Iyer,India,69,69,64,5,2952,3083,273,72,23,5,128,95.75,46.12
+SS Kang,United Arab Emirates,4,4,3,1,31,107,1,0,0,0,14,28.97,10.33
+SS McKechnie,Hong Kong,6,6,6,0,73,142,4,0,0,0,29,51.41,12.17
+SS Pathirana,Sri Lanka,14,14,13,1,332,399,33,5,1,0,56,83.21,25.54
+SS Tiwary,India,2,2,0,0,49,57,5,1,0,0,37,85.96,inf
+SS Weerakkody,Sri Lanka,33,33,25,8,328,521,32,2,0,0,29,62.96,13.12
+SSB Magala,South Africa,5,5,3,2,18,25,2,0,0,0,6,72.0,6.0
+SSD Arachchige,Sri Lanka,3,3,3,0,89,134,6,0,1,0,57,66.42,29.67
+SSJ Brooks,West Indies,29,29,28,1,842,1150,69,16,4,1,101,73.22,30.07
+ST Doheny,Ireland,9,9,9,0,165,275,16,2,1,0,84,60.0,18.33
+ST Finn,England,27,27,17,10,136,228,11,3,0,0,35,59.65,8.0
+ST Gabriel,West Indies,11,11,7,4,22,58,1,0,0,0,12,37.93,3.14
+ST Jayasuriya,Sri Lanka,133,133,128,5,4414,4796,517,89,15,14,152,92.04,34.48
+STR Binny,India,11,11,8,3,230,252,23,5,1,0,77,91.27,28.75
+SV Bahutule,India,1,1,1,0,11,13,1,0,0,0,11,84.62,11.0
+SV Carlisle,Zimbabwe,6,6,6,0,110,249,5,0,0,0,36,44.18,18.33
+SV Samson,India,14,14,9,5,510,527,34,22,3,1,108,96.77,56.67
+SW Ambris,West Indies,15,15,13,2,473,505,54,3,2,1,148,93.66,36.38
+SW Bates,New Zealand,97,97,88,9,3343,4427,391,8,24,6,126,75.51,37.99
+SW Billings,England,22,22,20,2,690,768,73,8,5,1,118,89.84,34.5
+SW Currie,Scotland,2,2,2,0,10,19,1,0,0,0,5,52.63,5.0
+SW Masakadza,Zimbabwe,8,8,7,1,109,112,10,6,0,0,38,97.32,15.57
+SW Poynter,Ireland,7,7,6,1,74,102,7,0,0,0,36,72.55,12.33
+SW Tait,Australia,6,6,2,4,25,29,3,1,0,0,11,86.21,12.5
+SZ Thakor,India,6,6,6,0,46,102,5,0,0,0,29,45.1,7.67
+Saad Ali,Pakistan,2,2,2,0,11,23,0,0,0,0,7,47.83,5.5
+Saad Bin Zafar,Canada,25,25,21,4,356,483,32,4,0,0,35,73.71,16.95
+Saad Nasim,Pakistan,3,3,2,1,99,125,9,1,1,0,77,79.2,49.5
+Sabahat Rasheed,Pakistan,1,1,0,0,2,3,0,0,0,0,2,66.67,inf
+Sabbir Rahman,Bangladesh,55,55,48,7,1259,1395,147,21,5,1,102,90.25,26.23
+Sabir Ali,United Arab Emirates,3,3,2,1,12,13,2,0,0,0,7,92.31,6.0
+Sadaf Shamas,Pakistan,19,19,18,1,431,688,51,1,3,0,97,62.65,23.94
+Sadia Iqbal,Pakistan,19,19,11,8,47,95,4,0,0,0,8,49.47,4.27
+Sadia Yousuf,Pakistan,13,13,8,5,10,98,1,0,0,0,6,10.2,1.25
+Saeed Ajmal,Pakistan,66,66,46,20,323,539,25,0,0,0,33,59.93,7.02
+Saeed Anwar,Pakistan,5,5,4,1,218,318,19,1,0,1,101,68.55,54.5
+Sagar Pun,Nepal,1,1,1,0,3,20,0,0,0,0,3,15.0,3.0
+Sahibzada Farhan,Pakistan,1,1,1,0,27,38,4,0,0,0,27,71.05,27.0
+Saif Hassan,Bangladesh,4,5,4,1,95,111,6,7,1,0,80,85.59,23.75
+Saim Ayub,Pakistan,17,17,16,1,751,775,88,21,3,3,113,96.9,46.94
+Sajjida Shah,Pakistan,3,3,2,1,77,172,9,0,0,0,36,44.77,38.5
+Saleem Elahi,Pakistan,7,7,6,1,199,307,17,0,2,0,70,64.82,33.17
+Salma Khatun,Bangladesh,20,20,16,4,232,460,17,0,0,0,32,50.43,14.5
+Salman Butt,Pakistan,63,63,62,1,2186,2932,274,7,11,6,136,74.56,35.26
+Salman Faris,United Arab Emirates,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+Sami Aslam,Pakistan,4,4,4,0,78,123,9,0,0,0,45,63.41,19.5
+Sami Faridi,Canada,1,1,1,0,16,26,1,0,0,0,16,61.54,16.0
+Sana Javed,Pakistan,3,3,3,0,68,136,11,0,0,0,32,50.0,22.67
+Sana Mir,Pakistan,38,38,29,9,714,1380,61,0,3,0,52,51.74,24.62
+Sandeep Goud,Oman,28,28,21,7,535,766,32,22,3,0,67,69.84,25.48
+Sania Khan,Pakistan,2,2,1,1,4,12,0,0,0,0,2,33.33,4.0
+Sanjida Akter Meghla,Bangladesh,1,1,1,0,1,7,0,0,0,0,1,14.29,1.0
+Sanjida Islam,Bangladesh,8,8,8,0,93,226,9,0,0,0,35,41.15,11.62
+Sanwar Hossain,Bangladesh,9,9,8,1,115,203,9,0,0,0,27,56.65,14.38
+Saqib Ali,United Arab Emirates,2,2,2,0,29,53,2,0,0,0,19,54.72,14.5
+Saqib Zulfiqar,Netherlands,11,11,9,2,158,233,12,4,0,0,34,67.81,17.56
+Saqlain Haider,United Arab Emirates,3,3,3,0,30,40,4,0,0,0,12,75.0,10.0
+Saqlain Mushtaq,Pakistan,4,4,1,3,17,39,2,0,0,0,12,43.59,17.0
+Sarfraz Ahmed,Pakistan,89,89,67,22,2289,2673,174,12,11,2,105,85.63,34.16
+Saud Shakeel,Pakistan,14,14,13,1,374,455,40,1,4,0,68,82.2,28.77
+Shabbir Ahmed,Pakistan,6,6,3,3,6,15,0,0,0,0,2,40.0,2.0
+Shadab Khan,Pakistan,39,39,28,11,714,866,43,17,4,0,86,82.45,25.5
+Shafali Verma,India,32,32,31,1,745,918,91,9,5,0,87,81.15,24.03
+Shafiul Islam,Bangladesh,33,33,22,11,132,242,13,2,0,0,24,54.55,6.0
+Shahadat Hossain,Bangladesh,18,18,7,11,60,119,5,1,0,0,16,50.42,8.57
+Shahbaz Ahmed,India,1,1,1,0,0,4,0,0,0,0,0,0.0,0.0
+Shaheen Shah Afridi,Pakistan,35,35,20,15,270,313,24,11,0,0,25,86.26,13.5
+Shahid Afridi,Pakistan,185,185,168,17,3913,2987,341,177,15,3,124,131.0,23.29
+Shahid Ahmadzai,Canada,6,6,4,2,38,66,3,0,0,0,13,57.58,9.5
+Shahid Wasif,Hong Kong,6,6,6,0,60,138,5,2,0,0,45,43.48,10.0
+Shahnawaz Dhani,Pakistan,1,1,0,0,4,3,0,0,0,0,4,133.33,inf
+Shahriar Hossain,Bangladesh,1,1,1,0,0,3,0,0,0,0,0,0.0,0.0
+Shahriar Nafees,Bangladesh,52,52,50,2,1216,1817,163,2,5,2,123,66.92,24.32
+Shahzaib Hasan,Pakistan,3,3,3,0,100,118,13,2,1,0,50,84.75,33.33
+Shaila Sharmin,Bangladesh,7,7,5,2,59,98,8,0,0,0,21,60.2,11.8
+Shaiman Anwar,United Arab Emirates,30,30,30,0,947,1162,95,16,8,1,106,81.5,31.57
+Shakeel Ahmed,Oman,10,10,6,4,99,181,5,4,0,0,29,54.7,16.5
+Shakib Al Hasan,Bangladesh,200,200,175,25,6638,8133,620,51,52,8,124,81.62,37.93
+Shamim Hossain,Bangladesh,5,5,5,0,56,80,3,2,0,0,22,70.0,11.2
+Shamima Sultana,Bangladesh,14,14,14,0,304,540,35,1,2,0,53,56.3,21.71
+Shamsur Rahman,Bangladesh,9,9,9,0,266,357,23,9,2,0,96,74.51,29.56
+Shamyl Hussain,Pakistan,1,1,1,0,4,7,0,0,0,0,4,57.14,4.0
+Shan Masood,Pakistan,9,9,9,0,163,242,19,0,1,0,50,67.36,18.11
+Shariz Ahmad,Netherlands,17,17,15,2,159,291,11,0,0,0,30,54.64,10.6
+Sharjeel Khan,Pakistan,24,24,24,0,787,692,102,27,6,1,152,113.73,32.79
+Sharmin Akhter,Bangladesh,36,36,34,2,1121,1909,137,1,8,0,96,58.72,32.97
+Sharmin Sultana,Bangladesh,11,11,11,0,67,198,6,0,0,0,22,33.84,6.09
+Shathira Jakir,Bangladesh,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+Shawaal Zulfiqar,Pakistan,4,4,4,0,15,49,2,0,0,0,7,30.61,3.75
+Shayan Jahangir,United States of America,27,27,23,4,691,774,74,10,3,1,100,89.28,30.04
+Shivam Sharma,Canada,6,6,5,1,118,164,8,2,0,0,37,71.95,23.6
+Shoaib Akhtar,Pakistan,39,39,25,14,217,249,14,10,0,0,43,87.15,8.68
+Shoaib Khan,Oman,35,35,31,4,899,1118,86,15,7,1,105,80.41,29.0
+Shoaib Malik,Pakistan,206,206,176,30,5981,7309,475,93,37,5,128,81.83,33.98
+Shoriful Islam,Bangladesh,19,19,11,8,91,106,7,4,0,0,16,85.85,8.27
+Shorna Akter,Bangladesh,21,22,16,6,245,377,17,5,1,0,51,64.99,15.31
+Shubham Ranjane,United States of America,3,3,2,1,84,116,6,1,0,0,46,72.41,42.0
+Shubman Gill,India,61,61,53,8,2953,3065,335,63,17,8,208,96.35,55.72
+Shuvagata Hom,Bangladesh,3,3,2,1,70,88,9,0,0,0,35,79.55,35.0
+Sidra Ameen,Pakistan,69,69,63,6,2369,3648,244,2,13,6,176,64.94,37.6
+Sidra Nawaz,Pakistan,53,53,42,11,441,853,38,0,0,0,47,51.7,10.5
+Sikandar Raza,Zimbabwe,117,118,98,20,3662,4236,307,85,20,6,135,86.45,37.37
+Simandeep Singh,Hong Kong,1,1,1,0,0,7,0,0,0,0,0,0.0,0.0
+Simi Singh,Ireland,18,18,15,3,406,517,34,6,1,1,100,78.53,27.07
+Skhawat Ali,Hong Kong,3,3,3,0,18,60,2,0,0,0,10,30.0,6.0
+Sohag Gazi,Bangladesh,15,15,12,3,182,207,18,4,0,0,30,87.92,15.17
+Sohaib Maqsood,Pakistan,27,27,25,2,768,935,59,19,5,0,89,82.14,30.72
+Sohail Khan,Pakistan,6,6,5,1,25,52,2,0,0,0,7,48.08,5.0
+Sohail Tanvir,Pakistan,38,38,29,9,399,468,44,6,1,0,59,85.26,13.76
+Sompal Kami,Nepal,46,46,33,13,706,944,51,16,2,0,67,74.79,21.39
+Soumya Sarkar,Bangladesh,66,67,64,3,2187,2339,250,54,14,3,169,93.5,34.17
+Steven Ryan Taylor,United States of America,1,1,1,0,46,81,5,0,0,0,46,56.79,46.0
+Subashis Roy,Bangladesh,1,1,0,0,1,9,0,0,0,0,1,11.11,inf
+Sufiyan Muqeem,Pakistan,3,3,1,2,15,17,1,1,0,0,13,88.24,15.0
+Sufyan Mehmood,Oman,7,7,6,1,107,141,6,3,1,0,72,75.89,17.83
+Suhrawadi Shuvo,Bangladesh,10,10,7,3,98,138,9,1,0,0,20,71.01,14.0
+Sultan Ahmed,United Arab Emirates,2,2,2,0,18,44,2,0,0,0,11,40.91,9.0
+Sultana Khatun,Bangladesh,9,9,8,1,40,90,4,0,0,0,16,44.44,5.0
+Sultana Yesmin,Bangladesh,1,1,1,0,0,1,0,0,0,0,0,0.0,0.0
+Sumaiya Akter,Bangladesh,3,3,3,0,3,20,0,0,0,0,2,15.0,1.0
+Sumaiya Siddiqi,Pakistan,3,3,2,1,27,32,5,0,0,0,24,84.38,13.5
+Sunzamul Islam,Bangladesh,1,1,1,0,19,25,3,0,0,0,19,76.0,19.0
+Suraiya Azmin,Bangladesh,1,1,1,0,0,2,0,0,0,0,0,0.0,0.0
+Suraj Kumar,Oman,18,18,12,6,392,524,25,12,3,0,62,74.81,32.67
+Surya Tamang,Nepal,1,1,0,0,10,33,0,0,0,0,10,30.3,inf
+Syed Rasel,Bangladesh,22,22,13,9,76,168,7,0,0,0,15,45.24,5.85
+Syeda Aroob Shah,Pakistan,4,4,2,2,52,61,4,0,0,0,40,85.25,26.0
+T Banton,England,6,6,6,0,172,186,21,4,1,0,58,92.47,28.67
+T Bavuma,South Africa,49,49,46,3,1894,2187,188,26,7,5,144,86.6,41.17
+T Bhatia,India,11,11,9,2,138,205,13,0,1,0,68,67.32,15.33
+T Brits,South Africa,54,55,51,4,1814,2257,211,25,4,7,171,80.37,35.57
+T Chetty,South Africa,56,56,49,7,1414,2064,125,2,9,0,90,68.51,28.86
+T Duffin,Zimbabwe,9,9,9,0,224,492,24,0,1,0,88,45.53,24.89
+T Granger,Zimbabwe,3,3,3,0,38,58,3,0,0,0,20,65.52,12.67
+T Gwandu,Zimbabwe,3,3,1,2,6,15,0,0,0,0,3,40.0,6.0
+T Kaitano,Zimbabwe,11,11,10,1,157,264,18,2,0,0,42,59.47,15.7
+T Kamungozi,Zimbabwe,9,9,5,4,25,56,5,0,0,0,12,44.64,5.0
+T Lungameni,Namibia,15,15,9,6,46,108,2,0,0,0,12,42.59,5.11
+T Makusha,Zimbabwe,6,6,5,1,22,41,2,0,0,0,12,53.66,4.4
+T Maruma,Zimbabwe,15,15,14,1,122,225,8,4,0,0,35,54.22,8.71
+T Marumani,Zimbabwe,16,16,14,2,216,343,23,3,0,0,45,62.97,15.43
+T Mayes,Ireland,1,1,0,0,8,5,1,0,0,0,8,160.0,inf
+T Mishra,Kenya,15,15,13,2,395,564,33,4,4,0,72,70.04,30.38
+T Mufudza,Zimbabwe,1,1,1,0,1,9,0,0,0,0,1,11.11,1.0
+T Munyonga,Zimbabwe,8,8,6,2,145,208,10,2,0,0,43,69.71,24.17
+T Mupariwa,Zimbabwe,21,21,17,4,87,208,7,2,0,0,20,41.83,5.12
+T Muzarabani,Zimbabwe,6,6,3,3,10,32,1,0,0,0,5,31.25,3.33
+T Panyangara,Zimbabwe,38,38,32,6,192,389,17,3,0,0,33,49.36,6.0
+T Putthawong,Thailand,12,12,9,3,77,231,2,0,0,0,22,33.33,8.56
+T Ruma,Papua New Guinea,8,8,7,1,232,368,26,0,2,0,80,63.04,33.14
+T Sangha,Australia,3,3,1,2,6,20,0,0,0,0,5,30.0,6.0
+T Shamsi,South Africa,13,13,4,9,39,71,4,0,0,0,11,54.93,9.75
+T Stubbs,South Africa,12,12,11,1,361,423,17,9,3,1,112,85.34,32.82
+T Suri,United Arab Emirates,5,5,5,0,91,127,14,0,0,0,27,71.65,18.2
+T Taibu,Zimbabwe,100,100,86,14,2837,4237,196,32,21,2,107,66.96,32.99
+T Thushara,Sri Lanka,23,23,19,4,357,386,31,7,1,0,54,92.49,18.79
+T de Zorzi,South Africa,17,17,16,1,626,633,67,20,2,1,119,98.89,39.12
+T van der Gugten,Netherlands,8,8,6,2,116,170,5,4,0,0,49,68.24,19.33
+TA Blundell,New Zealand,12,12,9,3,266,309,28,2,2,0,68,86.08,29.56
+TA Boult,New Zealand,50,50,24,26,216,284,20,7,0,0,21,76.06,9.0
+TAM Siriwardana,Sri Lanka,24,24,23,1,516,539,39,13,3,0,66,95.73,22.43
+TB Robinson,New Zealand,3,3,3,0,48,49,7,0,0,0,35,97.96,16.0
+TB Sole,Scotland,6,6,5,1,38,37,7,0,0,0,20,102.7,7.6
+TBM de Leede,Netherlands,9,9,8,1,113,210,10,1,1,0,58,53.81,14.12
+TC Bastiampillai,Canada,5,5,5,0,89,163,11,2,0,0,49,54.6,17.8
+TC Bruce,Scotland,2,2,1,1,33,35,1,2,0,0,22,94.29,33.0
+TCB Fernando,Sri Lanka,3,3,1,2,18,39,0,0,0,0,14,46.15,18.0
+TD Astle,New Zealand,4,4,3,1,79,80,5,2,0,0,49,98.75,26.33
+TD Paine,Australia,34,34,32,2,861,1250,94,6,5,1,111,68.88,26.91
+TD Smartt,West Indies,11,11,6,5,40,65,0,1,0,0,10,61.54,6.67
+TG Gordon,Canada,4,4,4,0,23,58,2,0,0,0,9,39.66,5.75
+TG Norris,United States of America,3,3,2,1,59,58,8,0,0,0,31,101.72,29.5
+TG Southee,New Zealand,92,92,60,32,715,770,56,25,1,0,55,92.86,11.92
+TH David,Australia,4,4,4,0,45,56,3,3,0,0,35,80.36,11.25
+TJ Bishop,West Indies,1,1,1,0,0,6,0,0,0,0,0,0.0,0.0
+TJ Friend,Zimbabwe,7,7,7,0,132,175,14,2,1,0,82,75.43,18.86
+TJ Heggelman,Netherlands,2,2,2,0,23,71,0,0,0,0,22,32.39,11.5
+TJ Murtagh,Ireland,20,20,10,10,143,190,14,1,0,0,23,75.26,14.3
+TJG Pringle,Netherlands,4,4,4,0,6,14,0,0,0,0,6,42.86,1.5
+TK Canning,New Zealand,2,2,2,0,13,25,0,0,0,0,13,52.0,6.5
+TK Curran,England,16,16,8,8,303,332,29,5,0,0,47,91.27,37.88
+TK Musakanda,Zimbabwe,9,9,9,0,210,240,23,3,0,0,48,87.5,23.33
+TK Patel,United States of America,6,6,4,2,71,149,7,0,1,0,50,47.65,17.75
+TL Best,West Indies,13,13,7,6,72,114,7,0,0,0,24,63.16,10.29
+TL Chatara,Zimbabwe,45,45,22,23,176,369,15,2,0,0,23,47.7,8.0
+TL Chivanga,Zimbabwe,3,3,2,1,18,21,3,0,0,0,8,85.71,9.0
+TL Seifert,New Zealand,3,3,3,0,59,57,3,2,0,0,26,103.51,19.67
+TLW Cooper,Netherlands,18,18,17,1,576,776,60,4,5,0,74,74.23,33.88
+TM Dilshan,Sri Lanka,259,259,229,30,9212,10777,1022,50,42,21,161,85.48,40.23
+TM Dowlin,West Indies,10,10,9,1,228,362,20,1,1,1,100,62.98,25.33
+TM Head,Australia,74,74,69,5,2948,2860,340,72,16,7,154,103.08,42.72
+TM McGrath,Australia,40,40,32,8,837,965,108,3,5,0,74,86.74,26.16
+TM Odoyo,Kenya,35,35,30,5,830,1201,71,18,3,1,111,69.11,27.67
+TMK Mawoyo,Zimbabwe,7,7,7,0,58,166,4,0,0,0,15,34.94,8.29
+TMM Newton,New Zealand,6,6,6,0,38,79,2,0,0,0,16,48.1,6.33
+TN de Grooth,Netherlands,8,8,8,0,70,150,5,0,0,0,28,46.67,8.75
+TP Ura,Papua New Guinea,51,51,50,1,1196,1526,131,24,5,1,151,78.37,23.92
+TP Visee,Netherlands,3,3,3,0,72,66,12,2,0,0,41,109.09,24.0
+TR Ambrose,England,5,5,4,1,10,34,0,0,0,0,6,29.41,2.5
+TR Gripper,Zimbabwe,2,2,2,0,23,51,2,0,0,0,17,45.1,11.5
+TR Sadhu,India,3,3,3,0,9,26,0,0,0,0,4,34.62,3.0
+TS Chisoro,Zimbabwe,9,9,8,1,109,155,8,2,0,0,42,70.32,13.62
+TS Hasabnis,India,6,6,3,3,140,184,16,0,1,0,53,76.09,46.67
+TS Kamunhukamwe,Zimbabwe,12,12,12,0,131,169,15,5,1,0,51,77.51,10.92
+TS Nethula,New Zealand,3,3,2,1,12,11,1,0,0,0,9,109.09,6.0
+TS Roland-Jones,England,1,1,0,0,37,38,5,1,0,0,37,97.37,inf
+TS Sekhukhune,South Africa,9,9,6,3,41,107,3,0,0,0,17,38.32,6.83
+TSS Mackintosh,Scotland,9,9,8,1,169,203,17,1,0,0,38,83.25,21.12
+TT Beaumont,England,112,112,103,9,4400,5829,528,24,22,12,168,75.48,42.72
+TT Bresnan,England,63,63,44,19,871,984,89,7,1,0,80,88.52,19.8
+TT Samaraweera,Sri Lanka,30,30,20,10,669,914,63,0,0,2,105,73.19,33.45
+TV Mufambisi,Zimbabwe,4,4,4,0,45,71,6,0,0,0,21,63.38,11.25
+TW Hartley,England,1,1,0,0,12,9,1,0,0,0,12,133.33,inf
+TWM Latham,New Zealand,148,148,130,18,4383,5270,372,59,25,8,145,83.17,33.72
+Tabarak Dar,Hong Kong,2,2,2,0,45,95,5,0,0,0,24,47.37,22.5
+Taijul Islam,Bangladesh,10,10,8,2,89,137,8,1,0,0,39,64.96,11.12
+Talha Jubair,Bangladesh,1,1,0,0,4,8,1,0,0,0,4,50.0,inf
+Tamim Iqbal,Bangladesh,215,215,203,12,7648,9979,841,96,55,12,158,76.64,37.67
+Tanbir Hayder,Bangladesh,2,2,2,0,5,17,0,0,0,0,3,29.41,2.5
+Tanveer Ahmed,Hong Kong,3,3,0,0,4,12,0,0,0,0,2,33.33,inf
+Tanvir Ahmed,Pakistan,1,1,1,0,18,12,1,2,0,0,18,150.0,18.0
+Tanvir Islam,Bangladesh,4,4,3,1,26,38,4,1,0,0,9,68.42,8.67
+Tanwir Afzal,Hong Kong,12,12,10,2,161,182,13,8,0,0,47,88.46,16.1
+Tanzid Hasan,Bangladesh,22,22,21,1,566,541,71,20,5,0,84,104.62,26.95
+Tanzim Hasan Sakib,Bangladesh,9,9,6,3,134,162,9,6,0,0,45,82.72,22.33
+Tapash Baisya,Bangladesh,15,15,10,5,113,217,9,0,0,0,22,52.07,11.3
+Tareq Aziz,Bangladesh,1,1,0,0,2,11,0,0,0,0,2,18.18,inf
+Taskin Ahmed,Bangladesh,37,37,27,10,221,394,15,8,0,0,21,56.09,8.19
+Tasmia Rubab,Pakistan,1,1,1,0,6,3,1,0,0,0,6,200.0,6.0
+Tasqeen Qadeer,Pakistan,3,3,3,0,48,144,2,0,0,0,27,33.33,16.0
+Taufeeq Umar,Pakistan,11,11,10,1,262,504,33,0,1,0,81,51.98,26.2
+Tayyab Tahir,Pakistan,10,10,8,2,181,185,18,3,0,0,38,97.84,22.62
+Tharika Sewwandi,Sri Lanka,1,1,1,0,1,3,0,0,0,0,1,33.33,1.0
+Theertha Satish,United Arab Emirates,8,8,7,1,219,382,23,0,1,0,66,57.33,31.29
+Tilak Varma,India,4,4,3,1,68,125,6,1,1,0,52,54.4,22.67
+Towhid Hridoy,Bangladesh,30,30,28,2,1060,1347,65,23,9,1,100,78.69,37.86
+Tuba Hassan,Pakistan,4,4,3,1,49,59,6,0,0,0,25,83.05,16.33
+Tushar Imran,Bangladesh,21,21,21,0,250,477,27,1,0,0,48,52.41,11.9
+U Bhagwan,Canada,2,2,1,1,26,28,2,1,0,0,20,92.86,26.0
+U Bhatti,Canada,8,8,6,2,120,131,10,3,0,0,22,91.6,20.0
+U Raymond-Hoey,Ireland,8,8,7,1,74,124,5,0,0,0,22,59.68,10.57
+U Thimashini,Sri Lanka,1,1,1,0,2,6,0,0,0,0,2,33.33,2.0
+UCKA Dona,United Arab Emirates,4,4,4,0,88,186,8,0,1,0,56,47.31,22.0
+UDU Chandana,Sri Lanka,20,20,16,4,261,397,19,2,1,0,51,65.74,16.31
+UT Khawaja,Australia,38,38,36,2,1539,1865,149,13,12,2,104,82.52,42.75
+UT Yadav,India,21,21,10,11,79,136,8,1,0,0,18,58.09,7.9
+UWMBCA Welegedara,Sri Lanka,3,3,1,2,4,9,0,0,0,0,2,44.44,4.0
+Umaima Sohail,Pakistan,40,40,34,6,766,1213,82,0,3,0,65,63.15,22.53
+Umair Ali,United Arab Emirates,1,1,1,0,10,11,0,1,0,0,10,90.91,10.0
+Umar Akmal,Pakistan,108,108,93,15,3032,3626,257,48,19,1,102,83.62,32.6
+Umar Amin,Pakistan,16,16,15,1,271,408,28,2,1,0,59,66.42,18.07
+Umar Gul,Pakistan,62,62,46,16,442,648,35,13,0,0,39,68.21,9.61
+Umm-e-Hani,Pakistan,12,12,12,0,44,98,2,0,0,0,11,44.9,3.67
+Umran Malik,India,3,3,1,2,2,11,0,0,0,0,2,18.18,2.0
+Urooj Mumtaz,Pakistan,3,3,3,0,35,99,3,0,0,0,26,35.35,11.67
+Usama Mir,Pakistan,4,4,4,0,38,30,2,3,0,0,20,126.67,9.5
+Usman Khan,Pakistan,1,1,1,0,39,33,4,2,0,0,39,118.18,39.0
+Usman Khan (2),Pakistan,1,1,1,0,12,18,1,0,0,0,12,66.67,12.0
+Usman Limbada,Canada,4,4,4,0,123,193,12,1,1,0,50,63.73,30.75
+Usman Rafiq,United States of America,2,2,1,1,28,42,4,0,0,0,28,66.67,28.0
+Usman Salahuddin,Pakistan,2,2,2,0,13,28,0,0,0,0,8,46.43,6.5
+Usman Shinwari,Pakistan,4,4,3,1,6,7,0,1,0,0,6,85.71,2.0
+Utkarsh Srivastava,United States of America,2,2,2,0,75,75,6,1,1,0,67,100.0,37.5
+V Araa,Papua New Guinea,7,7,6,1,71,179,4,0,0,0,21,39.66,11.83
+V Aravind,United Arab Emirates,63,63,60,3,1865,2785,180,16,9,2,115,66.97,31.08
+V Buruka,Papua New Guinea,4,4,1,3,0,8,0,0,0,0,0,0.0,0.0
+V Kohli,India,296,296,251,45,14675,15958,1366,170,75,54,183,91.96,58.47
+V Krishnamurthy,India,22,22,19,3,410,475,49,4,3,0,70,86.32,21.58
+V Permaul,West Indies,4,4,3,1,19,28,1,0,0,0,10,67.86,6.33
+V Sehwag,India,165,165,163,2,5763,5649,769,107,27,10,219,102.02,35.36
+V Shankar,India,7,7,6,1,194,210,18,4,0,0,46,92.38,32.33
+V Shetty,United Arab Emirates,1,1,1,0,7,17,0,0,0,0,7,41.18,7.0
+V Shukla,Oman,7,7,6,1,144,172,6,7,0,0,46,83.72,24.0
+V Sibanda,Zimbabwe,97,97,95,2,2125,3467,235,25,14,1,103,61.29,22.37
+V Sukumaran,United Arab Emirates,10,10,10,0,194,314,16,6,1,0,97,61.78,19.4
+VAB Tewarie,Netherlands,1,1,1,0,4,22,0,0,0,0,4,18.18,4.0
+VB van Jaarsveld,South Africa,2,2,2,0,9,16,0,0,0,0,5,56.25,4.5
+VC Drakes,West Indies,9,9,7,2,58,124,3,0,0,0,25,46.77,8.29
+VCE Wattenberg,Netherlands,2,2,2,0,0,3,0,0,0,0,0,0.0,0.0
+VD Philander,South Africa,18,18,12,6,151,219,14,0,0,0,30,68.95,12.58
+VJ Kingma,Netherlands,10,10,7,3,15,48,0,1,0,0,9,31.25,2.14
+VM Nyauchi,Zimbabwe,5,5,6,-1,43,53,5,1,0,0,26,81.13,7.17
+VR Aaron,India,3,3,1,2,8,15,1,0,0,0,6,53.33,8.0
+VR Iyer,India,2,2,2,0,24,41,0,1,0,0,22,58.54,12.0
+VR Vanitha,India,2,2,2,0,50,64,8,0,0,0,27,78.12,25.0
+VRV Singh,India,1,1,1,0,8,13,1,0,0,0,8,61.54,8.0
+VS Solanki,England,33,33,30,3,829,1194,105,4,5,1,106,69.43,27.63
+VV Morea,Papua New Guinea,8,8,8,0,142,228,13,1,1,0,52,62.28,17.75
+VVS Laxman,India,27,27,24,3,828,1142,80,1,1,4,107,72.5,34.5
+Vaishnave Mahesh,United Arab Emirates,6,6,5,1,75,143,4,0,0,0,22,52.45,15.0
+Vaishnavi Sharma,India,1,1,0,0,10,5,2,0,0,0,10,200.0,inf
+Vikramjit Singh,Netherlands,45,45,44,1,1304,1872,143,16,8,1,110,69.66,29.64
+W Barresi,Netherlands,37,37,34,3,882,1184,97,12,3,1,137,74.49,25.94
+W Jaffer,India,2,2,2,0,10,23,2,0,0,0,10,43.48,5.0
+W Madhevere,Zimbabwe,34,34,34,0,751,973,70,5,6,0,72,77.18,22.09
+W Mwayenga,Zimbabwe,2,2,2,0,1,11,0,0,0,0,1,9.09,0.5
+W O'Rourke,New Zealand,4,4,2,2,6,17,0,0,0,0,3,35.29,3.0
+W Sutherland,Australia,1,1,1,0,18,33,0,0,0,0,18,54.55,18.0
+WA Agar,Australia,2,2,2,0,50,43,4,2,0,0,41,116.28,25.0
+WA Young,New Zealand,54,54,49,5,1769,2108,198,25,10,4,120,83.92,36.1
+WB Rankin,Ireland,20,20,7,13,78,183,3,1,0,0,18,42.62,11.14
+WCA Ganegama,Sri Lanka,1,1,1,0,7,8,1,0,0,0,7,87.5,7.0
+WD Balaji Rao,Canada,5,5,5,0,22,43,2,0,0,0,9,51.16,4.4
+WD Parnell,South Africa,42,42,28,14,574,743,43,9,1,0,56,77.25,20.5
+WF Stelling,Netherlands,2,2,0,0,40,39,2,2,0,0,39,102.56,inf
+WG Jacks,England,21,21,19,2,629,619,56,20,4,0,94,101.62,33.11
+WGAKK Kulasuriya,Sri Lanka,21,21,17,4,99,226,13,0,0,0,17,43.81,5.82
+WIA Fernando,Sri Lanka,47,47,47,0,1405,1657,147,23,7,4,127,84.79,29.89
+WK Dilhari,Sri Lanka,36,36,30,6,779,1012,65,6,3,0,84,76.98,25.97
+WK McCallan,Ireland,13,13,11,2,101,176,9,0,0,0,25,57.39,9.18
+WP Masakadza,Zimbabwe,22,22,18,4,239,382,21,2,0,0,40,62.57,13.28
+WP Myburgh,Namibia,1,1,1,0,0,4,0,0,0,0,0,0.0,0.0
+WP Saha,India,5,5,3,2,41,59,5,0,0,0,16,69.49,13.67
+WPUJC Vaas,Sri Lanka,70,70,51,19,579,860,44,3,0,0,37,67.33,11.35
+WS Jayantha,Sri Lanka,9,9,9,0,206,322,24,1,1,0,51,63.98,22.89
+WT Gavera,Papua New Guinea,1,1,0,0,4,6,1,0,0,0,4,66.67,inf
+WTS Porterfield,Ireland,89,89,89,0,2670,3962,274,27,15,6,139,67.39,30.0
+WU Tharanga,Sri Lanka,206,206,189,17,6482,8845,742,52,36,14,174,73.28,34.3
+WW Hinds,West Indies,38,38,33,5,1066,1626,90,21,3,4,127,65.56,32.3
+Wahab Riaz,Pakistan,65,65,51,14,725,863,54,29,3,0,54,84.01,14.22
+Waheed Ahmed,United Arab Emirates,6,6,5,1,73,131,8,2,0,0,23,55.73,14.6
+Waqar Younis,Pakistan,4,4,4,0,17,25,1,0,0,0,8,68.0,4.25
+Waqas Barkat,Hong Kong,4,4,3,1,25,54,2,0,0,0,14,46.3,8.33
+Waqas Khan,Hong Kong,4,4,3,1,52,106,3,0,0,0,35,49.06,17.33
+Waseem Muhammad,United Arab Emirates,65,65,65,0,1698,1979,141,81,9,1,119,85.8,26.12
+Washington Sundar,India,20,20,18,2,372,459,25,11,1,0,51,81.05,20.67
+Wasim Akram,Pakistan,5,5,3,2,71,72,10,1,0,0,33,98.61,23.67
+Wasim Ali,Oman,6,6,4,2,54,95,6,2,0,0,24,56.84,13.5
+XC Bartlett,Australia,2,2,2,0,11,15,0,1,0,0,8,73.33,5.5
+XJ Doherty,Australia,22,22,7,15,101,188,5,1,0,0,15,53.72,14.43
+XM Marshall,United States of America,26,26,25,1,379,677,41,4,1,0,50,55.98,15.16
+Y Cariah,West Indies,7,7,6,1,93,167,6,1,1,0,52,55.69,15.5
+Y Fourie,South Africa,3,3,2,1,1,8,0,0,0,0,1,12.5,0.5
+Y Punja,United Arab Emirates,1,1,1,0,1,7,0,0,0,0,1,14.29,1.0
+Y Venugopal Rao,India,8,8,7,1,161,257,12,2,1,0,61,62.65,23.0
+Y van der Westhuizen,South Africa,2,2,2,0,23,39,2,0,0,0,20,58.97,11.5
+YBK Jaiswal,India,4,4,3,1,171,208,19,4,0,1,116,82.21,57.0
+YH Bhatia,India,27,27,27,0,666,953,78,2,4,0,64,69.88,24.67
+YK Pathan,India,41,41,30,11,810,736,62,43,3,2,123,110.05,27.0
+YS Chahal,India,14,14,9,5,77,144,8,0,0,0,18,53.47,8.56
+YS Samra,Canada,6,6,7,-1,172,262,19,5,1,0,53,65.65,24.57
+Yasir Ali Chowdhury,Bangladesh,5,5,5,0,101,106,8,4,1,0,50,95.28,20.2
+Yasir Arafat,Pakistan,5,5,3,2,64,103,7,1,0,0,27,62.14,21.33
+Yasir Hameed,Pakistan,39,39,39,0,1459,2225,159,4,10,2,116,65.57,37.41
+Yasir Mohammad,United States of America,2,2,2,0,5,20,0,0,0,0,3,25.0,2.5
+Yasir Shah,Pakistan,12,12,7,5,127,153,9,1,0,0,32,83.01,18.14
+Younis Khan,Pakistan,168,168,159,9,4777,6411,388,36,32,5,123,74.51,30.04
+Yousuf Youhana,Pakistan,53,53,45,8,1740,2208,126,20,15,2,107,78.8,38.67
+Yuvraj Singh,India,209,209,176,33,6932,8102,729,133,42,12,150,85.56,39.39
+Z Crawley,England,9,9,8,1,205,219,24,2,2,0,58,93.61,25.62
+Z Groenewald,Namibia,2,2,1,1,4,19,0,0,0,0,3,21.05,4.0
+Z James,West Indies,23,23,22,1,228,515,22,1,0,0,45,44.27,10.36
+Z Khan,India,59,59,43,16,531,758,47,16,0,0,34,70.05,12.35
+Z Mali,South Africa,2,2,1,1,2,7,0,0,0,0,2,28.57,2.0
+ZB Lion-Cachet,Netherlands,10,10,10,0,200,284,16,1,1,0,78,70.42,20.0
+ZE Green,Namibia,40,40,37,3,851,1174,90,9,3,0,75,72.49,23.0
+ZE Surkari,Canada,8,8,7,1,127,299,7,0,0,0,34,42.47,18.14
+ZGF Foulkes,New Zealand,5,5,2,3,49,59,6,0,0,0,22,83.05,24.5
+Zafar Gohar,Pakistan,1,1,1,0,15,15,0,1,0,0,15,100.0,15.0
+Zaheer Maqsood,United Arab Emirates,1,1,0,0,5,10,1,0,0,0,5,50.0,inf
+Zahid Ali,United Arab Emirates,3,3,1,2,16,25,1,0,0,0,11,64.0,16.0
+Zahid Hussain,Canada,2,2,1,1,9,31,1,0,0,0,7,29.03,9.0
+Zahid Mahmood,Pakistan,2,2,1,1,9,12,0,1,0,0,9,75.0,9.0
+Zahid Shah,United Arab Emirates,2,2,0,0,11,20,2,0,0,0,6,55.0,inf
+Zahoor Khan,United Arab Emirates,38,38,22,16,143,259,10,4,0,0,23,55.21,6.5
+Zain Abbas,Hong Kong,1,1,1,0,26,55,2,0,0,0,26,47.27,26.0
+Zakir Hasan,Bangladesh,1,1,1,0,1,5,0,0,0,0,1,20.0,1.0
+Zawar Farid,United Arab Emirates,8,8,7,1,132,145,15,4,0,0,32,91.03,18.86
+Zeeshan Maqsood,Oman,45,45,40,5,1196,1855,101,15,6,2,109,64.47,29.9
+Zeeshan Siddiqi,Canada,1,1,1,0,7,21,1,0,0,0,7,33.33,7.0
+Ziaur Rahman,Bangladesh,10,10,10,0,83,91,9,3,0,0,22,91.21,8.3
+Zubayr Hamza,South Africa,1,1,1,0,56,82,5,1,1,0,56,68.29,56.0
+Zuhaib Zubair,United Arab Emirates,3,3,3,0,38,41,3,1,0,0,31,92.68,12.67
+Zulfiqar Babar,Pakistan,5,5,2,3,35,40,2,1,0,0,14,87.5,17.5
+Zulqarnain Haider,Pakistan,4,4,2,2,48,70,3,0,0,0,19,68.57,24.0
